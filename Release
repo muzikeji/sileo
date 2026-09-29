@@ -1,27 +1,22 @@
-Origin: muzikeji
-Label: muzikeji
+Origin: Muzi Sileo Repo
+Label: Muzi
 Suite: stable
 Version: 1.0
-Codename: muzikeji
+Codename: muzi
+Date: Tue, 29 Sep 2026 12:39:54 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: MUtool & tools
-Date: Tue, 29 Sep 2026 11:43:47 UTC
+Description: Muzi package repository
+
 MD5Sum:
- 12c0debd8fcf491f0c8cf463efb3fac9 359509 Packages
- a12d86c22d09ea1edf9125a63e5775e9 27241 Packages.bz2
- 221b9fa2f02edea5577c50d389bcf7b6 34622 Packages.gz
- 53a0d18cb130669f2706562b2555c779 26756 Packages.xz
- e5df522b16a51f3b2c630dde5a8a7527 29660 Packages.zst
-SHA1:
- 4783c39e7513af77ee1855518eae2b61bd877d46 359509 Packages
- 296f7be20ef7b46493773f1401035861c6a906bd 27241 Packages.bz2
- 92dca8a7cfb5487d407bee852ad58c6c4046a5c2 34622 Packages.gz
- ef78919a15d897459d68fa40900a5e98cad3f79a 26756 Packages.xz
- a61da1590082327c5c8ab015ec15c1b0b761d7ee 29660 Packages.zst
+ 8b489e9bcade2c2c1c05753a0a98e732 341774 Packages
+ 063eb5e6fd5fd57543c20584ba21833f 24972 Packages.gz
+ af9097a38667db949bc5bb6b41e3a2d8 20691 Packages.bz2
+ 93d8d99d45a4c77ad86df31f7bf935ae 20216 Packages.xz
+ a8ef36fdf37582edd7f285312c11a4e0 22417 Packages.zst
 SHA256:
- 0e9079eb65507e0332f87717c9b71142fc04099a8325e1610a34d5f7920fd524 359509 Packages
- 9c60578cbbc59fbe7845e6a7f6eb93fb9c255592701adfee28ca8da14ab1aaa1 27241 Packages.bz2
- cd5638a43bcc80a60f763f73114307ebf8b29940442a7e79b4feb1260eca3a40 34622 Packages.gz
- d00c978d410edd9d84d82566d495b29146fe7bf3a96398f7f87d67c1c99dcf3c 26756 Packages.xz
- 4589e03e1ebe4dd32f40b8ddf089e48378e148e5cc996ae7738bcb5c4f31b8dd 29660 Packages.zst
+ 188c1adf5f5db0bc334dd4e195397f766c7f3e912b0abd5f4b49723413767753 341774 Packages
+ 4e06e6e942a91e3dc55f63fbdb90437a06414e28b5ddb21ccb4df93ea758ad9f 24972 Packages.gz
+ 6fd0c448a266505b90d964b7e6d69fce02276ac836e697bb93a1a79f50b31aef 20691 Packages.bz2
+ 176df405734562078af8fd6d686ec259d7091fc9b9f66ff747943a20b30e54f9 20216 Packages.xz
+ 6c2d59fccbeb7ca141336fa49409fac9159f9b1d550a99f1ebdad04b555407cf 22417 Packages.zst
