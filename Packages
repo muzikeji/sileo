@@ -4276,6 +4276,38 @@ Section: Tweaks
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/sileo/icons/com.muzi.mutool.png
 
+Package: com.muzi.mutool
+Version: 2.1.11
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.11_iphoneos-arm64.deb
+Size: 644422
+MD5sum: 09100b27ea4ecf39a92776c04c297cb7
+SHA256: 775158a7f8bc090143c836a627136c8c88eab6ae7f3e54ea421c385b5fd75fe4
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.11
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.11_iphoneos-arm64e.deb
+Size: 639208
+MD5sum: 46af884253f8ceff82c78ddf4dad3aa7
+SHA256: 4b197ef13569dfb85fd9789e8c9f0238ed2e98a77a102b58ea707712e48b4041
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/com.muzi.mutool.png
+
 Package: com.muzi.mutoollite
 Version: 1.0.1
 Architecture: iphoneos-arm64
