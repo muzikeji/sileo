@@ -4281,9 +4281,9 @@ Version: 2.1.11
 Architecture: iphoneos-arm64
 Maintainer: Muzi
 Filename: rootless/com.muzi.mutool_2.1.11_iphoneos-arm64.deb
-Size: 645584
-MD5sum: 0c2cf2fd957cca5eee85faf0e2e6d792
-SHA256: d140a9a41b7838c7cdbccbcbe3fc893753931204fa315137e35713354e793528
+Size: 645508
+MD5sum: 8c4e5936c969310e57bcb8ea7a8fbcb5
+SHA256: 267f57b1cccd796fe18b12d675aea024aefac805412a21ffee3c886397bc283e
 Name: MUtool(rootless)
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
@@ -4297,9 +4297,9 @@ Version: 2.1.11
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Filename: roothide/com.muzi.mutool_2.1.11_iphoneos-arm64e.deb
-Size: 642246
-MD5sum: 4b9adefe7f44e74cccab995599942959
-SHA256: e23564ba11c51618cede9043d3c09283174599a02c081ef71e0d5e42edf01aae
+Size: 638982
+MD5sum: 83b3f93fa7dd28a2d705a9bb067ea837
+SHA256: f2374852c316b8cf24c42f2a50ce3fef7164f35e93db308a4ce1fd8ea737f573
 Name: MUtool(roothide)
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
