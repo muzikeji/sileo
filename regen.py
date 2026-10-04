@@ -21,8 +21,8 @@ def parse_control(deb_path):
     """Run dpkg-deb -f to extract control fields."""
     out = subprocess.run(
         ['dpkg-deb', '-f', str(deb_path), 'Package', 'Version', 'Architecture',
-         'Maintainer', 'Name', 'Description', 'Depiction', 'Icon', 'Tag',
-         'Depends', 'Conflicts', 'Replaces', 'Section'],
+         'Maintainer', 'Name', 'Description', 'Depiction', 'SileoDepiction',
+         'Icon', 'Tag', 'Depends', 'Conflicts', 'Replaces', 'Section'],
         capture_output=True, text=True, check=True,
     ).stdout
     fields = {}
@@ -57,14 +57,26 @@ def control_block(deb_path, fields, size, md5, sha256, filename):
         parts.append(f'Section: {fields["Section"]}')
     # icon + depiction: derive from package id
     pkg = fields['Package']
+    # SileoDepiction：Sileo 优先用它显示原生 JSON 包简介；包内已声明则用包内地址
+    if 'SileoDepiction' in fields and fields['SileoDepiction']:
+        parts.append(f'SileoDepiction: {fields["SileoDepiction"]}')
+    else:
+        parts.append(f'SileoDepiction: {DEPICTION_URL}/{pkg}.json')
     parts.append(f'Depiction: {DEPICTION_URL}/{pkg}.json')
     # Icon name: special-case the DuoStatusBar icon name (does NOT follow
-    # the default com.duo.* → strip prefix convention)
-    if pkg == 'com.duo.statusbar':
-        icon_name = 'duostatusbar.png'
+    # the default com.duo.* → strip prefix convention). 其余包按包内 control
+    # 声明的 Icon（若有）原样输出，避免派生规则拼出 404 路径。
+    icon_field = fields.get('Icon', '').strip()
+    if icon_field:
+        parts.append(f'Icon: {icon_field}')
     else:
-        icon_name = pkg.replace('com.duo.', '') + '.png'
-    parts.append(f'Icon: {ICON_URL}/{icon_name}')
+        if pkg == 'com.duo.statusbar':
+            icon_name = 'duostatusbar.png'
+        elif pkg.startswith('com.muzi.'):
+            icon_name = pkg.replace('com.muzi.', '') + '.png'
+        else:
+            icon_name = pkg.replace('com.duo.', '') + '.png'
+        parts.append(f'Icon: {ICON_URL}/{icon_name}')
     return '\n'.join(parts) + '\n'
 
 
@@ -124,7 +136,7 @@ def main():
                                          capture_output=True, text=True).stdout.strip(),
                'Architectures: iphoneos-arm64 iphoneos-arm64e',
                'Components: main',
-               'Description: Muzi package repository',
+               'Description: MUtool 多功能工具集越狱源。灵动岛电池胶囊、悬浮信息药丸、状态栏图标分色与 VPN 变色、充电限制与智能温度停充、温控调校、通话自动录音、录屏增强、定时任务、自动禁用 SIM、三合一状态栏、电池健康等。支持 rootless / roothide，iOS 15-17。',
                '']
     release.append('MD5Sum:')
     for name in ['Packages', 'Packages.gz', 'Packages.bz2', 'Packages.xz', 'Packages.zst']:
