@@ -48,6 +48,21 @@
           "class": "DepictionTableTextView",
           "text": "2026年10月05日",
           "title": "更新日期"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0463.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0464.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0465.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0466.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0467.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0468.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0469.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0470.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0471.JPG",
+            "https://muzikeji.github.io/sileo/depictions/images/IMG_0472.JPG"
+          ]
         }
       ]
     },
