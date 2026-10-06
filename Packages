@@ -470,6 +470,40 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
 Icon: https://muzikeji.github.io/sileo/icons/mupill.png
 
+Package: com.muzi.mupill
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.1_iphoneos-arm64.deb
+Size: 253132
+MD5sum: 33f3f3b0bea49bb45f82f16939fffe05
+SHA256: 92cbc9c2f36734ea1a26c8c8b6082dac7a8857ad28afec1f6897e0e2b02910e5
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.1_iphoneos-arm64e.deb
+Size: 249408
+MD5sum: 0131d7f42b1787e0082c908cb19cec31
+SHA256: 04a9cb2865f5b2c2db596bde5f084b04f348a89f3dcbc4f181df900b50a3f8a7
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
 Package: com.muzi.mutescheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
