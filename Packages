@@ -30,6 +30,38 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.huayuarc.cputher
 Depiction: https://muzikeji.github.io/sileo/depictions/com.huayuarc.cputhermal.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.huayuarc.cputhermal.png
 
+Package: com.johndie.triggr
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: John d_ie
+Filename: rootless/com.johndie.triggr_1.0.3_iphoneos-arm64.deb
+Size: 87024
+MD5sum: 2d43118144d19158c4744b5306978c65
+SHA256: 7c837cd33f39773ca9bcd5f7ade25cafe92dbf87df086eaf02f38fda8e6fe4b1
+Name: Triggr
+Description: 面向 rootless Dopamine 的 Activator 精简版：把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。支持 A12 及更新机型（arm64e）。
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
+
+Package: com.johndie.triggr
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: John d_ie
+Filename: roothide/com.johndie.triggr_1.0.3_iphoneos-arm64e.deb
+Size: 88470
+MD5sum: bbaf93b9aa77362583465bc6fea14b4a
+SHA256: 2ab7a4675c6f2bad3ac5943f3d1d5df720e78abbbbf22300cbe383d44c209426
+Name: Triggr
+Description: 面向 rootless Dopamine 的 Activator 精简版：把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。支持 A12 及更新机型（arm64e）。
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
