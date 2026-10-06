@@ -441,9 +441,9 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Muzi
 Filename: rootless/com.muzi.mupill_1.0.0_iphoneos-arm64.deb
-Size: 252354
-MD5sum: 8f77a4fc63a08f678f7dee0ef3c51b1f
-SHA256: 2422bb4f9a8be6d07b29b716f86d28610447cdfdf30483e12bb405709c2cb3b1
+Size: 252844
+MD5sum: b30161863dfff93c21ec1946a99ae291
+SHA256: d325917e669246a1a6879455c29e7899446391393a88b1633512985d59563581
 Name: 悬浮药丸独立版(rootless)
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
@@ -458,9 +458,9 @@ Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Filename: roothide/com.muzi.mupill_1.0.0_iphoneos-arm64e.deb
-Size: 249270
-MD5sum: 9b7b2716108142136a3d026010cae8c4
-SHA256: 555135673b5640e278e6d82e1e0731726eaae5c3741106d5d9e0a876b3cf9ae4
+Size: 249734
+MD5sum: 0b133dc8ab8abe3744e1d71e12d34d3f
+SHA256: 0bf73c7b73857f7385db0a27ed10b8f4fefb6518a54aade022ea42b7a79f3d82
 Name: 悬浮药丸独立版(roothide)
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
