@@ -5093,6 +5093,40 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/sileo/icons/mutool.png
 
+Package: com.muzi.mutool
+Version: 2.1.66
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.66_iphoneos-arm64.deb
+Size: 687072
+MD5sum: 4ba56def62220a88b3fdf2caa302ebd7
+SHA256: c817ddb209e70aa3faf87aba5e1e187140507a13f6d421618f7ebd9457c329f1
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.66
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.66_iphoneos-arm64e.deb
+Size: 682558
+MD5sum: 9cd9840ce3ea138284e1963b058a5b5e
+SHA256: 1be4e8ed2ddde709188f3b0a99ec5c867686c519e067456303488deadce0f739
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
 Package: com.muzi.mutoollite
 Version: 1.0.1
 Architecture: iphoneos-arm64
