@@ -62,6 +62,38 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.j
 Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
 Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
 
+Package: com.johndie.triggr
+Version: 1.0.4.1
+Architecture: iphoneos-arm64
+Maintainer: John d_ie
+Filename: rootless/com.johndie.triggr_1.0.4.1_iphoneos-arm64.deb
+Size: 131246
+MD5sum: b900de74645f63199af3fa1760397814
+SHA256: d7b6136201914a792af5fc1b2decde0f0bf57d94bb88de140b1f3f266a642fe1
+Name: Triggr
+Description: 面向现代越狱的 Activator 精简版：把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。支持 iOS 15–18，A12 及更新机型（arm64e）。
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
+
+Package: com.johndie.triggr
+Version: 1.0.4.1
+Architecture: iphoneos-arm64e
+Maintainer: John d_ie
+Filename: roothide/com.johndie.triggr_1.0.4.1_iphoneos-arm64e.deb
+Size: 132820
+MD5sum: 740cc691a172e4adbf4be4acb848d782
+SHA256: 9c2187e226d58ab393f88c8aeb716beab2a001e6d8c72ab173351ac5b28309e9
+Name: Triggr
+Description: 面向现代越狱的 Activator 精简版：把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。支持 iOS 15–18，A12 及更新机型（arm64e）。
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
+Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64

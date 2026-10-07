@@ -8,7 +8,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## Triggr 精简版 · 汉化\n面向 rootless Dopamine 的 Activator 精简版，界面已全面汉化。把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。\n\n- 触发器覆盖常见手势与事件，支持主屏幕、应用内、锁屏等不同位置\n- 操作包含系统、电源、开关、媒体、音量与亮度、打开、文本与命令、菜单等分类\n- 支持替换按钮原本动作（可代替 iOS 默认行为，或与 Triggr 共存运行）\n- 支持自定义菜单、按应用黑名单、显示操作横幅\n- 提供 API 与命令行（`triggr list`），供其他插件和脚本调用\n\n汉化服务由 MUtool 作者提供。添加本源：https://muzikeji.github.io/sileo/\n\n适配 iOS 15+ rootless（Dopamine）环境，支持 A12 及更新机型（arm64e）。",
+                    "markdown": "## Triggr 精简版 · 汉化\n同步上游稳定版 1.0.4.1 的 Activator 精简版，界面已全面汉化。把操作分配给主屏幕、锁屏和音量按钮、触控 ID、静音开关、状态栏点按、图标滑动、摇动，以及充电器、Wi-Fi、电池电量或定时等事件。\n\n- 触发器覆盖常见手势与事件，支持主屏幕、应用内、锁屏等不同位置\n- 操作包含系统、电源、开关、媒体、音量与亮度、打开、文本与命令、菜单等分类\n- 支持替换按钮原本动作（可代替 iOS 默认行为，或与 Triggr 共存运行）\n- 支持自定义菜单、按应用黑名单、显示操作横幅\n- 提供 API 与命令行（`triggr list`），供其他插件和脚本调用\n\n汉化服务由 MUtool 作者提供。添加本源：https://muzikeji.github.io/sileo/\n\n适配 iOS 15–18 rootless（Dopamine）与 roothide（arm64e）双环境，支持 A12 及更新机型（arm64e）。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -28,7 +28,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.3",
+                    "text": "1.0.4.1",
                     "title": "版本"
                 },
                 {
@@ -38,7 +38,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年10月06日",
+                    "text": "2026年10月07日",
                     "title": "更新日期"
                 }
             ]
@@ -48,7 +48,7 @@
             "tabname": "更新日志",
             "views": [
                 {
-                    "markdown": "#### 版本: 1.0.3\n- 插件底部新增署名「汉化服务：MUtool 作者」与越狱源地址，欢迎添加本源 https://muzikeji.github.io/sileo/\n- 同步提供 arm64 与 arm64e 两个架构的安装包\n\n#### 版本: 1.0.2\n- 全面汉化 Triggr 精简版：触发器、操作、模式、警告、设置页全部界面文案中文化\n- 构建 arm64 与 arm64e 双架构，适配 rootless Dopamine",
+                    "markdown": "#### 版本: 1.0.4.1\n- 同步上游稳定版基线，新增替换按钮动作（代替按钮原本功能）选项\n- 兼容 iOS 15–18，重新构建 arm64（rootless）与 arm64e（roothide）双架构安装包\n\n#### 版本: 1.0.3\n- 插件底部新增署名「汉化服务：MUtool 作者」与越狱源地址，欢迎添加本源 https://muzikeji.github.io/sileo/\n- 同步提供 arm64 与 arm64e 两个架构的安装包\n\n#### 版本: 1.0.2\n- 全面汉化 Triggr 精简版：触发器、操作、模式、警告、设置页全部界面文案中文化\n- 构建 arm64 与 arm64e 双架构，适配 rootless Dopamine",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
