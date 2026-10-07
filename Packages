@@ -468,6 +468,142 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.kayoko.json
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.kayoko.json
 Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 
+Package: com.muzi.mupill
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.0_iphoneos-arm64.deb
+Size: 252844
+MD5sum: b30161863dfff93c21ec1946a99ae291
+SHA256: d325917e669246a1a6879455c29e7899446391393a88b1633512985d59563581
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.0_iphoneos-arm64e.deb
+Size: 249734
+MD5sum: 0b133dc8ab8abe3744e1d71e12d34d3f
+SHA256: 0bf73c7b73857f7385db0a27ed10b8f4fefb6518a54aade022ea42b7a79f3d82
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.1_iphoneos-arm64.deb
+Size: 253132
+MD5sum: 33f3f3b0bea49bb45f82f16939fffe05
+SHA256: 92cbc9c2f36734ea1a26c8c8b6082dac7a8857ad28afec1f6897e0e2b02910e5
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.1_iphoneos-arm64e.deb
+Size: 249408
+MD5sum: 0131d7f42b1787e0082c908cb19cec31
+SHA256: 04a9cb2865f5b2c2db596bde5f084b04f348a89f3dcbc4f181df900b50a3f8a7
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.2_iphoneos-arm64.deb
+Size: 256422
+MD5sum: 0f0d317a46bb36a6201e96b3c6869881
+SHA256: e171e7eb70af1993a95ad556d20b1ceab3900b24e50bc72a4233fb90b6fb9f79
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.2_iphoneos-arm64e.deb
+Size: 253034
+MD5sum: 34db0867c8a2db386cf6501b39d5b6cc
+SHA256: f52549d830a0c8b910fb82b6a9d1eeba0c53982fa8be5632b5b4b018832d6fc9
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.3_iphoneos-arm64.deb
+Size: 259402
+MD5sum: fb503f11cf94dbe34888c40e76013cd1
+SHA256: 78444d39f0d12f6d59de7668a87fd953bafed2129088f73ef359f6a834d62e6a
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.3_iphoneos-arm64e.deb
+Size: 254366
+MD5sum: 5e2d79a5e25e316789f4a9a940eb84fe
+SHA256: f63093f37293bfa434b85c16fe82957c84c4a5b528ae4b5bc9b5f565f21793a3
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
 Package: com.muzi.mutescheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -5150,6 +5286,108 @@ MD5sum: 384577dae09aafe858864cfd40aca800
 SHA256: 1d94dd04226cc129b92cab852af9fc5b3b3a6eec5ca2588a676e6320285778ec
 Name: MUtool(roothide)
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.66
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.66_iphoneos-arm64.deb
+Size: 689228
+MD5sum: a22c12ee296217e7642f267aca2fec6a
+SHA256: 080da2bae51ad55653945f761834951d32bbf5595d8357e888d81968203160fb
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.66
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.66_iphoneos-arm64e.deb
+Size: 680874
+MD5sum: 4ef860fcf8c70e2f635d709acb8fa769
+SHA256: c0cb79efac30f1b150b69334979ab315fc3fa5403daec7a26b2e64882f0af6ba
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.67
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.67_iphoneos-arm64.deb
+Size: 689852
+MD5sum: 7959f31b624c95ef2007d1dfe47ac012
+SHA256: 8f3bc4db4a456e71811967124d6563b2287eb4514b6de01fe5e6c62a31d97f58
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.67
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.67_iphoneos-arm64e.deb
+Size: 688752
+MD5sum: 1b93bd9d48f2ddc8ce5049d121cc9f60
+SHA256: 306e1cf20e771c43f01b5d3123b82232937bbd2f31968bd572c602598b3c6d8d
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.68
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.68_iphoneos-arm64.deb
+Size: 691710
+MD5sum: e42cc9a4195cbdd83cd3fd4f19d01052
+SHA256: d0122c1440d96fa9132f169566cb908dda0c830b57cafb5086780b259d04151f
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.68
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.68_iphoneos-arm64e.deb
+Size: 690404
+MD5sum: e2cd76ffb0250f795d04f394943c65a2
+SHA256: 8afa1e62286a42ad34a3fc8f788605131b2f24390196033006373e723fd87116
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
 Section: Tweaks

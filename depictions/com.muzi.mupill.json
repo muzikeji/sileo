@@ -1,0 +1,55 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.3",
+  "tintColor": "#20C7C9",
+  "headerImage": "https://muzikeji.github.io/sileo/icons/com.muzi.mupill.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionImageView",
+          "imageURL": "https://muzikeji.github.io/sileo/icons/com.muzi.mupill.png",
+          "altText": "悬浮药丸独立版",
+          "cornerRadius": 24,
+          "useMargins": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 悬浮药丸独立版\n从 MUtool 拆出的独立悬浮信息药丸插件，支持 rootless 与 roothide，要求 iOS 15.0 及以上。\n\n### 功能\n- 实时显示网速、CPU、内存、电池、温度、FPS 与时间\n- 支持多种药丸样式、透明度、字号、整体缩放和元素间距\n- 支持拖动位置、方向键微调、固定位置与贴边显示\n- 控制中心一键开关\n- 配置备份、恢复与重置\n- 独立插件设置页与设备授权\n\n### 授权\n本插件使用 MUtool 完整版同一套授权系统。完整版激活码可直接用于本插件。激活码格式：`MUZI-MUTOOL-XXXX-XXXX-XXXX-XXXX`。\n\n本插件与完整版 MUtool 互斥。",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.3",
+          "title": "版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15.0+",
+          "title": "支持的系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "muzikeji",
+          "title": "作者"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "#### 版本: 1.0.3\n- 新增「公历日期」指标，可在显示内容与显示顺序中配置\n- 修复「截图隐藏药丸」不生效：改为 hook SpringBoard 截图入口，在捕获前隐藏药丸，截图不再带悬浮药丸\n\n#### 版本: 1.0.2\n- 新增「农历日期」与「周几」指标，可在显示内容与显示顺序中配置\n- 新增「点击展开」开关，可关闭点击药丸展开全部指标的行为\n- 新增「截图隐藏药丸」开关，截图或录屏时自动隐藏悬浮药丸\n\n#### 版本: 1.0.1\n- 购买激活码入口改为产品页面\n- 设置页补齐设备授权图标\n- 纯文字模式移除阴影效果\n\n#### 版本: 1.0.0\n- 发布悬浮药丸独立版\n- 支持 rootless 与 roothide\n- 支持悬浮药丸样式、指标、位置与控制中心开关\n- 与 MUtool 完整版共用授权码",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
