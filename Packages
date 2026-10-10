@@ -780,7 +780,7 @@ Filename: rootless/com.muzi.mutool_1.7.1_iphoneos-arm64.deb
 Size: 316612
 MD5sum: 36e18c6f23530ad6320adfd99a1b7eed
 SHA256: 4eebee7542dc19a01309a41e902739f9fa52f9efbe2470853614f6373f6d0ac2
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -796,7 +796,7 @@ Filename: roothide/com.muzi.mutool_1.7.1_iphoneos-arm64e.deb
 Size: 313482
 MD5sum: 2a3160f9acea9291bb249919b5f78269
 SHA256: 5f59b109b032096b20194feea48d4f82da5ec83c4e9b6bcf82f903acba66336e
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -812,7 +812,7 @@ Filename: rootless/com.muzi.mutool_1.7.2_iphoneos-arm64.deb
 Size: 353168
 MD5sum: 51e2b49af1ebffd0334e2f3e8a9d3952
 SHA256: 14b1cf284cac9e40f1c0e86ad8a9af6a63f5a4147398034125c21c778b2a5221
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -828,7 +828,7 @@ Filename: roothide/com.muzi.mutool_1.7.2_iphoneos-arm64e.deb
 Size: 346446
 MD5sum: 88706436da4b2ad38ae7032845afb66c
 SHA256: 913588d794316b0cf170fe9c0f9f49fd0d407a352694ce4413c04a6aee9321bb
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -844,7 +844,7 @@ Filename: rootless/com.muzi.mutool_1.7.3_iphoneos-arm64.deb
 Size: 353048
 MD5sum: 555d6eb22f07e85575039702babc3174
 SHA256: 94cab3556c1db53665bce98f8c7fee9ffde115a53102768675e5c40e643943ac
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -860,7 +860,7 @@ Filename: roothide/com.muzi.mutool_1.7.3_iphoneos-arm64e.deb
 Size: 350348
 MD5sum: 3ca62c6eb7d57fc8d6b2ec30cb947c8a
 SHA256: a2781ebf53639850295f52d0ce253f4ba15405a3afa8d9c81d31611b946cf6b0
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -876,7 +876,7 @@ Filename: rootless/com.muzi.mutool_1.7.4_iphoneos-arm64.deb
 Size: 355522
 MD5sum: bd68fe090cc12db2a48534513d128b98
 SHA256: a9b0125b8fed0cbec8822721cd52aeb3e16e2b4cbfe2a85e56e45fa407f3c46d
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -892,7 +892,7 @@ Filename: roothide/com.muzi.mutool_1.7.4_iphoneos-arm64e.deb
 Size: 350578
 MD5sum: 772af81376cf2380cacd11241fc1e551
 SHA256: e813886daa1e42e5280b5ea6c0bc4092c1c17b2f34b1f8033ce1c93337723b78
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -908,7 +908,7 @@ Filename: rootless/com.muzi.mutool_1.7.5_iphoneos-arm64.deb
 Size: 363946
 MD5sum: 6c0bd80e28bd04a3ad1e456c134976c3
 SHA256: e9e53a8bd2dc60f0e1daa5b5cbf1b17c02ed098eca942a84e11bb10de3694a57
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -924,7 +924,7 @@ Filename: roothide/com.muzi.mutool_1.7.5_iphoneos-arm64e.deb
 Size: 360568
 MD5sum: 4932e831b414aa87325bb4bde0de061a
 SHA256: a8088ee1630c7abe70a0b213a8297b6961a83b47c762a6dcb49a48a43af2454a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -940,7 +940,7 @@ Filename: rootless/com.muzi.mutool_1.7.6_iphoneos-arm64.deb
 Size: 365932
 MD5sum: d4505e5022669ea13c7f2114849c8f9a
 SHA256: 519bf58783767d3b1f4d10dac5ecc03eede8dc8e6c4ba703bffbc33fd6e58322
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -956,7 +956,7 @@ Filename: roothide/com.muzi.mutool_1.7.6_iphoneos-arm64e.deb
 Size: 361370
 MD5sum: 1b548d107251ec07b1a7a47218cd99d3
 SHA256: c2ba07ab7c900b0f2ec63b75f0da88de03a3fdd7ccaf5562b69d5050052a912c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -972,7 +972,7 @@ Filename: rootless/com.muzi.mutool_1.7.7_iphoneos-arm64.deb
 Size: 367146
 MD5sum: e827052fc6edc524f8289ad893b0ddb3
 SHA256: a4ca16ad6f6ea500b2f652f3b8a70ed80d6b131aa2a8f88eb1d347ac4f909e91
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -988,7 +988,7 @@ Filename: roothide/com.muzi.mutool_1.7.7_iphoneos-arm64e.deb
 Size: 363702
 MD5sum: afb26aa60b2c7a2e7bb00229d682a42b
 SHA256: df64d8b633f340ae97806817461b144a58c04d30795220538ec0c074c89a2e6f
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1004,7 +1004,7 @@ Filename: rootless/com.muzi.mutool_1.7.8_iphoneos-arm64.deb
 Size: 373344
 MD5sum: 84f1dcf2bcf89277c21821449eb58858
 SHA256: 20e175927dd4b82852838d0cea953ca73023a6025c95f62702e4c8a7abfb0f7a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1020,7 +1020,7 @@ Filename: roothide/com.muzi.mutool_1.7.8_iphoneos-arm64e.deb
 Size: 367820
 MD5sum: 85417b9c2629b4089789dbe961430e31
 SHA256: fb92c0deabfa27b1e3e8649412f482891021c7cb967a7c081760208a18a6656d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1036,7 +1036,7 @@ Filename: rootless/com.muzi.mutool_1.7.9_iphoneos-arm64.deb
 Size: 374402
 MD5sum: 60e14c2e64bdd6839d833595a673cf02
 SHA256: 8daf0af613e18d5ddafe3b96d6491369b62426aeb52078384512b20cc32e8a95
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1052,7 +1052,7 @@ Filename: roothide/com.muzi.mutool_1.7.9_iphoneos-arm64e.deb
 Size: 367710
 MD5sum: 0ca1d1676f008afd0ca6d27b605d0202
 SHA256: f06b9b0a85beac4dc13da3882be22057bff9d395ae86fa531b4dea84402a2476
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1068,7 +1068,7 @@ Filename: rootless/com.muzi.mutool_1.8.0_iphoneos-arm64.deb
 Size: 375038
 MD5sum: b928bdf208a2607e331d896aa954b14a
 SHA256: f78ef7d345d4cf7098229f870939c08bad23463a6dbbb88a3ef8f9e23e265a47
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1084,7 +1084,7 @@ Filename: roothide/com.muzi.mutool_1.8.0_iphoneos-arm64e.deb
 Size: 369486
 MD5sum: 7bbdf0bb7328736b1d46f8508bf9ab80
 SHA256: 5d4dcdf500dfec5963d4d75fdce68b64ee42c7f559ce076a8b2c0225e8fd4b37
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1100,7 +1100,7 @@ Filename: rootless/com.muzi.mutool_1.8.1_iphoneos-arm64.deb
 Size: 376208
 MD5sum: 1b88446e7cf4f1f7cc9f1528d55469f1
 SHA256: 9fd942dc2840087c84155499d7e67baf3f779f858f50111f303279b818397d55
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1116,7 +1116,7 @@ Filename: roothide/com.muzi.mutool_1.8.1_iphoneos-arm64e.deb
 Size: 369642
 MD5sum: 0c84003343424d3ead7c6b374a5c9698
 SHA256: bab1ecae138a90f4474ec5e6ea9eb91fafa17541c70157af38745b910e99836d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1132,7 +1132,7 @@ Filename: rootless/com.muzi.mutool_1.8.2_iphoneos-arm64.deb
 Size: 376080
 MD5sum: 567e29b08e775ed796a9e68d4dfddc9c
 SHA256: a4ea1fc15fee42a122faa1607c05a08a8118ad9a423dddaaaba7ec6a5231e956
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1148,7 +1148,7 @@ Filename: roothide/com.muzi.mutool_1.8.2_iphoneos-arm64e.deb
 Size: 369078
 MD5sum: 4c7357d558b3ba154e6bc80d3124cb4b
 SHA256: 6f026d080b17651e1434c640d8699c61dec5a00bcdda8e93748373d0c7f7285a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1164,7 +1164,7 @@ Filename: rootless/com.muzi.mutool_1.8.3_iphoneos-arm64.deb
 Size: 376382
 MD5sum: 17c36195457ce4822be271d4a9824d47
 SHA256: 52f4a8493547c7655712d1b35af9af7c90a11bc3989803e204ae9b1c37e8c769
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1180,7 +1180,7 @@ Filename: roothide/com.muzi.mutool_1.8.3_iphoneos-arm64e.deb
 Size: 372874
 MD5sum: af2890a8df37bb929db4847dcf3da0d2
 SHA256: e160121d2a52a5a0a317593965747441fbe2249bc1946e331f0ce10fb7fa8380
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1196,7 +1196,7 @@ Filename: rootless/com.muzi.mutool_1.8.4_iphoneos-arm64.deb
 Size: 377230
 MD5sum: e4f8860e664c9327ae8e919803b4b9d6
 SHA256: c34ec6354fe18265506b97f4cec2a1f92db7327ce86cf0b991836ccee09df3a6
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1212,7 +1212,7 @@ Filename: roothide/com.muzi.mutool_1.8.4_iphoneos-arm64e.deb
 Size: 372520
 MD5sum: 3be29c3e2a8d170b92c7c083f775ec85
 SHA256: a89058e4e05e3a4267c85f4377c6d077cae56fbc4871439c7b42dbf282989ac2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1228,7 +1228,7 @@ Filename: rootless/com.muzi.mutool_1.8.5_iphoneos-arm64.deb
 Size: 399284
 MD5sum: 5526eb01f15908c7268cc2096d916f9c
 SHA256: 57471c4ef198dbe17727bfea14be11a2fdf5fb108026d8c2bc3be5e72aab78c7
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1244,7 +1244,7 @@ Filename: roothide/com.muzi.mutool_1.8.5_iphoneos-arm64e.deb
 Size: 394600
 MD5sum: 8e08f44b6157061033ac5f5d61a7b48b
 SHA256: 3df681eb33f6460de7d10f1b0ffab781f980a35b2d0158239461067b7890ec41
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1260,7 +1260,7 @@ Filename: rootless/com.muzi.mutool_1.8.6_iphoneos-arm64.deb
 Size: 396592
 MD5sum: f90006696e6f032070706a2540f6e22c
 SHA256: 535d92039c9e5cab54a4fbccd722b41a2cab9d96b09f15cea87ada3de789c355
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1276,7 +1276,7 @@ Filename: roothide/com.muzi.mutool_1.8.6_iphoneos-arm64e.deb
 Size: 392570
 MD5sum: cdcdfe1fbd831791fe1e1d9f6bc632a1
 SHA256: 4ba19eb2707ce2f4a7bf480260e5870a551d57e3e304fe78c82227a59690430f
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1292,7 +1292,7 @@ Filename: rootless/com.muzi.mutool_1.8.7_iphoneos-arm64.deb
 Size: 398128
 MD5sum: 631b1e28a8361027e65103e6fb84a5ff
 SHA256: 367e21d954ac10820e993b84b4c22d80c8ca17534d60e261b137c7aa1d6c1a52
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1308,7 +1308,7 @@ Filename: roothide/com.muzi.mutool_1.8.7_iphoneos-arm64e.deb
 Size: 394196
 MD5sum: 125ced854a724cb3c1bf211b904a2e17
 SHA256: d28729e56a85c5090a5f10523f7aa4b2ef50df10579fe7c5590e062305033591
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1324,7 +1324,7 @@ Filename: rootless/com.muzi.mutool_1.8.8_iphoneos-arm64.deb
 Size: 398594
 MD5sum: a6ec39fb3fd6fca4d9715e73e18a8c0f
 SHA256: e3361683ec74b881f86d00d5c24cecae73bcf48f4979b090014b3d23844a5c52
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1340,7 +1340,7 @@ Filename: roothide/com.muzi.mutool_1.8.8_iphoneos-arm64e.deb
 Size: 394788
 MD5sum: 3bc0b3118818a5c0332025d7756de024
 SHA256: ef14ff7be71c5cd88786247cce2295545e616f89a34f93f11a2398569fe223a2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1356,7 +1356,7 @@ Filename: rootless/com.muzi.mutool_1.8.9_iphoneos-arm64.deb
 Size: 397766
 MD5sum: 0af0a47235899f741941378d987a2f5b
 SHA256: dac7240f208ded6bc34ac498b6266d9ed45b882aaf5b8a527fa75a7248c87a79
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1372,7 +1372,7 @@ Filename: roothide/com.muzi.mutool_1.8.9_iphoneos-arm64e.deb
 Size: 394776
 MD5sum: 63676cd2dcd72febf66d036d0ff4dc71
 SHA256: a9a55764cd6bcb75ef8a76759b5bdce7ebb78db8ab51c01e93724973ab2a0677
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1388,7 +1388,7 @@ Filename: rootless/com.muzi.mutool_1.9.0_iphoneos-arm64.deb
 Size: 398696
 MD5sum: dbce775b41e9c06c46a2c92b2c6caedb
 SHA256: 9ff6456d7d5bfa82b5f222fcc081ae0d2e4cb1b1291624d4e5ea720dea4b3e61
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1404,7 +1404,7 @@ Filename: roothide/com.muzi.mutool_1.9.0_iphoneos-arm64e.deb
 Size: 395022
 MD5sum: 9077827c99e8ec3ce66209a5a8935bf9
 SHA256: c11be063a6a6d24f119fc363f5701d09fccbfbe0fbfaf2569e1e5d1b9f80dbd9
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1420,7 +1420,7 @@ Filename: rootless/com.muzi.mutool_1.9.1_iphoneos-arm64.deb
 Size: 399682
 MD5sum: 3bd39f3ebc3c539ff19418a74cf61a97
 SHA256: 4436094ebe1f7fb59bab1fc5af436366bb9ab88cc68e49c16bd9c2a052b6517a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1436,7 +1436,7 @@ Filename: roothide/com.muzi.mutool_1.9.1_iphoneos-arm64e.deb
 Size: 394920
 MD5sum: b882fa3b26c51acc212e705371602f85
 SHA256: 632aef08a24dd0e2d60d6179a374bbcd54d9699bd891c3b3ab2444ef54aa4dfb
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1452,7 +1452,7 @@ Filename: rootless/com.muzi.mutool_1.9.10_iphoneos-arm64.deb
 Size: 428642
 MD5sum: 371d318f9ddb9c47fc37060b5c3c8dbe
 SHA256: 20fa991e3230d439aa1c477dee67773f93e094643e00bf7d5971a602ceced55c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1468,7 +1468,7 @@ Filename: roothide/com.muzi.mutool_1.9.10_iphoneos-arm64e.deb
 Size: 426056
 MD5sum: af130997dde4ef96c74b765ac1e8028e
 SHA256: d5214f76983fe4546bc8f65381b87bf35f51de5c61ccaea6068a4f56e1a9b11c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1484,7 +1484,7 @@ Filename: rootless/com.muzi.mutool_1.9.11_iphoneos-arm64.deb
 Size: 451550
 MD5sum: 1af97cd8d7dfcd1b333e4c6419e7f066
 SHA256: 2e32453ce511fef1d64d8bf64cc487a2c117789d762d884fcaa6db7532d9cf1e
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1500,7 +1500,7 @@ Filename: roothide/com.muzi.mutool_1.9.11_iphoneos-arm64e.deb
 Size: 449380
 MD5sum: 6c83ac2c38bbc09d8d95e2c61e13281f
 SHA256: a53d0345a72f78314b98fe141c7ceabc8cf6b67452f13411862570776af28f7c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1516,7 +1516,7 @@ Filename: rootless/com.muzi.mutool_1.9.12_iphoneos-arm64.deb
 Size: 450862
 MD5sum: 592768cf2be45641b12382b2e929fcc5
 SHA256: d11d03ccedc75d79966f7864e05c940a00ebb7e76629f220501de52df1117585
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1532,7 +1532,7 @@ Filename: roothide/com.muzi.mutool_1.9.12_iphoneos-arm64e.deb
 Size: 448486
 MD5sum: bf53fc74cbd48a6072bb234a5ee04b82
 SHA256: 584cdbb7313f6ddf109f7de683ca94f77e126e73c3ba547a7ff846f6c1fc9be9
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1548,7 +1548,7 @@ Filename: rootless/com.muzi.mutool_1.9.13_iphoneos-arm64.deb
 Size: 451250
 MD5sum: 48f4285f11860677e7e5b84388c4e3da
 SHA256: b2b25585306c6da65273d5f2ba4e60ecbf469f015e9c211c2e939992c7e7320a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1564,7 +1564,7 @@ Filename: roothide/com.muzi.mutool_1.9.13_iphoneos-arm64e.deb
 Size: 449436
 MD5sum: ad062f9ed22b871259e6f39e02921791
 SHA256: 78a8db0e7481e9cbb89520ee19dfa6a57461c41a66c7aa902b8c97b7640990ca
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1580,7 +1580,7 @@ Filename: rootless/com.muzi.mutool_1.9.14_iphoneos-arm64.deb
 Size: 454054
 MD5sum: 1fb467a14877027ec4d92a919478e1c6
 SHA256: f256ecafb1f6c30af42750153aa826e2d6e2cdebe216ff1457960158a4f7b2e0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1596,7 +1596,7 @@ Filename: roothide/com.muzi.mutool_1.9.14_iphoneos-arm64e.deb
 Size: 450264
 MD5sum: 215d0240cd7187ff9988f855bfeaa5b5
 SHA256: 74afbee9456c1588c34e0bfd537737943d8e7bd4910e47d60153eb806b74bea0
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1612,7 +1612,7 @@ Filename: rootless/com.muzi.mutool_1.9.15_iphoneos-arm64.deb
 Size: 454690
 MD5sum: 1203ae1460cb844eed4c3d888f0340f2
 SHA256: 54e0359739ebc93c8169b778d3fbc5059baf0f5652a25625404863ee8b14fee9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1628,7 +1628,7 @@ Filename: roothide/com.muzi.mutool_1.9.15_iphoneos-arm64e.deb
 Size: 451430
 MD5sum: 561bdd5eaa33f9dae3c4bf4620cac4fb
 SHA256: a432a970768a6e51e3cc1b81f66874ef2584a653a540c4ca4a0886ef802a21ca
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1644,7 +1644,7 @@ Filename: rootless/com.muzi.mutool_1.9.16_iphoneos-arm64.deb
 Size: 455222
 MD5sum: c059036dda9dab875345357a2d1c9943
 SHA256: 51daf41a75c76ba6161e34b6fa19c01a176613e14348a1a26ac4a0e8721c623f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1660,7 +1660,7 @@ Filename: roothide/com.muzi.mutool_1.9.16_iphoneos-arm64e.deb
 Size: 452894
 MD5sum: e56b62184ffb3e289e4013ebb472dea0
 SHA256: b01416968e0d2ba9ac6c1254348fd4db4a23d3c66e54ee1a7cdc09939205efe5
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1676,7 +1676,7 @@ Filename: rootless/com.muzi.mutool_1.9.17_iphoneos-arm64.deb
 Size: 456366
 MD5sum: c8b89ee40091c07c3437ace8b44358a0
 SHA256: 6a4954f67b59af5feb46184ad92808f41f734fde4cdc791ca9cb6b7c6daeec50
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1692,7 +1692,7 @@ Filename: roothide/com.muzi.mutool_1.9.17_iphoneos-arm64e.deb
 Size: 454014
 MD5sum: 6894534e7bf539c71763f7490bdab1de
 SHA256: 2cff844dac36dbce5e47fbc7c294965ced7c3ac424ccd6a7e2afbb7ef1486140
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1708,7 +1708,7 @@ Filename: rootless/com.muzi.mutool_1.9.19_iphoneos-arm64.deb
 Size: 430082
 MD5sum: 4e985f612774475790ee68b42e1156af
 SHA256: 99d7eee5556d9024247caf2614dba8cf4a585f7c10bb79ac123f415079e5c1db
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1724,7 +1724,7 @@ Filename: roothide/com.muzi.mutool_1.9.19_iphoneos-arm64e.deb
 Size: 427328
 MD5sum: 382ab34bfe965f307c4a0c42e527c08d
 SHA256: 4e7655f0a29191634846a444c05424e7e591fb8cde84ff821caacdfa393f18b2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1740,7 +1740,7 @@ Filename: rootless/com.muzi.mutool_1.9.2_iphoneos-arm64.deb
 Size: 409136
 MD5sum: 79db25aa26f62f070cd3e7a2267556cb
 SHA256: 3ffe0ef1c671bd1883775fde8755875d45299807c4fffd76b1e6d0397d1fd361
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU 使用率，透明度与字号可调）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1756,7 +1756,7 @@ Filename: roothide/com.muzi.mutool_1.9.2_iphoneos-arm64e.deb
 Size: 408376
 MD5sum: d1ec4173f812751a69c30383cdbf5e9d
 SHA256: 25fbd856bfa8160e17229fff513e4766d87697bc994239d55329ef1bc09827ed
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU 使用率，透明度与字号可调）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1772,7 +1772,7 @@ Filename: rootless/com.muzi.mutool_1.9.20_iphoneos-arm64.deb
 Size: 429992
 MD5sum: e57fdc411e8d7a626a3397c1b1437947
 SHA256: 8cb42444abdde7e294f30c4a822e0eeed96d405ebed13726e9156a1106fd1604
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1788,7 +1788,7 @@ Filename: roothide/com.muzi.mutool_1.9.20_iphoneos-arm64e.deb
 Size: 427050
 MD5sum: 109eeb54f10242d840d7b706d2ec5c0a
 SHA256: 94fc5e9acd2509402228e43954d1605eb8847a10a3ed46caab101a22f0533485
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1804,7 +1804,7 @@ Filename: rootless/com.muzi.mutool_1.9.21_iphoneos-arm64.deb
 Size: 429092
 MD5sum: e52f7466d54e7969a323dd775d82f54e
 SHA256: 0c55a544af8da93b20226de1f661fbd6d7931f889466fd0c516bdd7c576fe891
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1820,7 +1820,7 @@ Filename: roothide/com.muzi.mutool_1.9.21_iphoneos-arm64e.deb
 Size: 426532
 MD5sum: 6ab5a005c840830fbb7b0a21f8e82c69
 SHA256: e1644204a961600934d8ddcd2388af4d62a2a0f5f4eb999a9396dcde5918af2c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1836,7 +1836,7 @@ Filename: rootless/com.muzi.mutool_1.9.22_iphoneos-arm64.deb
 Size: 428572
 MD5sum: d747312d967573ee8e41794299a37444
 SHA256: 2bb1b167e2362d3f6f92e9fff48f98ca8359791bccb6a9bca0463365e78c60f3
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1852,7 +1852,7 @@ Filename: roothide/com.muzi.mutool_1.9.22_iphoneos-arm64e.deb
 Size: 427078
 MD5sum: e7a1e8ffb42461a877a2f4e1288d01f4
 SHA256: 961543e891c755e8503f23d3f9290b5c89e354456156338bf14dda9283753bf2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1868,7 +1868,7 @@ Filename: rootless/com.muzi.mutool_1.9.23_iphoneos-arm64.deb
 Size: 429332
 MD5sum: 198457134484452911f6086ab062696c
 SHA256: c35ba531a6560eeaf85e234689a5758d54cafe7a50dda008800616a277c1c125
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1884,7 +1884,7 @@ Filename: roothide/com.muzi.mutool_1.9.23_iphoneos-arm64e.deb
 Size: 424728
 MD5sum: 892ce64b06e9d525492833c8c1a1f720
 SHA256: fd2ca3ce0f6dbeb77aa307810bcacd6ef835e3be7752f3e1499086e9089a78ee
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1900,7 +1900,7 @@ Filename: rootless/com.muzi.mutool_1.9.24_iphoneos-arm64.deb
 Size: 429888
 MD5sum: 26f3073de5f0a8d73058f2c119aab355
 SHA256: a5b15b50e60a9ffe1f5d4b357915d8721851404ceba90eae6e95d0bbce949274
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1916,7 +1916,7 @@ Filename: roothide/com.muzi.mutool_1.9.24_iphoneos-arm64e.deb
 Size: 427476
 MD5sum: efd1f12a0b0984989284b1f5d1470189
 SHA256: 2ed87cbea955934412863207d74abde55b44c5fe72cc2622b1294093729528b2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -1932,7 +1932,7 @@ Filename: rootless/com.muzi.mutool_1.9.25_iphoneos-arm64.deb
 Size: 483738
 MD5sum: 47512653bd8460e96d7474be9e1ee005
 SHA256: c53d56bdee5a05d43db234e9c1eb2cffe6928313dfb562fcbf2278457068266f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -1949,7 +1949,7 @@ Filename: roothide/com.muzi.mutool_1.9.25_iphoneos-arm64e.deb
 Size: 479444
 MD5sum: 4c2d9e28af5f0de823b13f2b02af2f03
 SHA256: 07c9cca8584ca101a9d4a96312ecf49b593da7e248fed1c22a31b40f34e4f80d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -1966,7 +1966,7 @@ Filename: rootless/com.muzi.mutool_1.9.26_iphoneos-arm64.deb
 Size: 483276
 MD5sum: afc2058c61c55d8ad076f4b2ac8f1c1c
 SHA256: df04ec23b4905a05797859c3c67f1225c35eddaa898d52cb5b8e24236f2c8bbc
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -1983,7 +1983,7 @@ Filename: roothide/com.muzi.mutool_1.9.26_iphoneos-arm64e.deb
 Size: 477296
 MD5sum: d34abbf1b3d22fe2c82a3430f4064527
 SHA256: 08645ab0805219ef17fcd0860f9b72309666f7af14fe2bb7e8a6fae0c9de1c1c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2000,7 +2000,7 @@ Filename: rootless/com.muzi.mutool_1.9.29_iphoneos-arm64.deb
 Size: 445130
 MD5sum: 5dd776fdd5ddc48d4866df77a69c87e2
 SHA256: 0eb845d6fff15cda865706ff573c3947908da81a8581095f72a9d03a80fa4260
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2017,7 +2017,7 @@ Filename: roothide/com.muzi.mutool_1.9.29_iphoneos-arm64e.deb
 Size: 443548
 MD5sum: 71b6ae379dd76967d2d1773f927af1da
 SHA256: 0e70cd2b48d43ce2016fbf2d13ae3e088e23b2e7e516604c469a04c52e7bafdc
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2034,7 +2034,7 @@ Filename: rootless/com.muzi.mutool_1.9.3_iphoneos-arm64.deb
 Size: 411350
 MD5sum: 68d16b37bc4fb17f037601cb52c0ed4e
 SHA256: 922ff65bd8b5872a1ced3188572675a6f14b362fdb3f003bcc38f02f52832ade
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU 使用率，透明度与字号可调）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2050,7 +2050,7 @@ Filename: roothide/com.muzi.mutool_1.9.3_iphoneos-arm64e.deb
 Size: 409398
 MD5sum: b60bd692619aa76253d47ee9a9c9c806
 SHA256: b93411196490746fd9c8c005ae4998d57900b54b78751aa91ee9e55eaf45c067
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU 使用率，透明度与字号可调）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2066,7 +2066,7 @@ Filename: rootless/com.muzi.mutool_1.9.30_iphoneos-arm64.deb
 Size: 474864
 MD5sum: 5eac8db0bbb2369944632b30986891e3
 SHA256: 051d588e34017b50a7b461cd869482d25478cef4c226cf256a24b09caba142fb
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2083,7 +2083,7 @@ Filename: roothide/com.muzi.mutool_1.9.30_iphoneos-arm64e.deb
 Size: 471968
 MD5sum: 14ec2fae6e9c2bb7428c011119a3949a
 SHA256: 13a50a414b5d92fcccefd615efe4d9b2085e85b626ce5c9e69bf63204479c23b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2100,7 +2100,7 @@ Filename: rootless/com.muzi.mutool_1.9.31_iphoneos-arm64.deb
 Size: 477492
 MD5sum: acff1f45014a47c1b20281d0b770cf12
 SHA256: 1de2f001e45a5de93993f79e1d6c92041bcd26814a9d8095d8a04c1b8fd7c112
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2117,7 +2117,7 @@ Filename: roothide/com.muzi.mutool_1.9.31_iphoneos-arm64e.deb
 Size: 475062
 MD5sum: e36c127a6bc0b4ebd752b7721f1eb052
 SHA256: e8bebaf0fc6715e6b4cb3effc5d1097588b8b2e249146a0f9984e31b4e1d3118
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2134,7 +2134,7 @@ Filename: rootless/com.muzi.mutool_1.9.32_iphoneos-arm64.deb
 Size: 478698
 MD5sum: 5c273094574ee6c7ab62b32ce7689472
 SHA256: 35143b97f1eac8d8dfc36f0d9ec16d79e239908787d38cc3bce864d0e5b1bae2
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2151,7 +2151,7 @@ Filename: roothide/com.muzi.mutool_1.9.32_iphoneos-arm64e.deb
 Size: 476154
 MD5sum: 7119fa59e62d3ae273c3592e060b8c3d
 SHA256: ad4fe3d4920f9c789313f86a3b9ae848679df401771ce3ed2f9066d24e497b1c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2168,7 +2168,7 @@ Filename: rootless/com.muzi.mutool_1.9.33_iphoneos-arm64.deb
 Size: 478996
 MD5sum: 5a5e7d11ad6ec2fde35067eeefcf08a7
 SHA256: 00ca4929dc4e0f721c1ba2251e6b17793b8bcec753ce4b5b1af537bc6c8b369f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2185,7 +2185,7 @@ Filename: roothide/com.muzi.mutool_1.9.33_iphoneos-arm64e.deb
 Size: 477396
 MD5sum: e98bdb377f6b9a22a0134cb126831722
 SHA256: a418d05efa073329a555f440360fa651e4c04c80f50061a0c57086d80bad0c9a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2202,7 +2202,7 @@ Filename: rootless/com.muzi.mutool_1.9.34_iphoneos-arm64.deb
 Size: 479838
 MD5sum: 8acb0b6108dd31abe68ecb4b48dbebac
 SHA256: a915653869910eb670d737fd6e2103537c4c2c647dfe77b7249cd796774845d0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2219,7 +2219,7 @@ Filename: roothide/com.muzi.mutool_1.9.34_iphoneos-arm64e.deb
 Size: 476200
 MD5sum: 176f633fc63288924962064f1e4c7e1e
 SHA256: 96d77eff18303a824e17b11d186d93c6a1a20d1c0eef70873cc4d72ca4597f14
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2236,7 +2236,7 @@ Filename: rootless/com.muzi.mutool_1.9.35_iphoneos-arm64.deb
 Size: 479434
 MD5sum: 8e1d198868e0beb575d5025c01b9e8d5
 SHA256: 023b24adb1a99205ffa370f7c8ec93a8f868423a7b0ce2f4b638630fae4b9598
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2253,7 +2253,7 @@ Filename: roothide/com.muzi.mutool_1.9.35_iphoneos-arm64e.deb
 Size: 476706
 MD5sum: 2466dae4317e074b9748fd3e6135aaa4
 SHA256: e52b9219c7d9e83212e0c618f45844868e6ac7905ba3da17ec0e93cb6f0edfc0
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2270,7 +2270,7 @@ Filename: rootless/com.muzi.mutool_1.9.36_iphoneos-arm64.deb
 Size: 480050
 MD5sum: af8727824105955130e90c32f00b3ea8
 SHA256: b733edf8f40aec8b486abf6aa581ca470d212b72923e0a45b122e8fd9c3db5b9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2287,7 +2287,7 @@ Filename: roothide/com.muzi.mutool_1.9.36_iphoneos-arm64e.deb
 Size: 476706
 MD5sum: 5ded886607b916e429037b745d152053
 SHA256: 64a2ab79704316af9bcc7846aba792b9cf96bf8e4bbe34981cd97b5fd4fe33a3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2304,7 +2304,7 @@ Filename: rootless/com.muzi.mutool_1.9.37_iphoneos-arm64.deb
 Size: 482398
 MD5sum: fe2291de8912c08df144fdc248fb99e1
 SHA256: 0f39b5997ed3a65dd9d07da0d99dae7dd1468b8afd999abad65fe6d0b320ff7b
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2321,7 +2321,7 @@ Filename: roothide/com.muzi.mutool_1.9.37_iphoneos-arm64e.deb
 Size: 478126
 MD5sum: e52fee23375a84b2d04e38ae712c2709
 SHA256: 238223b9fbfad0cd0086a46d632322fdc0decf431721f405452d1dcf5abecee7
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2338,7 +2338,7 @@ Filename: rootless/com.muzi.mutool_1.9.38_iphoneos-arm64.deb
 Size: 506902
 MD5sum: 59f7568eec4cb7f4db1d1f560db45f0d
 SHA256: b249b3094e8f36c63ea7274b8b795c2cbcf51f9c8f95c28da7b41abb5b78bd0e
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2355,7 +2355,7 @@ Filename: roothide/com.muzi.mutool_1.9.38_iphoneos-arm64e.deb
 Size: 500694
 MD5sum: 93315a89d868f0f813c06aebf4f95550
 SHA256: 1e1e5cdf1600b70e4279accaf28ee06a848e02eed78779680fcfa8992eef2b4a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2372,7 +2372,7 @@ Filename: rootless/com.muzi.mutool_1.9.39_iphoneos-arm64.deb
 Size: 507360
 MD5sum: 3706c299307442fa0859e462e7e421e3
 SHA256: 99b2f794262bc76d87ad0b133f95efa4b13e7187ef52caf8115b00d9639b8270
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2389,7 +2389,7 @@ Filename: roothide/com.muzi.mutool_1.9.39_iphoneos-arm64e.deb
 Size: 500330
 MD5sum: 6a9aafddc58ae615196cba1baea8d764
 SHA256: ce669845345899c54cde52aceb7854f47471bcc27afea279d07b9ca9232d49f2
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2406,7 +2406,7 @@ Filename: rootless/com.muzi.mutool_1.9.4_iphoneos-arm64.deb
 Size: 421730
 MD5sum: eadd7e9d531782232c96ba382e5146f8
 SHA256: 0d499af0b49bc66d5a59741ffaae686218ee1caa26ec233de258f2d94a3e432d
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2422,7 +2422,7 @@ Filename: roothide/com.muzi.mutool_1.9.4_iphoneos-arm64e.deb
 Size: 418554
 MD5sum: 25f3b4fd07c5a713b5db03195871baa7
 SHA256: e323c6fe44c14f30f969866d39cb856f4aa8d7cc37732782b48e6dc625e0a0c1
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2438,7 +2438,7 @@ Filename: rootless/com.muzi.mutool_1.9.40_iphoneos-arm64.deb
 Size: 519922
 MD5sum: 0d9318b6a63c6ddbccd7741c67c4ab2f
 SHA256: 9d30170edc3982170466cba4229f6b47d06a319cbe7f89984714e1e8a34d35f7
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2455,7 +2455,7 @@ Filename: roothide/com.muzi.mutool_1.9.40_iphoneos-arm64e.deb
 Size: 521374
 MD5sum: 15e1cc8670df0f089c7df05ca2a19c5b
 SHA256: fe1877a98f65edbab6fefb4634f151dfe42f67c703a26958af3d75759946a0f3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2472,7 +2472,7 @@ Filename: rootless/com.muzi.mutool_1.9.41_iphoneos-arm64.deb
 Size: 521962
 MD5sum: 1505e02389baa9f1f311eb55e5c901a3
 SHA256: 835825adcbbea8d89db44ddf0b260d457a5bd4d6bdbbf3e97545bb8ed8e4f7c5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2489,7 +2489,7 @@ Filename: roothide/com.muzi.mutool_1.9.41_iphoneos-arm64e.deb
 Size: 523298
 MD5sum: c8cb4c58482cc4dde09901b12f17b9bd
 SHA256: 8f4afbe4821ce4b9643f49cc1078bae0dec89d5ca8a18112b0a571ce12aec456
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2506,7 +2506,7 @@ Filename: rootless/com.muzi.mutool_1.9.42_iphoneos-arm64.deb
 Size: 516674
 MD5sum: 30bae2196f559ed9f2c05bcff0586ee4
 SHA256: 6b06a1a53d056d876014e1233d4d9d9f0e7d5407f0189951cfcc81e7e6d7662a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2523,7 +2523,7 @@ Filename: roothide/com.muzi.mutool_1.9.42_iphoneos-arm64.deb
 Size: 516674
 MD5sum: 30bae2196f559ed9f2c05bcff0586ee4
 SHA256: 6b06a1a53d056d876014e1233d4d9d9f0e7d5407f0189951cfcc81e7e6d7662a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2540,7 +2540,7 @@ Filename: roothide/com.muzi.mutool_1.9.42_iphoneos-arm64e.deb
 Size: 512936
 MD5sum: 16ff926bd4d93b2a772d3acfbdbb0a6f
 SHA256: 34d563ecf63d7c26eb643e30a715aa073ad884e34d0c62ae5761d226c6503e61
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2557,7 +2557,7 @@ Filename: rootless/com.muzi.mutool_1.9.43_iphoneos-arm64.deb
 Size: 516312
 MD5sum: 6d8347791fd27203c87265e2c6d4712c
 SHA256: 50c284581902d38e715a0bc7a32b78a32538c79086e604764decc66d3e5feef1
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2574,7 +2574,7 @@ Filename: roothide/com.muzi.mutool_1.9.43_iphoneos-arm64e.deb
 Size: 513512
 MD5sum: f1f8c676b96a3833c290b70fad705e00
 SHA256: 0603124b3068d4344eb9f7536d4e3bffff4b813b5c0c104fd54a4e88dfb9348e
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2591,7 +2591,7 @@ Filename: rootless/com.muzi.mutool_1.9.44_iphoneos-arm64.deb
 Size: 517562
 MD5sum: b4c2423a003db01aedf0d8a46a528dbc
 SHA256: 75311942d4492eacbd0a6f370db04b21b42a6ed66f67b929a31abe2eae363cbf
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2608,7 +2608,7 @@ Filename: roothide/com.muzi.mutool_1.9.44_iphoneos-arm64e.deb
 Size: 513304
 MD5sum: b17d238213a000b5e093c71b1da52dac
 SHA256: 459598205683319f9bbecbe41e283a324656276b4232e168d38c43ce75dbed89
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2625,7 +2625,7 @@ Filename: rootless/com.muzi.mutool_1.9.45_iphoneos-arm64.deb
 Size: 518266
 MD5sum: c8394792f5e936e2df404a7c0a8c010a
 SHA256: 9f34505072dfc55a27a2e4286139944b52150dc33b1faa6528bce9f401de2ff9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2642,7 +2642,7 @@ Filename: roothide/com.muzi.mutool_1.9.45_iphoneos-arm64e.deb
 Size: 514042
 MD5sum: 391e4fbe9c6f3278596bb594cbf34476
 SHA256: cd961c29d1e9efa625669793349d1e4aea9f48375f2893ed2357007feebde4fd
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2659,7 +2659,7 @@ Filename: rootless/com.muzi.mutool_1.9.46_iphoneos-arm64.deb
 Size: 523680
 MD5sum: 6ca9a81aca1bcc4c2b8b7a7e9db2341a
 SHA256: 372d2bf3355678a918592b759fe835c4963c868e7c43b6a9abb7779a7909c4e0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2676,7 +2676,7 @@ Filename: roothide/com.muzi.mutool_1.9.46_iphoneos-arm64e.deb
 Size: 520006
 MD5sum: f53d0326db452fd7cabb83ed4e5c71c2
 SHA256: d193572fe381d6ef3112980cda6fafa46eceff6150dc4f74ab2d1698e023e2c4
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2693,7 +2693,7 @@ Filename: rootless/com.muzi.mutool_1.9.47_iphoneos-arm64.deb
 Size: 524696
 MD5sum: a9096523e6b37d07222ba6db6838721f
 SHA256: 11ad1865969d58eb85ac0d14d96366f715ba74abda79dfabee8998bdc479e628
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2710,7 +2710,7 @@ Filename: roothide/com.muzi.mutool_1.9.47_iphoneos-arm64e.deb
 Size: 518156
 MD5sum: 8aa6b08de9194581d60c3fe7c655e091
 SHA256: 6f93e4c8604f68217012190bd8444c0090ed21e1162336a0521eec88c857db65
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2727,7 +2727,7 @@ Filename: rootless/com.muzi.mutool_1.9.48_iphoneos-arm64.deb
 Size: 525028
 MD5sum: 08a2a1ba65c39881818880cdb4796ae5
 SHA256: 29d0566517ea7448602e60714df7d0f90c292c21d189121e8e79aab5e2fcdc84
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2744,7 +2744,7 @@ Filename: roothide/com.muzi.mutool_1.9.48_iphoneos-arm64e.deb
 Size: 518490
 MD5sum: 4af58782d0903f409ab02f5baba5f5f8
 SHA256: 400c6f8c15280536b8976df103f5ba7001600ed4d013d0b7719224f7d8dfe432
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2761,7 +2761,7 @@ Filename: rootless/com.muzi.mutool_1.9.49_iphoneos-arm64.deb
 Size: 526968
 MD5sum: 87137fa0f4ab0fb33b37f186f43ed497
 SHA256: 19c53d555d6d1a383d4028227a160069cbeec3ece5137cbd5f08127fac122955
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2778,7 +2778,7 @@ Filename: roothide/com.muzi.mutool_1.9.49_iphoneos-arm64e.deb
 Size: 524626
 MD5sum: 5cb3b6e73f2930edfd60b62f6ccc0e8b
 SHA256: 0826176aec5172fc773f62fc9d5e92866b9c7a35c5712fd262694757caa7d226
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2795,7 +2795,7 @@ Filename: rootless/com.muzi.mutool_1.9.5_iphoneos-arm64.deb
 Size: 423168
 MD5sum: 87801999bfad71a2ed731f053f3badba
 SHA256: 7d492ae31789590b329adc87335c9ebbc6663361de8031d005235497ddab4711
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2811,7 +2811,7 @@ Filename: roothide/com.muzi.mutool_1.9.5_iphoneos-arm64e.deb
 Size: 420920
 MD5sum: 0c3541df2f9cfbd112a15c9725b6fd4d
 SHA256: b539b2124f383d4190d30d7b76d17ddcdaae8eafe56b2295218d383e33b2becf
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -2827,7 +2827,7 @@ Filename: rootless/com.muzi.mutool_1.9.50_iphoneos-arm64.deb
 Size: 528176
 MD5sum: b9e913ff4ac0a3846c6c0d9e9939adbd
 SHA256: 2bf6134073293c8336df4eae4f22d1f311732340e75a10ed48c9b2f7c71ea54b
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2844,7 +2844,7 @@ Filename: roothide/com.muzi.mutool_1.9.50_iphoneos-arm64e.deb
 Size: 525014
 MD5sum: 2eeb1d5547e94fe017b534d3e2e225bb
 SHA256: f421f7efa4cd937b19ae22354e0d976beb6f0493b5479a2a515cc1a077b7cc80
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2861,7 +2861,7 @@ Filename: rootless/com.muzi.mutool_1.9.51_iphoneos-arm64.deb
 Size: 529196
 MD5sum: 126968cf82702123000fcd578a387a08
 SHA256: 03bf3755c9fb263806e9403a58a93256e9e5bc1cc94cb1fdcb063c3325186f8d
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2878,7 +2878,7 @@ Filename: roothide/com.muzi.mutool_1.9.51_iphoneos-arm64e.deb
 Size: 525162
 MD5sum: 43f3c4da440788547ad7872adad1dfde
 SHA256: e286e4b810f09a7e69a0184b0f64b3bcdd529902d08d8ac95296e5c4361ec4b7
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2895,7 +2895,7 @@ Filename: rootless/com.muzi.mutool_1.9.54_iphoneos-arm64.deb
 Size: 534926
 MD5sum: dbccf354ea32c168c55718a7ee0df056
 SHA256: d05e32f03cc14d4031a8bbefa3c65e7e94b7e152baf88abfabe440832ffafa1b
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2912,7 +2912,7 @@ Filename: roothide/com.muzi.mutool_1.9.54_iphoneos-arm64e.deb
 Size: 533100
 MD5sum: 052a4160ac85be4069fac6ae62d09af5
 SHA256: 4cb419907c8b85d20f5d87d5418448af774c0abe0b5f188be422fed60759237e
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2929,7 +2929,7 @@ Filename: rootless/com.muzi.mutool_1.9.55_iphoneos-arm64.deb
 Size: 536942
 MD5sum: 1153971ef01818a54d2ce101ae234e5a
 SHA256: 03ad53fb0f0cd9961d36f16c12221b4e1491bd2726361dce66d8748ec8a75f72
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2946,7 +2946,7 @@ Filename: roothide/com.muzi.mutool_1.9.55_iphoneos-arm64e.deb
 Size: 534858
 MD5sum: bf01986261c620ae229f08be217cbf69
 SHA256: be7780131c1669a69cb429399876994a111e934cdeabe42f70e0e0c013b24b42
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2963,7 +2963,7 @@ Filename: rootless/com.muzi.mutool_1.9.56_iphoneos-arm64.deb
 Size: 538514
 MD5sum: 10f7077ddc5e972135278912e5cfdb96
 SHA256: e999124138ada230bdfab7c759e892c7c5daf9db8a75b306a8ed5396ce0c773c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2980,7 +2980,7 @@ Filename: roothide/com.muzi.mutool_1.9.56_iphoneos-arm64e.deb
 Size: 536236
 MD5sum: fb5bd9daec914238a472357247d6b6d3
 SHA256: 313b4f1ad50fa4802a09b21e4e97a7667140903c61caeda400a89aa2add121f6
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -2997,7 +2997,7 @@ Filename: rootless/com.muzi.mutool_1.9.57_iphoneos-arm64.deb
 Size: 538134
 MD5sum: e6da0d276bb0e3453d4f73e78aa5e933
 SHA256: bc90f068b632ff26486e7948ba18b87ffb760b8efda8883360352c2ba43f8242
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3014,7 +3014,7 @@ Filename: roothide/com.muzi.mutool_1.9.57_iphoneos-arm64e.deb
 Size: 536982
 MD5sum: 968074bfcabd24a9a7f06888a4812930
 SHA256: 154e0448b48e2855aafc1d582adbb519cf5acd12e9c22a42ce4bfcdf9952aef3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3031,7 +3031,7 @@ Filename: rootless/com.muzi.mutool_1.9.58_iphoneos-arm64.deb
 Size: 539414
 MD5sum: 2c75a6dfc8b7f18de04e74cdad21f9ad
 SHA256: 957b06cf08c7a4a75a9ebd6c178620b99116c4cc1f65f40a29aaf4a3be03f333
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3048,7 +3048,7 @@ Filename: roothide/com.muzi.mutool_1.9.58_iphoneos-arm64e.deb
 Size: 534942
 MD5sum: 13c467c06fe08ea762cbe9669be69614
 SHA256: dd46c824769081764db35a2eb67e5e91fcdfb8c2e76b263a7192f865a38029a1
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3065,7 +3065,7 @@ Filename: rootless/com.muzi.mutool_1.9.59_iphoneos-arm64.deb
 Size: 537196
 MD5sum: c17b4dc12c5ff9536c90e29cb414da4a
 SHA256: 54721222f3c3fa9167f9d23851eae4296bfd180192ae3001402c17477d1d0894
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3082,7 +3082,7 @@ Filename: roothide/com.muzi.mutool_1.9.59_iphoneos-arm64e.deb
 Size: 535850
 MD5sum: cf05e4b1b3a351719b2c07bdc1068aa0
 SHA256: 37ca5779d9ede7a988284bf2b0e9b28772fab8522117e4c53a1ba73fc090d0fd
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3099,7 +3099,7 @@ Filename: rootless/com.muzi.mutool_1.9.6_iphoneos-arm64.deb
 Size: 428798
 MD5sum: 8884e5f92fb325d9a1224b57b89e50e7
 SHA256: 3cd9675ff039d5a031e228be62ac153eb410c7d562dc2a6c86ad78ef576b988c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3115,7 +3115,7 @@ Filename: roothide/com.muzi.mutool_1.9.6_iphoneos-arm64e.deb
 Size: 425910
 MD5sum: 35671c8736fe58a78b1422d5f5fb2d9b
 SHA256: 366bdc40633388f65649286630f0f1e87c1fa6d838d5e530442410ec43556316
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3131,7 +3131,7 @@ Filename: rootless/com.muzi.mutool_1.9.60_iphoneos-arm64.deb
 Size: 538736
 MD5sum: f79193d1bc7061d524d4a0ef4d5e6d7e
 SHA256: e8a45bf46492c47fde9e934a3cbffa16cf59052b40cc9ac73b1836c017781d8d
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3148,7 +3148,7 @@ Filename: roothide/com.muzi.mutool_1.9.60_iphoneos-arm64e.deb
 Size: 535438
 MD5sum: e759532346a8d668918a0565af3b348d
 SHA256: facec639f64e976890bd3e5b93244c3aecc4e42d76346747a7d965251f90ffea
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3165,7 +3165,7 @@ Filename: rootless/com.muzi.mutool_1.9.61_iphoneos-arm64.deb
 Size: 538830
 MD5sum: ed39c8014e6ecb2250b0767b807b008e
 SHA256: b95c879b8b69b5bcfc87eaa998e2fe3a5e8bb4a0b6d6c11c3c131c53a4f09b74
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3182,7 +3182,7 @@ Filename: roothide/com.muzi.mutool_1.9.61_iphoneos-arm64e.deb
 Size: 537404
 MD5sum: 253c5098b62de5879d8ca3d691e0b98f
 SHA256: 470e1747f3476c67990a05a67e0982da5d393c603de2b8e70892b9e9e1b3adcb
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3199,7 +3199,7 @@ Filename: rootless/com.muzi.mutool_1.9.62_iphoneos-arm64.deb
 Size: 539854
 MD5sum: 03aab5aa54c4eaa89e1371da621e9e71
 SHA256: 4ac4e795c80da9f3d861a4ad24fc9418584a9065dd7fea49c92cb5c9e7271742
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3216,7 +3216,7 @@ Filename: roothide/com.muzi.mutool_1.9.62_iphoneos-arm64e.deb
 Size: 538138
 MD5sum: 845d144f09d1d07d48a8ba1a08cebd64
 SHA256: 4d3e57bcc4f7f02f4670fafbc3010e94f47ae4dff91d2ca70f3bfb6d0c07035b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3233,7 +3233,7 @@ Filename: rootless/com.muzi.mutool_1.9.63_iphoneos-arm64.deb
 Size: 539126
 MD5sum: ae8395b0a5c37496145aa01143030c59
 SHA256: b868abba2eab12c2656f278c16f41b9d72df3ca1703a232b114f722d67a3e2a0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3250,7 +3250,7 @@ Filename: roothide/com.muzi.mutool_1.9.63_iphoneos-arm64e.deb
 Size: 537616
 MD5sum: 130f2e5e5d43a28c9096e6bbf748ccef
 SHA256: dab0ccfb03139c911e678651e15df5ae776fe15f92e3d3df88ee49db1c13c8a7
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3267,7 +3267,7 @@ Filename: rootless/com.muzi.mutool_1.9.64_iphoneos-arm64.deb
 Size: 539904
 MD5sum: a386dc32cf34e60f8c1955f6be25a736
 SHA256: 2b73c3706be65fed1c27053e713a3f748d95db21bbdec0bf10027eb77c61ad93
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3284,7 +3284,7 @@ Filename: roothide/com.muzi.mutool_1.9.64_iphoneos-arm64e.deb
 Size: 538094
 MD5sum: 8b8d8fd7ba8bd49ff4f5d2c23d321250
 SHA256: eef9d72713f4c60e0863d65fbbf2843d08ac4189bb96d0329fde3689cae6133c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3301,7 +3301,7 @@ Filename: rootless/com.muzi.mutool_1.9.65_iphoneos-arm64.deb
 Size: 543340
 MD5sum: 766a8c1dbb41f07ab826256a11a06729
 SHA256: 8fde11eb280a73ac4154fcf55af814e1919b322f1909cfe27e72b9f3635cbfa5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3318,7 +3318,7 @@ Filename: roothide/com.muzi.mutool_1.9.65_iphoneos-arm64e.deb
 Size: 540312
 MD5sum: 098223d3af720e9b8017bd0b7d283c80
 SHA256: d2cd43212f3980cee4c3ccb763178e83dc3feeb74d0245a4ad3d81d31f817a8b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3335,7 +3335,7 @@ Filename: rootless/com.muzi.mutool_1.9.66_iphoneos-arm64.deb
 Size: 543630
 MD5sum: 601fab00a3b306917140a3f232254f7f
 SHA256: 889ec5d9746dbc173daded76f6ffccbcdc5f785bbda3c09c55053cc33883291d
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3352,7 +3352,7 @@ Filename: roothide/com.muzi.mutool_1.9.66_iphoneos-arm64e.deb
 Size: 540466
 MD5sum: b11cbe84ddc1c70b5ebe9f909bc033ad
 SHA256: 80a949ba01fd8875ff068ff4e719d6ce8492db37c355473a19265adc6f94dae8
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3369,7 +3369,7 @@ Filename: rootless/com.muzi.mutool_1.9.67_iphoneos-arm64.deb
 Size: 543972
 MD5sum: 6b657db3402abdaa42d149c1988bec58
 SHA256: b70c092a12635bc5f78978977719ad27a8f812188126e5642f37f466162e59f9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3386,7 +3386,7 @@ Filename: roothide/com.muzi.mutool_1.9.67_iphoneos-arm64e.deb
 Size: 540038
 MD5sum: 71c23b011af566255410fd7ab0594113
 SHA256: 6c6a767d14609311d60792193b0d39358a3bc3df21f70448d02f12a703286fcb
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3403,7 +3403,7 @@ Filename: rootless/com.muzi.mutool_1.9.68_iphoneos-arm64.deb
 Size: 545790
 MD5sum: 24f4f32e61ed2721958aedd66e9bf868
 SHA256: ddc9c7514f436c73040b008f1739100fa754d994d1b941e516624437779674c7
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3420,7 +3420,7 @@ Filename: roothide/com.muzi.mutool_1.9.68_iphoneos-arm64e.deb
 Size: 542420
 MD5sum: 58e7de80418e97dc7cc94020957e1fac
 SHA256: 914bae47fd53a2b6a99e3a9e2f385bc8b42b5ea086bb0d867cd7e1c7d9e012d3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3437,7 +3437,7 @@ Filename: rootless/com.muzi.mutool_1.9.69_iphoneos-arm64.deb
 Size: 546942
 MD5sum: a89849d86f2c408ae62f088e0f637204
 SHA256: 9731105d27a3638c4b28e0ae0cb402e8acbd39fb6de4481f0fe14d786fcf7f75
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3454,7 +3454,7 @@ Filename: roothide/com.muzi.mutool_1.9.69_iphoneos-arm64e.deb
 Size: 540778
 MD5sum: 8a9f0bd1b9f09ea1b1bc4b64fae99aa8
 SHA256: c264ebb7070bd9f1e76448de12b83499a2be303334553dca8ee9b61c5ceb6916
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3471,7 +3471,7 @@ Filename: rootless/com.muzi.mutool_1.9.7_iphoneos-arm64.deb
 Size: 428510
 MD5sum: 97436c9fd840b7614532c9725e780b82
 SHA256: 2c10b14c4e94a1438845ce7e4e7e97b2a975f015d33abc1f60019915c7521bc3
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3487,7 +3487,7 @@ Filename: roothide/com.muzi.mutool_1.9.7_iphoneos-arm64e.deb
 Size: 424742
 MD5sum: 2879c5c205ec8d1d39cdf4823d36aaab
 SHA256: 1c2d0dee7e4c61ab94986965e1a0a29a56147a1b20e7f58164859204f9748755
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3503,7 +3503,7 @@ Filename: rootless/com.muzi.mutool_1.9.70_iphoneos-arm64.deb
 Size: 550788
 MD5sum: 5823ce9e79c10e1755393171e4a558d0
 SHA256: 7661c99f1c43909aa33aaee0d56657103dbd5b963f988fbeb101486c7ef30324
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3520,7 +3520,7 @@ Filename: roothide/com.muzi.mutool_1.9.70_iphoneos-arm64e.deb
 Size: 541212
 MD5sum: 61e2e93116f64bef7919ea790d9cfc64
 SHA256: b6fde92c45ff25ad1dea86c8765831e65ff44f9eeb0ade32f76bcd53481da29a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3537,7 +3537,7 @@ Filename: rootless/com.muzi.mutool_1.9.71_iphoneos-arm64.deb
 Size: 549320
 MD5sum: f4b2e44521e26cb6bb33f6885d48e77d
 SHA256: d00c1159b0c8a17aca20f79891f264d0ac00f5842d7074c3ac5c878fd82ccff9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3554,7 +3554,7 @@ Filename: roothide/com.muzi.mutool_1.9.71_iphoneos-arm64e.deb
 Size: 542260
 MD5sum: e88d2764aa3f13e56e76cd3ab5693fee
 SHA256: 0a2096f7a73532af32bfc1cc4e9b6dbbf666e417c4bafcc4d0e802f1e2974438
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3571,7 +3571,7 @@ Filename: rootless/com.muzi.mutool_1.9.72_iphoneos-arm64.deb
 Size: 552004
 MD5sum: 0ecf76d8ef9388dd1d9fcd7b567c2b80
 SHA256: 5f8ed6e6d986e073b5d509c280d0038a351bb225de76774e5d2f6b051e5e041b
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3588,7 +3588,7 @@ Filename: roothide/com.muzi.mutool_1.9.72_iphoneos-arm64e.deb
 Size: 553256
 MD5sum: af35344c95bef361f0edaf7b4bdf2e2e
 SHA256: 49f3556cc96a4b1479ece8c5fff4b4bb898a257c939d4129e1cd471e36a4fb2b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3605,7 +3605,7 @@ Filename: rootless/com.muzi.mutool_1.9.73_iphoneos-arm64.deb
 Size: 553814
 MD5sum: 84136fafcba9be621aaffc2f521efc3f
 SHA256: e897771033364b8a3109efe3877f139d1770c7b9da413973c975f9d698425a71
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3622,7 +3622,7 @@ Filename: roothide/com.muzi.mutool_1.9.73_iphoneos-arm64e.deb
 Size: 554174
 MD5sum: 0664c723171ed8f1f1de151bc6a55de6
 SHA256: e5c2cc33d9a88a7d57e7054d465bfed7c4206d75b2c54b8f6c94d6ee3343087a
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3639,7 +3639,7 @@ Filename: rootless/com.muzi.mutool_1.9.74_iphoneos-arm64.deb
 Size: 556642
 MD5sum: 9301c1b5a8cc0629a0fec6043394aa1e
 SHA256: b2ac80441d8faaa30ee9bfff360f0653babbe5187a65ac09cbf10a7aacc0b6b0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3656,7 +3656,7 @@ Filename: roothide/com.muzi.mutool_1.9.74_iphoneos-arm64e.deb
 Size: 553010
 MD5sum: 3f197632f1cdb13b3d0505914ca990f4
 SHA256: e88481bf4bb87709b6958635a9f923f4e9d864abf50446555c59309bdd06588e
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3673,7 +3673,7 @@ Filename: rootless/com.muzi.mutool_1.9.75_iphoneos-arm64.deb
 Size: 552462
 MD5sum: 41b0d0c3fc34238cad409d4196e3250b
 SHA256: 2388cf5601b669901a2c7c7858b84c0c193c6299f62d2b2e4a55553850f7fda1
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3690,7 +3690,7 @@ Filename: roothide/com.muzi.mutool_1.9.75_iphoneos-arm64e.deb
 Size: 553436
 MD5sum: 4638e5eabde5e55c1f451bfdd47df1eb
 SHA256: 5d6945d6dcf545e73e6b97532f85822932074a674362b3c243e0ff338a66e101
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3707,7 +3707,7 @@ Filename: rootless/com.muzi.mutool_1.9.76_iphoneos-arm64.deb
 Size: 553082
 MD5sum: 8f1105363bb04b44bfc3e70218d48bee
 SHA256: 52efa4db34edc6ad5076224f41635a8bb312cc5f7acb2dead27279ba173ec424
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3724,7 +3724,7 @@ Filename: roothide/com.muzi.mutool_1.9.76_iphoneos-arm64e.deb
 Size: 553726
 MD5sum: 5331ef0eff437c1d144f85f9fdff4639
 SHA256: 650805d1958e5e9c701279acc75923a9db6d486022a055ce51db6d238aaa7aa5
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3741,7 +3741,7 @@ Filename: rootless/com.muzi.mutool_1.9.77_iphoneos-arm64.deb
 Size: 554376
 MD5sum: 7400e11d6ee42ff323faec949b55d95d
 SHA256: 4aabb88a93b6fd67dfeb52ad3a3496eeb63898150088fb8ff1e7166dff866ce4
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3758,7 +3758,7 @@ Filename: roothide/com.muzi.mutool_1.9.77_iphoneos-arm64e.deb
 Size: 553500
 MD5sum: 924c4591055f95c4f542d560b17fd117
 SHA256: 3e1a5449fbfff81899f16d81a530b244e382ef338b8f9e4bfd9265453178372d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3775,7 +3775,7 @@ Filename: rootless/com.muzi.mutool_1.9.79_iphoneos-arm64.deb
 Size: 561536
 MD5sum: 6371b129fc619c84c27d723861705216
 SHA256: 1f002757d3cc33df768f61bcfabdd95e83d9496922d049dbe08af4ebef08bc7c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3792,7 +3792,7 @@ Filename: roothide/com.muzi.mutool_1.9.79_iphoneos-arm64e.deb
 Size: 559434
 MD5sum: a6d51d8cf478c20e41a23186b6d4fd12
 SHA256: 28f12e7a5378e7053768816256c2ed5ec74053dd153b93e890ce8b2013af5b3d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3809,7 +3809,7 @@ Filename: rootless/com.muzi.mutool_1.9.8_iphoneos-arm64.deb
 Size: 427236
 MD5sum: 433bc89a4483a49a8081b76dfa60e502
 SHA256: 472e8694fdbffb32edd9b260e0bdeb5e664f115c2128008465f4c3ecf57dfaa6
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3825,7 +3825,7 @@ Filename: roothide/com.muzi.mutool_1.9.8_iphoneos-arm64e.deb
 Size: 425698
 MD5sum: ba7afb457e45d11c6da7a384e400ea25
 SHA256: 9e07613fcbeed285ba563f8d7d56e5a2c33a5b64012938c5edf0454ec0846285
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -3841,7 +3841,7 @@ Filename: rootless/com.muzi.mutool_1.9.80_iphoneos-arm64.deb
 Size: 557968
 MD5sum: 5c0f43b1f9a2f8712b8caeb96a245739
 SHA256: c6def5b1ee83b085091b6bfa876b890908dfa9df54f8a3f79e8d5e43146ef80f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3858,7 +3858,7 @@ Filename: roothide/com.muzi.mutool_1.9.80_iphoneos-arm64e.deb
 Size: 556832
 MD5sum: 9e4a6643c71d4e71c1432fccabe69245
 SHA256: 895f2709fc4b9f1a4758d9609b94b86e4a40644ec6cb1f447108dd9f6c7d7394
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3875,7 +3875,7 @@ Filename: rootless/com.muzi.mutool_1.9.81_iphoneos-arm64.deb
 Size: 563208
 MD5sum: cba19d7e080caf7199281e1cdf7b2324
 SHA256: 30bfe93a301e104d1dd279906a0797a1cf37c53b5a97821b05edcc64d60a6ada
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3892,7 +3892,7 @@ Filename: roothide/com.muzi.mutool_1.9.81_iphoneos-arm64e.deb
 Size: 564616
 MD5sum: ed1829fef2f65f8beb8583dabac92a91
 SHA256: 05a25f4595b330202dc7530fb50985a33241f1d477bc6cbea83495b308d6cb50
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3909,7 +3909,7 @@ Filename: rootless/com.muzi.mutool_1.9.82_iphoneos-arm64.deb
 Size: 566196
 MD5sum: 591ab6381a43d5122acbf6a3ce20cdf9
 SHA256: 692bab22d49312e023ee459ba3d3795e45e132080311285e10cde13bca4d6ba5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3926,7 +3926,7 @@ Filename: roothide/com.muzi.mutool_1.9.82_iphoneos-arm64e.deb
 Size: 564264
 MD5sum: 35db4b0603204024bb73817c766f0639
 SHA256: 056804557b636b27327215e9ad925d4307b24d6d8e14345304c1d256db009de3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3943,7 +3943,7 @@ Filename: rootless/com.muzi.mutool_1.9.83_iphoneos-arm64.deb
 Size: 567506
 MD5sum: 421d0459c1f4ac877a2d89a31a4c5848
 SHA256: c3f9c684bb246a09377da9f85c438816c9f0ede9b1f229af51135b6a43d6bc20
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3960,7 +3960,7 @@ Filename: roothide/com.muzi.mutool_1.9.83_iphoneos-arm64e.deb
 Size: 565958
 MD5sum: 9e68c005c496a80d1a7f33fcac1825e8
 SHA256: 87b31a4080ab7e1a8f206ba45211268b13346e15dda468c0ab011375bc4f3b49
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3977,7 +3977,7 @@ Filename: rootless/com.muzi.mutool_1.9.84_iphoneos-arm64.deb
 Size: 566096
 MD5sum: 021c53accd2d7a9d5c3c513d6eacdbce
 SHA256: 87d591b9d17a56b9e3734fa13695dcd2823f6337a01c995d5c91e571e13cabbc
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -3994,7 +3994,7 @@ Filename: roothide/com.muzi.mutool_1.9.84_iphoneos-arm64e.deb
 Size: 565586
 MD5sum: c14ce3207e2eb847ff514b204ca38271
 SHA256: 5fa79e5629592bdf4102305a6fb2c052b7bacb90b5f2d3fa6ffdc1b97783365d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4011,7 +4011,7 @@ Filename: rootless/com.muzi.mutool_1.9.85_iphoneos-arm64.deb
 Size: 558770
 MD5sum: 06243fe5c008dcbf84dab3a4fbf893ec
 SHA256: 0bca9c4e102bd3f25dac485d1f8d210d4d0a5154d904e49587f9a2e51967ada3
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4028,7 +4028,7 @@ Filename: roothide/com.muzi.mutool_1.9.85_iphoneos-arm64e.deb
 Size: 557630
 MD5sum: ddc50c6e9794a811b2b11203a556e5e6
 SHA256: a1b195e3d2b7fb28de130456c455e807bb81cc205b29dc63955897094c5a698b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4045,7 +4045,7 @@ Filename: rootless/com.muzi.mutool_1.9.86_iphoneos-arm64.deb
 Size: 562834
 MD5sum: a83b3a8bb41321ea4221db3a81508982
 SHA256: cbce8a636f887e55b1fc50dfac19810a3fe9482e9c6368bf3bf3b7857e977c97
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4062,7 +4062,7 @@ Filename: roothide/com.muzi.mutool_1.9.86_iphoneos-arm64e.deb
 Size: 561674
 MD5sum: cdc0352fb8cee04a2e99e97f36ba688e
 SHA256: ab5453fce318bf8d8d85d58c7f73a30a454442445b0c2b84603a6658f941ebbf
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4079,7 +4079,7 @@ Filename: rootless/com.muzi.mutool_1.9.87_iphoneos-arm64.deb
 Size: 568260
 MD5sum: 7763bdd5595a15a49aa12617c9c2218f
 SHA256: 02c5e5cc14de93a95669763cea2dc9bfe6f84e21864fe26364777982060a3aa2
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4096,7 +4096,7 @@ Filename: roothide/com.muzi.mutool_1.9.87_iphoneos-arm64e.deb
 Size: 562140
 MD5sum: b8c11828c994b4cf5dbf2fdb8cb7a9f6
 SHA256: 4ac1fe9900135bc8f63be78941480429e11a153e9e31823a73e3194145b02add
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4113,7 +4113,7 @@ Filename: rootless/com.muzi.mutool_1.9.88_iphoneos-arm64.deb
 Size: 570112
 MD5sum: fc844fbd45e35201740f288b724f983e
 SHA256: b883bc97a5c584f8d9060cacd0001f80f6fa12823b350a81c3eebb6a7b82aec5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4130,7 +4130,7 @@ Filename: roothide/com.muzi.mutool_1.9.88_iphoneos-arm64e.deb
 Size: 566722
 MD5sum: 9490fc369091185d7210d58b2c15e1da
 SHA256: 8353918e2784fa2f90ea633e9079531902fdd89115964a17db2a387fa40af3c4
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4147,7 +4147,7 @@ Filename: rootless/com.muzi.mutool_1.9.89_iphoneos-arm64.deb
 Size: 573520
 MD5sum: 637e8a842fc0f58aab44f2d816da03fa
 SHA256: 31a4ec60adee288d79a33f3e74797dbe25d7d8c35bc916256475c2eae6642bfd
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4164,7 +4164,7 @@ Filename: roothide/com.muzi.mutool_1.9.89_iphoneos-arm64e.deb
 Size: 570990
 MD5sum: ed3312e506dce4aa5f991222ec8d7047
 SHA256: 7056f61b6d595e536a02e4fc2e735f620c0fc9f00916426c0c487470291b9b2b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4181,7 +4181,7 @@ Filename: rootless/com.muzi.mutool_1.9.9_iphoneos-arm64.deb
 Size: 427818
 MD5sum: 88bcee9fef2a5095dbbd559060a14e3a
 SHA256: 33ba3804d72cf6e5d9c0e18162d1dac93632e71adf8d776dad06dea8cf12d9be
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -4197,7 +4197,7 @@ Filename: roothide/com.muzi.mutool_1.9.9_iphoneos-arm64e.deb
 Size: 426782
 MD5sum: d75850763c6f6ac50e21e777a0bcb48f
 SHA256: d820e0b42fa2b8c3175cc43484dfe7f679d2693f01715a6400e3726664640e8e
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Section: Tweaks
@@ -4213,7 +4213,7 @@ Filename: rootless/com.muzi.mutool_1.9.90_iphoneos-arm64.deb
 Size: 573928
 MD5sum: 5e8818b1bced0727310c082bc84ef28e
 SHA256: e54119f77072a4527a7b5fb6be2e15cdacba7cbecbcd56ddcc4b8c92bae34922
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满，实测容量与充电衰减拟合预估）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4230,7 +4230,7 @@ Filename: roothide/com.muzi.mutool_1.9.90_iphoneos-arm64e.deb
 Size: 569850
 MD5sum: cdc3f23cc5fde0d0fdb00734718d426d
 SHA256: 5bb0d6eab46cc8795ebc31aa18fb63a416cb0621c8ec7560ba87ea61e05c6f4b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满，实测容量与充电衰减拟合预估）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4247,7 +4247,7 @@ Filename: rootless/com.muzi.mutool_1.9.91_iphoneos-arm64.deb
 Size: 573392
 MD5sum: bfd5a7b0ca840585a4bf26359e95cd68
 SHA256: 065a79ba59512e3a46641c949e3edb2ddf2e16a5671db04324402d6598774136
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4264,7 +4264,7 @@ Filename: roothide/com.muzi.mutool_1.9.91_iphoneos-arm64e.deb
 Size: 570824
 MD5sum: 468113843a06c844769aed2b3b91338b
 SHA256: 1c0fa427676413db67488ee53a0a516862771d590cb914fc53405c8d075fa150
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、CallKit/VoIP 第三方 App 通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4281,7 +4281,7 @@ Filename: rootless/com.muzi.mutool_1.9.92_iphoneos-arm64.deb
 Size: 569730
 MD5sum: fcde54bbb1a4ed6022b71034abaefcc3
 SHA256: 851df2fe520df9b3a1a3e24a1eac09a9bfdc3409db2025a1d20abd3160f49a56
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4298,7 +4298,7 @@ Filename: roothide/com.muzi.mutool_1.9.92_iphoneos-arm64e.deb
 Size: 570132
 MD5sum: 3c2c87a25ecdf59ccb0d558fc0c6eaea
 SHA256: 65effd8ce0264fb66d762f5994969907c91140b93fc52d11cabe06eb12cf6f36
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4315,7 +4315,7 @@ Filename: rootless/com.muzi.mutool_1.9.93_iphoneos-arm64.deb
 Size: 570844
 MD5sum: a291ab4874bc332f9c89e94045631aa0
 SHA256: 62cef61f1c56b7e95439fd6d702522691a934f9d99ae442f2db4dec36aa27833
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4332,7 +4332,7 @@ Filename: roothide/com.muzi.mutool_1.9.93_iphoneos-arm64e.deb
 Size: 567806
 MD5sum: 187c5a08ddf525005ff8c6d02afec2ab
 SHA256: 2d8b87aa9f6d47bbdd8cc1774953d6a10ba7a260820cb8095443f4930d118f65
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4349,7 +4349,7 @@ Filename: rootless/com.muzi.mutool_1.9.94_iphoneos-arm64.deb
 Size: 572004
 MD5sum: 440b05daf454150a61cc57a1996ce2d0
 SHA256: f6f515e62384fbbaf4dbb3a0097283dbe8b4ffa823f809791ac6948d178b3850
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4366,7 +4366,7 @@ Filename: roothide/com.muzi.mutool_1.9.94_iphoneos-arm64e.deb
 Size: 567946
 MD5sum: 900eef08685222c736bdc6564cb7c749
 SHA256: 402c1ce63c06233570895c39fc13c5ce01e4eb433a6ed320f2ef0f35290f3ef8
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4383,7 +4383,7 @@ Filename: rootless/com.muzi.mutool_1.9.96_iphoneos-arm64.deb
 Size: 569900
 MD5sum: d4e2a76bc464251eb79ede360f19c425
 SHA256: 159f81d28fb93f6d93ba3cb819e8563a8724781727053630a21b31decdaf5e73
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4400,7 +4400,7 @@ Filename: roothide/com.muzi.mutool_1.9.96_iphoneos-arm64e.deb
 Size: 568954
 MD5sum: b543fb7b1c35cdec8aa606427aa784d5
 SHA256: 30f5cd399ed75b081b591b9a71d075992a9706e61a22fbebbc7dde94f29bb068
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4417,7 +4417,7 @@ Filename: rootless/com.muzi.mutool_1.9.97_iphoneos-arm64.deb
 Size: 570452
 MD5sum: e59c3dd2f0e73023bd22d55f369ae108
 SHA256: 6596fea85c1e573cfa0e77e16bb31d5bde8e37fa1b53f7a5723a8929958dd608
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4434,7 +4434,7 @@ Filename: roothide/com.muzi.mutool_1.9.97_iphoneos-arm64e.deb
 Size: 566954
 MD5sum: 78d2ae5531f82b1faef006f4b949e28f
 SHA256: 51f7388569fc33570e36632ee742b1445625f769e847fd23b3d5738a0372afc1
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4451,7 +4451,7 @@ Filename: rootless/com.muzi.mutool_1.9.98_iphoneos-arm64.deb
 Size: 571962
 MD5sum: 5e9e48057b8755de0bdec7a8e7190a70
 SHA256: 4dd3613e014272f83623e48497fb284524a7f832c171962457c30e50f56602c4
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4468,7 +4468,7 @@ Filename: roothide/com.muzi.mutool_1.9.98_iphoneos-arm64e.deb
 Size: 566798
 MD5sum: 60ddc361b5841ae143006f6d39ae155f
 SHA256: 436b18cb656fe18e285e989630f4306a331bcf831466234addfe39ee054d0aad
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4485,7 +4485,7 @@ Filename: rootless/com.muzi.mutool_1.9.99_iphoneos-arm64.deb
 Size: 571090
 MD5sum: 470ee1bd803bef158e6713dc90ddad9f
 SHA256: 65f7409e4d33f162274f420a7009e4727da1097668def038dbe82299017babb3
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4502,7 +4502,7 @@ Filename: roothide/com.muzi.mutool_1.9.99_iphoneos-arm64e.deb
 Size: 567206
 MD5sum: 3e0cd37c4ebfa85d86b2707951b833ba
 SHA256: 971e75ff5070333779f6b20c94e9d9ea9551f7f9417f812673f25be47246c7ac
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4519,7 +4519,7 @@ Filename: rootless/com.muzi.mutool_2.0.0_iphoneos-arm64.deb
 Size: 590034
 MD5sum: 0527e5b54f237035b5477ca7195e66f8
 SHA256: 2dde66182214318e59c8adf14f584d5bd19af852e2ea6e7afb2ff8fd144841a9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4536,7 +4536,7 @@ Filename: roothide/com.muzi.mutool_2.0.0_iphoneos-arm64e.deb
 Size: 585696
 MD5sum: d2aff55d7809bff7ac0cd21d45b17be5
 SHA256: d615b775faf231a0d28e9ee0ccab780ca4a57c9da3a6c953e1966851466976c1
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4553,7 +4553,7 @@ Filename: rootless/com.muzi.mutool_2.0.1_iphoneos-arm64.deb
 Size: 589892
 MD5sum: a1460f498cc507f8708323520ec5ecc3
 SHA256: b3dd5e25e08110948e6189c14c4c3be5be28607f425b8b702fe1b0f64d4a4542
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4570,7 +4570,7 @@ Filename: roothide/com.muzi.mutool_2.0.1_iphoneos-arm64e.deb
 Size: 585314
 MD5sum: 2dfe10080cbc248b781230f7ee7cd194
 SHA256: 01f4eceae7172ba026b022788fa2f1f831b6f7269b3ded0981a05022a35481d9
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4587,7 +4587,7 @@ Filename: rootless/com.muzi.mutool_2.0.14_iphoneos-arm64.deb
 Size: 598800
 MD5sum: 19b040699676739edce3a5bca88036f2
 SHA256: 9dbf1a7cd8b0b9c3840670bb2f74945a7c032cadcfe60810ca63153278dc7da3
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4604,7 +4604,7 @@ Filename: roothide/com.muzi.mutool_2.0.14_iphoneos-arm64e.deb
 Size: 593914
 MD5sum: 85279d403e2aec1911ed8707ef76a72c
 SHA256: dbb50e5673f51883b2751728600fc3c9368615881748ff7e1fdadb5b1d3127bc
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4621,7 +4621,7 @@ Filename: rootless/com.muzi.mutool_2.0.18_iphoneos-arm64.deb
 Size: 603822
 MD5sum: 89529d09b4e34cd6e006b17d2bd0c9a1
 SHA256: 5e47f98e78b62491a2699c23a3068812bb1ced8c04be36f0d47e7ef057e613ef
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4638,7 +4638,7 @@ Filename: roothide/com.muzi.mutool_2.0.18_iphoneos-arm64e.deb
 Size: 602462
 MD5sum: 19da4f0901ca1736aa7fdf9a60670220
 SHA256: f595494a717be415e866eee42bbdf0b93d040b14ab42438079d04492a34021dd
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4655,7 +4655,7 @@ Filename: rootless/com.muzi.mutool_2.0.19_iphoneos-arm64.deb
 Size: 607522
 MD5sum: 8bf6b56c659438ace353a316542faf66
 SHA256: aa8084e989fccce4424d42ea14fa145726f5e4c4c4b066e71d4985de668004a9
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4672,7 +4672,7 @@ Filename: roothide/com.muzi.mutool_2.0.19_iphoneos-arm64e.deb
 Size: 606422
 MD5sum: c61454a50af298713e3b4079efd00cfb
 SHA256: b351f800146b626b083ce50438236a081585b2ce058fc23d714c31e171e4b41b
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4689,7 +4689,7 @@ Filename: rootless/com.muzi.mutool_2.0.2_iphoneos-arm64.deb
 Size: 589242
 MD5sum: 916af08caa0eaf1a59610a71a0bcd731
 SHA256: 235617cab65ac7d781a61230ec09c3753552ef8e96003d26c6848c188f4d272c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4706,7 +4706,7 @@ Filename: roothide/com.muzi.mutool_2.0.2_iphoneos-arm64e.deb
 Size: 587360
 MD5sum: 98c7f1b37d05aa8f05b2916aaa549de9
 SHA256: e3c028d726e3786f5cc8dd8964ef338ceea99de1189a74f2c836d06751257e91
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4723,7 +4723,7 @@ Filename: rootless/com.muzi.mutool_2.0.20_iphoneos-arm64.deb
 Size: 637980
 MD5sum: 4659d188a98b0107a0d35f3622269f93
 SHA256: 804df15ea3e2ebb22d665aafc96c6e7ad4fd843806f42d27737423bd0c047839
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4740,7 +4740,7 @@ Filename: roothide/com.muzi.mutool_2.0.20_iphoneos-arm64e.deb
 Size: 630220
 MD5sum: 4a2fb6f7ca4ed2f1028e10f2d2a20d59
 SHA256: a0046ce0d66946527786918312040c3d8cdcc4e129fce082f1dd444620b9ccc6
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4757,7 +4757,7 @@ Filename: rootless/com.muzi.mutool_2.0.4_iphoneos-arm64.deb
 Size: 593756
 MD5sum: 2e8eaa3911a511bccbaa0928358295cc
 SHA256: 3a69a2fa42ae96e9bd54f6c4cc282b096eeda6921fabf1cfc80b567ebbf15648
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4774,7 +4774,7 @@ Filename: roothide/com.muzi.mutool_2.0.4_iphoneos-arm64e.deb
 Size: 589680
 MD5sum: 31a584ce5e1168418d3900ad48028093
 SHA256: 77bf3dab91386e0b429cc5a3528318ccd63f2a374e1b2794d32837161b0f5311
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4791,7 +4791,7 @@ Filename: rootless/com.muzi.mutool_2.0.5_iphoneos-arm64.deb
 Size: 598960
 MD5sum: be4b5b7bc5da21bca53260ff8bdc2b28
 SHA256: b8291c7ef57a4a72462a0497b1501d7d9ab842df5fd571cd01e76db7f97e6b0f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4808,7 +4808,7 @@ Filename: roothide/com.muzi.mutool_2.0.5_iphoneos-arm64e.deb
 Size: 594426
 MD5sum: 9fefde9b282d7e3f4cae33ae76604d7c
 SHA256: 52412469276ed4b779be41fec0cede540fe9f9c7d80e58d3ac19b423e0fc8a43
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4825,7 +4825,7 @@ Filename: rootless/com.muzi.mutool_2.0.6_iphoneos-arm64.deb
 Size: 599916
 MD5sum: 3ad2c05315071507ec57812d00d24f04
 SHA256: 058af6b99a66782db305e9e2975d28ea273ae0bec23b0033e3d8eb8133113292
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4842,7 +4842,7 @@ Filename: roothide/com.muzi.mutool_2.0.6_iphoneos-arm64e.deb
 Size: 594508
 MD5sum: 68c6379e6a03ca467cf5de392d813fb9
 SHA256: e23fcfb85e480dcc40c41f810de97fdd26954fc9ae13caf6be42913c044175a8
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4859,7 +4859,7 @@ Filename: rootless/com.muzi.mutool_2.1.01_iphoneos-arm64.deb
 Size: 645316
 MD5sum: 23d14f156d2149803b7f4ab4838fc96d
 SHA256: fa665bc934ae1c71991f2f872fee193bc49e6b3f0e9abe2c248a6d21bcdc4bc0
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4876,7 +4876,7 @@ Filename: roothide/com.muzi.mutool_2.1.01_iphoneos-arm64e.deb
 Size: 637820
 MD5sum: 7d9c5620c4c3a809d1a228ce3189fe49
 SHA256: 6babbdf1ea67c7ecc5d5c14df92d2a11cff42a9a47b519c8cf4336d07a460ad3
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4893,7 +4893,7 @@ Filename: rootless/com.muzi.mutool_2.1.11_iphoneos-arm64.deb
 Size: 646432
 MD5sum: ace4dce3d1111c00fd1376b26f0570ee
 SHA256: ecd8651122f86c0d76a38e67acc55f938a6f961ed62a71e8970796158b2c41d7
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4910,7 +4910,7 @@ Filename: roothide/com.muzi.mutool_2.1.11_iphoneos-arm64e.deb
 Size: 640370
 MD5sum: dad3528d9b522a5d09c6cf9bf4ebed90
 SHA256: 9ea0c943292b0d27187b29e5886e7527f679f396d7d9248159cb1f2c3f7945b4
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4927,7 +4927,7 @@ Filename: rootless/com.muzi.mutool_2.1.12_iphoneos-arm64.deb
 Size: 646680
 MD5sum: 7bda238adb0065eb4b5a2fc73e6e9239
 SHA256: 9f631a1900040cdd682374315dafcf6e260ee630f3a9962e9e69e5d8fd139d5f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4944,7 +4944,7 @@ Filename: roothide/com.muzi.mutool_2.1.12_iphoneos-arm64e.deb
 Size: 642974
 MD5sum: 90e4c44edf430ff4c670518b383bb4dc
 SHA256: b517c886360ce97f94fa16b53900efa657d442b6de7bf8eed5dcd1d0a0be48ca
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4961,7 +4961,7 @@ Filename: rootless/com.muzi.mutool_2.1.13_iphoneos-arm64.deb
 Size: 645840
 MD5sum: fb4bc0c0fcaa80d11110dffca8000469
 SHA256: 0dfb73986d4d4fed1cd3aa9346fb916652d29339f3861f35400c49ba15bb3017
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4978,7 +4978,7 @@ Filename: roothide/com.muzi.mutool_2.1.13_iphoneos-arm64e.deb
 Size: 640174
 MD5sum: 71234cc065e8d3d9c95b8deb2a05cd0f
 SHA256: 0ee4296ff1fa7a4c22cbb016137920df50952b86d220fb498cb4da94cd44e512
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -4995,7 +4995,7 @@ Filename: rootless/com.muzi.mutool_2.1.16_iphoneos-arm64.deb
 Size: 645132
 MD5sum: 14dcd2f9134e1b21e7273695714fb941
 SHA256: 0983536e78622f4255159c3c48fef6bbb15bf708bd430155bbcf078b5bad386c
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5012,7 +5012,7 @@ Filename: roothide/com.muzi.mutool_2.1.16_iphoneos-arm64e.deb
 Size: 642280
 MD5sum: 507f43e6d0e8d6b191a909ed8f02c5eb
 SHA256: c3f6d6f906081109957e61ad9d954f7a97c875030e56d72275292bb1d35862be
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5029,7 +5029,7 @@ Filename: rootless/com.muzi.mutool_2.1.18_iphoneos-arm64.deb
 Size: 648066
 MD5sum: a4d0f1f797360b356c4b4329d2df9825
 SHA256: d452ae9e0e1244798c141b4fa74460d598af446a11a3ca2d208d362b8f3a6c83
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5046,7 +5046,7 @@ Filename: roothide/com.muzi.mutool_2.1.18_iphoneos-arm64e.deb
 Size: 643980
 MD5sum: 8ff47410cc8f843b6408b204b374f8dd
 SHA256: 08d9395b270166861253275f9a15caa521cf5d35bfb7d9c21fef33aa3e432975
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5063,7 +5063,7 @@ Filename: rootless/com.muzi.mutool_2.1.20_iphoneos-arm64.deb
 Size: 650846
 MD5sum: af9db8d6d36e3bd063dfcd76590af471
 SHA256: a3ac2d6845f339c841a46e365af7f6cbddad6a9a142c63466013cc305da38411
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5080,7 +5080,7 @@ Filename: roothide/com.muzi.mutool_2.1.20_iphoneos-arm64e.deb
 Size: 645708
 MD5sum: 5b0c739cfe90f36b35e4960189d3b337
 SHA256: 8f0c3e7eb3aa3c567b093a1ed782369ba07dda1808390c13bc0b62c903f98eb6
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5097,7 +5097,7 @@ Filename: rootless/com.muzi.mutool_2.1.24_iphoneos-arm64.deb
 Size: 664270
 MD5sum: 24615e9fb20e32c425fd7a2b91698d19
 SHA256: 64470dbf30804451628393adbd26c50e1808ec82a536ee06f1a30b7722e8cba5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5114,7 +5114,7 @@ Filename: roothide/com.muzi.mutool_2.1.24_iphoneos-arm64e.deb
 Size: 655736
 MD5sum: c9cec1a52065bcc1b059f52bb02cd3a7
 SHA256: bbdb8c19fdbde6d521463a98a85f30699fa34862c2a351462a325ded3862b2c4
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5131,7 +5131,7 @@ Filename: rootless/com.muzi.mutool_2.1.27_iphoneos-arm64.deb
 Size: 665568
 MD5sum: 433186a2ae23b3805df9a1b063092695
 SHA256: 8c11a01330831291b758257111c5946aa3ce47a359a8a7286973d1570aee6cbe
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5148,7 +5148,7 @@ Filename: roothide/com.muzi.mutool_2.1.27_iphoneos-arm64e.deb
 Size: 655842
 MD5sum: d6ba6bb462f0c052226c38cbdd7967ff
 SHA256: 56595eee9cca8b3cf05cb1d858c251adfa1a336084785e3bbb75e0212b5874a5
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5165,7 +5165,7 @@ Filename: rootless/com.muzi.mutool_2.1.28_iphoneos-arm64.deb
 Size: 671858
 MD5sum: c48137666aafe71785e15bfe86e6dbff
 SHA256: cfeebfcfe9173d165d2223a3c06204c6c1a55178c638eca173a0ecebe077fbd5
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5182,7 +5182,7 @@ Filename: roothide/com.muzi.mutool_2.1.28_iphoneos-arm64e.deb
 Size: 665470
 MD5sum: 152b3bb8c5788420096a4086a16c9b3c
 SHA256: 5a0a5b2bee753cfa3d1aae11b90157181c16558a85cdaa309a39e6b4fed6a20f
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5199,7 +5199,7 @@ Filename: rootless/com.muzi.mutool_2.1.32_iphoneos-arm64.deb
 Size: 671824
 MD5sum: d823d21ab632d96a73b7c68f3ce5fa25
 SHA256: 51630acf6ac1757f00d4c737de2427a5574251e9a446c789be1bd1db5c14050f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5216,7 +5216,7 @@ Filename: roothide/com.muzi.mutool_2.1.32_iphoneos-arm64e.deb
 Size: 664280
 MD5sum: cd289ff631ca0b3c0f5ff66911e97134
 SHA256: ee3ce4add3ea2f1601609ac62e834c51799c0ff9c347382b78bc97d2a289f4b7
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5233,7 +5233,7 @@ Filename: rootless/com.muzi.mutool_2.1.33_iphoneos-arm64.deb
 Size: 672298
 MD5sum: fe2f0170d20412b6ff826e617ae8ed11
 SHA256: 3ad5445f4253f1a45b1ba549a11d5cb745918fe63a9dcee9e259ec8a538c47bd
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5250,7 +5250,7 @@ Filename: roothide/com.muzi.mutool_2.1.33_iphoneos-arm64e.deb
 Size: 667580
 MD5sum: d47d8780706d4c587c02b6714b959d91
 SHA256: 6a132d90802fb8330bfa95ce81d8ec5fada2f421ba958687facd9b2b6c7dfa5c
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5267,7 +5267,7 @@ Filename: rootless/com.muzi.mutool_2.1.36_iphoneos-arm64.deb
 Size: 673810
 MD5sum: e0b3b51f60988bf09b8fd55fcf7a4b1d
 SHA256: 81871c4b85a37acc1283d9ab0204154701341b10adde3a46a36545218a6ff439
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5284,7 +5284,7 @@ Filename: roothide/com.muzi.mutool_2.1.36_iphoneos-arm64e.deb
 Size: 668108
 MD5sum: c04b30724cf628a9096c886b84c4b5f5
 SHA256: b44ff1512883d3be12597a1bf437df95611f0ee761635a0dd841ae9c72c5c425
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5301,7 +5301,7 @@ Filename: rootless/com.muzi.mutool_2.1.43_iphoneos-arm64.deb
 Size: 678982
 MD5sum: 6b71e6101866733394ec1562734d1f54
 SHA256: db5462bf58f7d2822bcaefcd509f4a64d92d21e7a004d29c1523ace7f627dd87
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5318,7 +5318,7 @@ Filename: roothide/com.muzi.mutool_2.1.43_iphoneos-arm64e.deb
 Size: 670456
 MD5sum: 9d1f7f37b4d5b10299e0144bcbd7d18f
 SHA256: 730162ac7612e9b4b0fd4e290847128f1993a8b3c0c242ea674a652c3a44eed4
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5335,7 +5335,7 @@ Filename: rootless/com.muzi.mutool_2.1.49_iphoneos-arm64.deb
 Size: 675580
 MD5sum: caef7ef6b4b08859142190048e2e5284
 SHA256: bf459aa5e658f40323008affada34b9ba28517d58645ee2578cc66bb44a649ea
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5352,7 +5352,7 @@ Filename: roothide/com.muzi.mutool_2.1.49_iphoneos-arm64e.deb
 Size: 672698
 MD5sum: 7e585d586719a17d95432e9bcb3c1aaa
 SHA256: 116bbf8424f1ddbcebbc972a09c80d68da111a7083cac8b6dfcf6149727666e5
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5369,7 +5369,7 @@ Filename: rootless/com.muzi.mutool_2.1.50_iphoneos-arm64.deb
 Size: 677718
 MD5sum: 464e80714059c0fcfb0b80f4fd88c0b6
 SHA256: ad8521e5028f5fc5f0d395bf0a8841da7eb935f44c07a5e23871eb89308aee52
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5386,7 +5386,7 @@ Filename: roothide/com.muzi.mutool_2.1.50_iphoneos-arm64e.deb
 Size: 673316
 MD5sum: 21f7283ba01a7f0968ecbec3f263e085
 SHA256: 2930f433ecc67261bc892f0f50e1375c782e8c19dc52c7a588576227e4c160ad
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5403,7 +5403,7 @@ Filename: rootless/com.muzi.mutool_2.1.51_iphoneos-arm64.deb
 Size: 679686
 MD5sum: 27a8e6732a5b67681b43f569f20df01d
 SHA256: 27541846d20a029e295c72ffe731da3fd122022829fa913e25732b74eef67613
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5420,7 +5420,7 @@ Filename: roothide/com.muzi.mutool_2.1.51_iphoneos-arm64e.deb
 Size: 670680
 MD5sum: 384577dae09aafe858864cfd40aca800
 SHA256: 1d94dd04226cc129b92cab852af9fc5b3b3a6eec5ca2588a676e6320285778ec
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5437,7 +5437,7 @@ Filename: rootless/com.muzi.mutool_2.1.66_iphoneos-arm64.deb
 Size: 689228
 MD5sum: a22c12ee296217e7642f267aca2fec6a
 SHA256: 080da2bae51ad55653945f761834951d32bbf5595d8357e888d81968203160fb
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5454,7 +5454,7 @@ Filename: roothide/com.muzi.mutool_2.1.66_iphoneos-arm64e.deb
 Size: 680874
 MD5sum: 4ef860fcf8c70e2f635d709acb8fa769
 SHA256: c0cb79efac30f1b150b69334979ab315fc3fa5403daec7a26b2e64882f0af6ba
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5471,7 +5471,7 @@ Filename: rootless/com.muzi.mutool_2.1.67_iphoneos-arm64.deb
 Size: 689852
 MD5sum: 7959f31b624c95ef2007d1dfe47ac012
 SHA256: 8f3bc4db4a456e71811967124d6563b2287eb4514b6de01fe5e6c62a31d97f58
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5488,7 +5488,7 @@ Filename: roothide/com.muzi.mutool_2.1.67_iphoneos-arm64e.deb
 Size: 688752
 MD5sum: 1b93bd9d48f2ddc8ce5049d121cc9f60
 SHA256: 306e1cf20e771c43f01b5d3123b82232937bbd2f31968bd572c602598b3c6d8d
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5505,7 +5505,7 @@ Filename: rootless/com.muzi.mutool_2.1.68_iphoneos-arm64.deb
 Size: 691710
 MD5sum: e42cc9a4195cbdd83cd3fd4f19d01052
 SHA256: d0122c1440d96fa9132f169566cb908dda0c830b57cafb5086780b259d04151f
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5522,7 +5522,7 @@ Filename: roothide/com.muzi.mutool_2.1.68_iphoneos-arm64e.deb
 Size: 690404
 MD5sum: e2cd76ffb0250f795d04f394943c65a2
 SHA256: 8afa1e62286a42ad34a3fc8f788605131b2f24390196033006373e723fd87116
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5539,7 +5539,7 @@ Filename: rootless/com.muzi.mutool_2.1.69_iphoneos-arm64.deb
 Size: 697312
 MD5sum: 93fc61c5597336243abfa23067285ce7
 SHA256: d14c0ddff9994238f853dba1c2d1f1fd63528df99cb9d21d24f568d015ab6af8
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5556,7 +5556,7 @@ Filename: roothide/com.muzi.mutool_2.1.69_iphoneos-arm64e.deb
 Size: 686664
 MD5sum: e2e4074bff618d6d1a2f6ce0c0dbbecf
 SHA256: 81da3fb3b7f42bb0884f372c59e1b82711ee69bc1b607537da071dea5c27b914
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5573,7 +5573,7 @@ Filename: rootless/com.muzi.mutool_2.1.70_iphoneos-arm64.deb
 Size: 698780
 MD5sum: 119ddbc18ddf545e3cf22a8bda4d424c
 SHA256: cf9a011689523843417d83c2967d55cb644235223b66dba58fff1a7f3669217a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5590,7 +5590,7 @@ Filename: roothide/com.muzi.mutool_2.1.70_iphoneos-arm64e.deb
 Size: 686428
 MD5sum: 2d2f31cb04eafc716a1399898d319f4a
 SHA256: b2c6963ad269a7e1b7ba8a4b03cbb2d9b12d45e37c2b50fde66681d46d15a415
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5607,7 +5607,7 @@ Filename: rootless/com.muzi.mutool_2.1.71_iphoneos-arm64.deb
 Size: 695332
 MD5sum: 0e35367c2c8012f9166debee3ed84757
 SHA256: c3168223eb9e5f35b7fcc62273d14bf8121012ec372b5400faa595888a6b01ca
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5624,7 +5624,7 @@ Filename: roothide/com.muzi.mutool_2.1.71_iphoneos-arm64e.deb
 Size: 687774
 MD5sum: e843b1da0be0988c0fcf204e09d6bc95
 SHA256: 82b973c662593b614cb3dca8ce8695f19eb455b6487ccff5859a635d92fb5d66
-Name: MUtool(roothide)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5641,7 +5641,7 @@ Filename: rootless/com.muzi.mutool_2.1.72_iphoneos-arm64.deb
 Size: 696388
 MD5sum: d21240b2a8394b11703380bbcb7febf3
 SHA256: 248e517dfdee29600feae7bbd2e2f57b938b161b986934d781e1cf235ba1c28a
-Name: MUtool(rootless)
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
@@ -5658,7 +5658,41 @@ Filename: roothide/com.muzi.mutool_2.1.72_iphoneos-arm64e.deb
 Size: 690458
 MD5sum: fbb9761a1383d10ed4e44d9b270c68b3
 SHA256: 38179b3bc9856e466e82044141a3a5b6076ead734ff6832a344386885d68f1ed
-Name: MUtool(roothide)
+Name: MUtool
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.73
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.73_iphoneos-arm64.deb
+Size: 688194
+MD5sum: 57c610def23b3a028b06dd6bc3ab5171
+SHA256: 581b6c188304f5f3070b666d511c5787ab31ad06a63d90b9fba6cd6d471d3474
+Name: MUtool
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.73
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.73_iphoneos-arm64e.deb
+Size: 681976
+MD5sum: 2e4425f081e5e73ddd47c532fcc19e3a
+SHA256: d74a6c0ddb6e1b28b09b7d10f518a16a1b7a5a5b1d2698b75dd1fd1d33c74d4e
+Name: MUtool
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
