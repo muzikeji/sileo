@@ -6109,6 +6109,40 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/sileo/icons/mutool.png
 
+Package: com.muzi.mutool
+Version: 2.1.90
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.90_iphoneos-arm64.deb
+Size: 750170
+MD5sum: 438597346cf60b5cc7245551eaa47f2e
+SHA256: cb82cbae94ff49a4502fb911a067b9ccf5f0fec30c51750a01b143decf37c828
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满、未充电也常驻显示，长按弹出电源菜单（快速注销/强制注销/重启桌面/安全模式/重启空间/重启设备/设备关机），桌面空白处长按也可弹出电源菜单）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置 / WiFi 永连（锁屏保持 Wi-Fi 常连）、充电管理（充电提示音：接入提示音、MagSafe 动画、灵动岛电池与电池提醒；充电限制：修复 iOS 15/16.1 停充后无法恢复充电的问题、限充阈值停充并回落 5% 自动恢复、阻止充电/电源、满血快充、智能充电计划，六种充电控制方式互斥）、文件夹主题（名称/文字/图标/背景配色、毛玻璃、大文件夹、标题字号对齐加粗与隐藏）、温控（阻止降频、CPU 功率锁定、模拟降频）、系统增强（二级分类：锁屏增强 / 主屏幕增强 / 桌面增强，所有说明统一以 ⓘ 图标点击查看；锁屏：自动进桌面、解锁显示、通知亮屏、锁屏禁用与隐藏、唤醒与锁屏、锁屏充电胶囊、动作反馈；主屏幕：禁用项、隐藏项、小组件多选拖动、底栏设置、动画与后台；桌面：图标下载进度条与阴影、桌面电源菜单）、录制增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、美化相关（状态栏前景色 / 隐藏时间 / 强制浅深色）、桌面悬浮信息药丸（最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.90
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.90_iphoneos-arm64e.deb
+Size: 743474
+MD5sum: 714262789d36124a5c88831fa34e2faa
+SHA256: 6a0477508c3334bde58b596b0a1d79051b97708415e0ec674ca195f89e85bcc7
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满、未充电也常驻显示，长按弹出电源菜单（快速注销/强制注销/重启桌面/安全模式/重启空间/重启设备/设备关机），桌面空白处长按也可弹出电源菜单）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置 / WiFi 永连（锁屏保持 Wi-Fi 常连）、充电管理（充电提示音：接入提示音、MagSafe 动画、灵动岛电池与电池提醒；充电限制：修复 iOS 15/16.1 停充后无法恢复充电的问题、限充阈值停充并回落 5% 自动恢复、阻止充电/电源、满血快充、智能充电计划，六种充电控制方式互斥）、文件夹主题（名称/文字/图标/背景配色、毛玻璃、大文件夹、标题字号对齐加粗与隐藏）、温控（阻止降频、CPU 功率锁定、模拟降频）、系统增强（二级分类：锁屏增强 / 主屏幕增强 / 桌面增强，所有说明统一以 ⓘ 图标点击查看；锁屏：自动进桌面、解锁显示、通知亮屏、锁屏禁用与隐藏、唤醒与锁屏、锁屏充电胶囊、动作反馈；主屏幕：禁用项、隐藏项、小组件多选拖动、底栏设置、动画与后台；桌面：图标下载进度条与阴影、桌面电源菜单）、录制增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、美化相关（状态栏前景色 / 隐藏时间 / 强制浅深色）、桌面悬浮信息药丸（最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
 Package: com.muzi.mutoollite
 Version: 1.0.1
 Architecture: iphoneos-arm64
