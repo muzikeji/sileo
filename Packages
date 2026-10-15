@@ -4990,6 +4990,40 @@ Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/sileo/icons/mutool.png
 
 Package: com.muzi.mutool
+Version: 2.1.100
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_2.1.100_iphoneos-arm64.deb
+Size: 743082
+MD5sum: 20005d3bbfe622e2c350fbf809b4ca09
+SHA256: 36836474cca6f3e5b34e6ceed4af791839595990c8b7c77febc584cd072b63c6
+Name: MUtool
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满、未充电也常驻显示，长按弹出电源菜单（快速注销/强制注销/重启桌面/安全模式/重启空间/重启设备/设备关机），桌面空白处长按也可弹出电源菜单）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置 / WiFi 永连（锁屏保持 Wi-Fi 常连）、充电管理（充电提示音：接入提示音、MagSafe 动画、灵动岛电池与电池提醒；充电控制：2.1.91 起彻底改用 Battman 纯 SMC 方案，仅保留阻止充电/阻止电源，不再写入任何 IORegistry 属性；2.1.92 修复残留 daemon_settings 导致重启后仍被停充的问题，新增一键修复按钮与升级自动恢复，彻底解决 iOS 15/16.1 充不上电；2.1.93 修复「重启守护进程」按钮无反应、新增充电诊断日志（一键修复下方一键用 Filza 打开日志排查停充原因）；2.1.94 修复诊断日志误报「暂无日志」（改用与 daemon 一致的真实路径打开）；2.1.95 充电诊断日志改为滚动保留最新 20KB，自动删除最早日志；2.1.96 灵动岛电池与锁屏充电胶囊锁定竖屏不随设备旋转、重启用户空间改用 jbctl 内核重启方案；2.1.97 修复重启空间触发全机重启（改为经 reboot3 私有系统调用并补齐 launchd userspace-reboot entitlement）；2.1.98 重启空间改为参考 RebootTools 的系统原生方案（XPC 连接 com.apple.mmaintenanced 发送 cmd=5，前置 unlink state 文件，兼容 iOS 14~17）；2.1.99 三合一状态栏修复点击展开后原生图标未收起导致双重显示、新增「点击查看原始图标」开关（仅开启后点按才展开））、文件夹主题（名称/文字/图标/背景配色、毛玻璃、大文件夹、标题字号对齐加粗与隐藏）、温控（阻止降频、CPU 功率锁定、模拟降频）、系统增强（二级分类：锁屏增强 / 主屏幕增强 / 桌面增强，所有说明统一以 ⓘ 图标点击查看；锁屏：自动进桌面、解锁显示、通知亮屏、锁屏禁用与隐藏、唤醒与锁屏、锁屏充电胶囊、动作反馈；主屏幕：禁用项、隐藏项、小组件多选拖动、底栏设置、动画与后台；桌面：图标下载进度条与阴影、桌面电源菜单）、录制增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、美化相关（状态栏前景色 / 隐藏时间 / 强制浅深色）、桌面悬浮信息药丸（最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
+Version: 2.1.100
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_2.1.100_iphoneos-arm64e.deb
+Size: 738260
+MD5sum: 5ba915ab16d50e1142b1b14bd7df30dd
+SHA256: 9071df8c6cfc904cbe8c0c785bfee904c3fde7bff02002a3ae2cdff7b86012ce
+Name: MUtool
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满、未充电也常驻显示，长按弹出电源菜单（快速注销/强制注销/重启桌面/安全模式/重启空间/重启设备/设备关机），桌面空白处长按也可弹出电源菜单）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置 / WiFi 永连（锁屏保持 Wi-Fi 常连）、充电管理（充电提示音：接入提示音、MagSafe 动画、灵动岛电池与电池提醒；充电控制：2.1.91 起彻底改用 Battman 纯 SMC 方案，仅保留阻止充电/阻止电源，不再写入任何 IORegistry 属性；2.1.92 修复残留 daemon_settings 导致重启后仍被停充的问题，新增一键修复按钮与升级自动恢复，彻底解决 iOS 15/16.1 充不上电；2.1.93 修复「重启守护进程」按钮无反应、新增充电诊断日志（一键修复下方一键用 Filza 打开日志排查停充原因）；2.1.94 修复诊断日志误报「暂无日志」（改用与 daemon 一致的真实路径打开）；2.1.95 充电诊断日志改为滚动保留最新 20KB，自动删除最早日志；2.1.96 灵动岛电池与锁屏充电胶囊锁定竖屏不随设备旋转、重启用户空间改用 jbctl 内核重启方案；2.1.97 修复重启空间触发全机重启（改为经 reboot3 私有系统调用并补齐 launchd userspace-reboot entitlement）；2.1.98 重启空间改为参考 RebootTools 的系统原生方案（XPC 连接 com.apple.mmaintenanced 发送 cmd=5，前置 unlink state 文件，兼容 iOS 14~17）；2.1.99 三合一状态栏修复点击展开后原生图标未收起导致双重显示、新增「点击查看原始图标」开关（仅开启后点按才展开））、文件夹主题（名称/文字/图标/背景配色、毛玻璃、大文件夹、标题字号对齐加粗与隐藏）、温控（阻止降频、CPU 功率锁定、模拟降频）、系统增强（二级分类：锁屏增强 / 主屏幕增强 / 桌面增强，所有说明统一以 ⓘ 图标点击查看；锁屏：自动进桌面、解锁显示、通知亮屏、锁屏禁用与隐藏、唤醒与锁屏、锁屏充电胶囊、动作反馈；主屏幕：禁用项、隐藏项、小组件多选拖动、底栏设置、动画与后台；桌面：图标下载进度条与阴影、桌面电源菜单）、录制增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音、录屏轨迹触点大小与图片可自定义）、美化相关（状态栏前景色 / 隐藏时间 / 强制浅深色）、桌面悬浮信息药丸（最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+
+Package: com.muzi.mutool
 Version: 2.1.11
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -6274,3 +6308,4 @@ Section: Tweaks
 SileoDepiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Depiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Icon: https://muzikeji.github.io/sileo/icons/moe.waru.soko.png
+
