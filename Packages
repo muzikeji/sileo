@@ -468,6 +468,42 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.kayoko.json
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.kayoko.json
 Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 
+Package: com.muzi.keyboardx
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.keyboardx_1.0.2_iphoneos-arm64.deb
+Size: 1798430
+MD5sum: dfdcf03e696c3fafe2b63031e5e51c70
+SHA256: 581be94061835b1b1ec853a44f99cee521aa24281f166ef582201be3846663cf
+Name: KeyboardX
+Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Icon: https://muzikeji.github.io/sileo/icons/keyboardx.png
+
+Package: com.muzi.keyboardx
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.keyboardx_1.0.2_iphoneos-arm64e.deb
+Size: 1790486
+MD5sum: 1446a9d2f20d5878112c654c68142f3a
+SHA256: d8a5c441f2787c059903f8685a4b2949ae90d40258c19818ef6d5bd2dcf5bcbe
+Name: KeyboardX
+Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Icon: https://muzikeji.github.io/sileo/icons/keyboardx.png
+
 Package: com.muzi.mupill
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6238,4 +6274,3 @@ Section: Tweaks
 SileoDepiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Depiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Icon: https://muzikeji.github.io/sileo/icons/moe.waru.soko.png
-
