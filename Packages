@@ -13,7 +13,7 @@ Section: Tweaks
 Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，固定解除温控模式，支持 CPU/GPU/Package 温控旁路、ProMotion 120Hz 与 /System/Library/ThermalMonitor 一键挂载优化。
 Author: Huayuarc
 Icon: https://muzikeji.github.io/Sileo/icons/com.huayuarc.cputhermal.png
-Name: CPU 解除温控(rootless)
+Name: CPU 解除温控
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.huayuarc.cputhermal.json
 
 Package: com.johndie.triggr
@@ -294,7 +294,7 @@ SHA256: d325917e669246a1a6879455c29e7899446391393a88b1633512985d59563581
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.1
@@ -311,7 +311,24 @@ SHA256: 92cbc9c2f36734ea1a26c8c8b6082dac7a8857ad28afec1f6897e0e2b02910e5
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
+
+Package: com.muzi.mupill
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Filename: rootless/com.muzi.mupill_1.0.10_iphoneos-arm64.deb
+Size: 273942
+MD5sum: ec25d80609ad746cff1380efd8c62c1a
+SHA1: 56c2ee3afdd37082ba4aca04612f491a4691b54d
+SHA256: 45ba7bc597ffc667dac9411ed98aad71b967384ad96ac52a97a397dfe92cfb6a
+Section: Tweaks
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.10：透明/去边框样式的背景反色改为 0.05s 高频采样（只渲染药丸所在区域），反转响应接近即时，不再慢半拍。
+Author: Muzi
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.2
@@ -328,7 +345,7 @@ SHA256: e171e7eb70af1993a95ad556d20b1ceab3900b24e50bc72a4233fb90b6fb9f79
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.3
@@ -345,7 +362,7 @@ SHA256: 78444d39f0d12f6d59de7668a87fd953bafed2129088f73ef359f6a834d62e6a
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.4
@@ -362,7 +379,7 @@ SHA256: ce3796a1d5dc4090a39c5b2b9cdb8aea749419c85b621711c00587dabddaf53f
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.5
@@ -379,7 +396,7 @@ SHA256: 7791882c9be00a86143f017f7243814e679894e0f85dd024dd51e1fdf5dca276
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.6
@@ -396,7 +413,7 @@ SHA256: 49e3f72ad9706cb049eac0d3dc8c5bacaf2474fc401e726c9aface7445502d5d
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.7
@@ -413,7 +430,7 @@ SHA256: 22dd8a99642a3bec209c89dfaeb1c8af04a6a8cd2b97d2b8007db1c93195e283
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.8
@@ -430,7 +447,7 @@ SHA256: b7f053d857143d315136716efb895163db6620e405087a815efdea0615b7950e
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.9
@@ -447,7 +464,7 @@ SHA256: fb3a25191c65116f2a47e61cee9405ad85d6fc65e7968e589cc0bb6bd0456fd3
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(rootless)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mutescheduler
 Version: 1.0.1
@@ -3480,7 +3497,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer(rootless)
+Name: ReachPlayer
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.reachplayer
@@ -3498,7 +3515,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer(rootless)
+Name: ReachPlayer
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.scheduler
@@ -3550,7 +3567,7 @@ Section: Tweaks
 Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，固定解除温控模式，支持 CPU/GPU/Package 温控旁路、ProMotion 120Hz 与 /System/Library/ThermalMonitor 一键挂载优化。
 Author: Huayuarc
 Icon: https://muzikeji.github.io/Sileo/icons/com.huayuarc.cputhermal.png
-Name: CPU 解除温控(roothide)
+Name: CPU 解除温控
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.huayuarc.cputhermal.json
 
 Package: com.johndie.triggr
@@ -3831,7 +3848,7 @@ SHA256: 0bf73c7b73857f7385db0a27ed10b8f4fefb6518a54aade022ea42b7a79f3d82
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.1
@@ -3848,7 +3865,24 @@ SHA256: 04a9cb2865f5b2c2db596bde5f084b04f348a89f3dcbc4f181df900b50a3f8a7
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
+
+Package: com.muzi.mupill
+Version: 1.0.10
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Filename: roothide/com.muzi.mupill_1.0.10_iphoneos-arm64e.deb
+Size: 269694
+MD5sum: f7938e794fd958e636ae98eaaeae9dac
+SHA1: fb5a68a63b9e7622d754c81f86bba81d29d939ff
+SHA256: 0611771ce5a3e898f0587aeb3d5b65170eacab60737cc0bb77f3e99e87309b5a
+Section: Tweaks
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.10：透明/去边框样式的背景反色改为 0.05s 高频采样（只渲染药丸所在区域），反转响应接近即时，不再慢半拍。
+Author: Muzi
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.2
@@ -3865,7 +3899,7 @@ SHA256: f52549d830a0c8b910fb82b6a9d1eeba0c53982fa8be5632b5b4b018832d6fc9
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.3
@@ -3882,7 +3916,7 @@ SHA256: f63093f37293bfa434b85c16fe82957c84c4a5b528ae4b5bc9b5f565f21793a3
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图录屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.4
@@ -3899,7 +3933,7 @@ SHA256: d11c6ea153ecdc6140cf8ca1dc8b9bff5fe79293180f57b44f400e27e6da77b1
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.5
@@ -3916,7 +3950,7 @@ SHA256: e27f4a9eb92c8a36bff2ebdf735d34e6be2644dee163144d76961727d72bca69
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.6
@@ -3933,7 +3967,7 @@ SHA256: da6fb01ccf2eafe5e8c7bdb90fb4d2372dbda43dcc58415c158ce0b791c9a294
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.7
@@ -3950,7 +3984,7 @@ SHA256: 9d44fd6b4ad9e584698a613108469f40a42d98f52908362e332888209f9114b3
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.8
@@ -3967,7 +4001,7 @@ SHA256: 353630b6fd79ebf17adf167c08215f167eb10642babb94ffb17fff1733b55621
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mupill
 Version: 1.0.9
@@ -3984,7 +4018,7 @@ SHA256: ba73f14bedc74b887ffb0efbf2d84f4d5152144255666e00cd327a5e2390c501
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏
 Author: Muzi
-Name: 悬浮药丸独立版(roothide)
+Name: 悬浮药丸独立版
 
 Package: com.muzi.mutescheduler
 Version: 1.0.1
@@ -7036,7 +7070,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer(roothide)
+Name: ReachPlayer
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.reachplayer
@@ -7054,7 +7088,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer(roothide)
+Name: ReachPlayer
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.scheduler
