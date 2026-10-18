@@ -262,22 +262,40 @@ Name: Kayoko
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
 Package: com.muzi.keyboardx
-Version: 1.0.2
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: Muzi
-Installed-Size: 7120
+Filename: rootless/com.muzi.keyboardx_1.0.9_iphoneos-arm64.deb
+Size: 1816264
+MD5sum: eb4a2c8fcdb32392d46de366cdca2dc2
+SHA256: 64be851b29869d7214d7d3afdedc8689b61e03e7c8ae9078fa7a970482ee1d9a
+Name: KeyboardX
+Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Replaces: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: rootless/com.muzi.keyboardx_1.0.2_iphoneos-arm64.deb
-Size: 1798430
-MD5sum: dfdcf03e696c3fafe2b63031e5e51c70
-SHA1: d3dce6e988fab91f8d9b0572243fbefd22cf9089
-SHA256: 581be94061835b1b1ec853a44f99cee521aa24281f166ef582201be3846663cf
 Section: Tweaks
-Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
-Author: Muzi
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Icon: https://muzikeji.github.io/sileo/icons/keyboardx.png
+
+Package: com.muzi.keyboardx
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.keyboardx_1.0.9_iphoneos-arm64e.deb
+Size: 1809540
+MD5sum: 09bb984660d8879203a2fce287000065
+SHA256: 1d7d3bb81f8c934a7184c0c75457bca6192b64dcc49741adbe01cd403b24ea30
 Name: KeyboardX
+Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.keyboardx.json
+Icon: https://muzikeji.github.io/sileo/icons/keyboardx.png
 
 Package: com.muzi.mupill
 Version: 1.0.0
@@ -3888,24 +3906,6 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 Name: Kayoko
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
-
-Package: com.muzi.keyboardx
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 7120
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Replaces: com.muzi.kayoko, com.lindo.typex, com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: roothide/com.muzi.keyboardx_1.0.2_iphoneos-arm64e.deb
-Size: 1790486
-MD5sum: 1446a9d2f20d5878112c654c68142f3a
-SHA1: 8ea6737077e4de3612900a0f47a8ae73e9ba8ab9
-SHA256: d8a5c441f2787c059903f8685a4b2949ae90d40258c19818ef6d5bd2dcf5bcbe
-Section: Tweaks
-Description: 键盘增强 + 剪贴板管理 二合一插件。集成 TypeX 的双工具栏/六向手势/滑动面板/桌面手势/自定义动作/JS 引擎/AI 面板，与 Kayoko 的剪切板历史管理/搜索/标签/悬浮粘贴。
-Author: Muzi
-Name: KeyboardX
 
 Package: com.muzi.mupill
 Version: 1.0.0
