@@ -331,6 +331,23 @@ Author: Muzi
 Name: 悬浮药丸独立版(rootless)
 
 Package: com.muzi.mupill
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1404
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Filename: rootless/com.muzi.mupill_1.0.11_iphoneos-arm64.deb
+Size: 275536
+MD5sum: 3d087ec8a64e2cd6b92f1c4bad214af7
+SHA1: b6d602d2a38b06c4c1ce00709a570d05939c2323
+SHA256: ba095dfac4a1ff45516723f4817497183e4c9174c45b3ec9573998d9a2b01638
+Section: Tweaks
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
+Author: Muzi
+Name: 悬浮药丸独立版(rootless)
+
+Package: com.muzi.mupill
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -3938,6 +3955,23 @@ SHA1: fb5a68a63b9e7622d754c81f86bba81d29d939ff
 SHA256: 0611771ce5a3e898f0587aeb3d5b65170eacab60737cc0bb77f3e99e87309b5a
 Section: Tweaks
 Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.10：透明/去边框样式的背景反色改为 0.05s 高频采样（只渲染药丸所在区域），反转响应接近即时，不再慢半拍。
+Author: Muzi
+Name: 悬浮药丸独立版(roothide)
+
+Package: com.muzi.mupill
+Version: 1.0.11
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Filename: roothide/com.muzi.mupill_1.0.11_iphoneos-arm64e.deb
+Size: 270576
+MD5sum: 4bd0c3d7ae4f0df46dcd12d13063e9bd
+SHA1: c6287270f06b6528307d436768c6c560f10e8cb6
+SHA256: 511d54bb7d00f417c3f37de4338eddf257d93013c4a116a1eb073c89c2bee727
+Section: Tweaks
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
 Author: Muzi
 Name: 悬浮药丸独立版(roothide)
 
