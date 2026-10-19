@@ -1,0 +1,61 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.3",
+  "tintColor": "#3478F6",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "useSpacing": true,
+          "markdown": "## YunX 云析\n网盘分享链接解析 + 高速下载。\n\n- 识别 **夸克 / UC / 迅雷 / 百度 / 139 / 123 / 115 / 蓝奏** 等分享链接，自动匹配提取码\n- **Range 分片并发 + 断点续传 + 失败重试 + 全局限速**\n- GitHub 仓库浏览与 README 渲染\n- 系统分享菜单导入链接，下载文件可在「文件」App 中取出\n\n本包是 [YunX-Desktop](https://github.com/tidain/YunX-Desktop) 同源功能的 iOS 移植版，越狱安装（已自签，无需证书）。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "信息",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "0.1.1-14"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "支持的系统",
+          "text": "iOS 15.0+"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "架构",
+          "text": "rootless / roothide"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "源码",
+          "text": "cc1477/YunX-iOS (AGPL-3.0)"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "更新日志",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useSpacing": true,
+          "markdown": "**0.1.1-14**\n- 首次上架：Release 构建（非 Debug），补齐图标、Keychain 与本地通知权限\n- 支持 rootless 与 roothide 两种布局\n\n首次启动会申请通知权限（下载完成提醒）。"
+        }
+      ]
+    }
+  ]
+}
