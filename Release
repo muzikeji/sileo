@@ -3,20 +3,20 @@ Label: Muzi
 Suite: stable
 Version: 1.0
 Codename: muzi
-Date: Mon, 19 Oct 2026 14:17:07 +0000
+Date: Mon, 19 Oct 2026 16:15:22 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: MUtool 多功能工具集越狱源。灵动岛电池胶囊、悬浮信息药丸、状态栏图标分色与 VPN 变色、充电限制与智能温度停充、温控调校、通话自动录音、录屏增强、定时任务、自动禁用 SIM、三合一状态栏、电池健康等。支持 rootless / roothide，iOS 15-17。
 
 MD5Sum:
- b45e5f5e9c51668e352741a5fff588e1 676884 Packages
- 9cb6e8e76259983a4f68712dd232258c 48757 Packages.gz
- c5a6626c71d969424ae25b55e4c45cad 40885 Packages.bz2
- a5ef11ecd4009e9f045daea77358fdfc 37080 Packages.xz
- 7de0396802303a1b99769697773ffed8 43226 Packages.zst
+ 4463ba523b1c3b9b01cc1802b44b2186 714118 Packages
+ 6125aacc5ffe09bd280b6872ecc9a73d 49600 Packages.gz
+ 93f1a0c35bffc72332de505372363c7d 41739 Packages.bz2
+ 697a48c4f0a9872c93730ccc4a48d7c2 37488 Packages.xz
+ 84b0c9123aa660734313c3b6720e3813 43745 Packages.zst
 SHA256:
- 1381a51048b3ace8fe854f7a7980732ee7d75322d760a6d599f9889f82e5ffec 676884 Packages
- 271f0889c150dd93a4c432782562ea4b71eeafa133d051c0b5d83efcb4b24ff6 48757 Packages.gz
- 10a6d300f924334d550ba67204384431a5aaef1cbad703fe5b53f592fc7fe40e 40885 Packages.bz2
- 6311419c0b60da8d9cd9fb1bed48b15b03e8176fc7cbc313341aae5cb98f4237 37080 Packages.xz
- bebd70bcff65474ac59cc5cf1f29e30edcc56007c22a85c25f33096784ef22c7 43226 Packages.zst
+ 11fd7ec7cea01b922455be0ce6157e5945a5021bd1163ccb1d60d4b2a4de1430 714118 Packages
+ df09f819f61274b87bc80a76b1b000378a884b02ad66459eb0162af9e44db0db 49600 Packages.gz
+ f82b72f0dd78b3ada5c4869fdcbf430f85837a481dc3aaf04f356bfe0a437378 41739 Packages.bz2
+ 470f68434dfea049e0b0b18d993b5bdc9b4f1b94c4416afa1a1c78df7edebbd1 37488 Packages.xz
+ 147f26ddf21d6abe587db181c84ed31cd86862808a435515847e05b8180f1671 43745 Packages.zst
