@@ -6585,6 +6585,38 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.scheduler.j
 Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.scheduler.json
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 
+Package: com.yunx.app.ios
+Version: 0.1.1-14
+Architecture: iphoneos-arm64
+Maintainer: muzikeji
+Filename: rootless/com.yunx.app.ios_0.1.1-14_iphoneos-arm64.deb
+Size: 20990050
+MD5sum: 21a1a5f2479b3334bf84f794329e7f2e
+SHA256: 7eceeb1b51e31f3a41c43a7a705fc4f178a575aeb7e09c3478b7859d25b8016d
+Name: YunX 云析
+Description: 云析 YunX —— 夸克/UC/迅雷/百度/139/123 等网盘分享链接解析与 Range 分片并发下载（iOS 移植版越狱包）
+Depends: firmware (>= 15.0)
+Section: Applications
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.yunx.app.ios.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.yunx.app.ios.json
+Icon: https://muzikeji.github.io/sileo/icons/com.yunx.app.ios.png
+
+Package: com.yunx.app.ios
+Version: 0.1.1-14
+Architecture: iphoneos-arm64e
+Maintainer: muzikeji
+Filename: roothide/com.yunx.app.ios_0.1.1-14_iphoneos-arm64e.deb
+Size: 20990212
+MD5sum: 42a2da4d3f02d8c2a101ac75a21ab6a3
+SHA256: d9a61dbff5153807b200de1ae5ce17f19b4132bc6292584f81504d1c811bf94e
+Name: YunX 云析
+Description: 云析 YunX —— 夸克/UC/迅雷/百度/139/123 等网盘分享链接解析与 Range 分片并发下载（iOS 移植版越狱包）
+Depends: firmware (>= 15.0)
+Section: Applications
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.yunx.app.ios.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.yunx.app.ios.json
+Icon: https://muzikeji.github.io/sileo/icons/com.yunx.app.ios.png
+
 Package: moe.waru.soko
 Version: 1.0.0-rc.1
 Architecture: iphoneos-arm64
