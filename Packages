@@ -677,6 +677,40 @@ Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
 Icon: https://muzikeji.github.io/sileo/icons/mupill.png
 
 Package: com.muzi.mupill
+Version: 1.0.12
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.12_iphoneos-arm64.deb
+Size: 276618
+MD5sum: ed1252f0dae3cde69aa406650637edf5
+SHA256: 3fc3321db1da4474b5620832fca37eff03ffe4f67d36fb0ce3a8425b89bedb7d
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.12：悬浮药丸旋转逻辑同步主仓 2.2.34/2.2.35——优化药丸旋转：①方向源改用 UIApplication 私有 _frontMostAppOrientation（直接返回前台应用界面方向，不依赖 SpringBoard 场景/状态栏方向，后者在 SpringBoard 进程恒报竖屏），并新增 0.4s 主线程方向轮询捕捉前台 App 横竖屏变化（SpringBoard 状态栏方向通知对前台 App 旋转不可靠）；竖屏应用只显示竖屏三悬浮、横屏应用只显示横屏悬浮，均不跟随传感器旋转、无黑影。②旋转过渡期整窗隐藏：状态栏方向变化预告（WillChange）后立即隐藏模块窗口，系统旋转快照不完全包含磨砂窗口（消除 UIVisualEffectView 黑块/黑角），旋转完成后恢复显隐。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.12
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.12_iphoneos-arm64e.deb
+Size: 271666
+MD5sum: b55b553272ae377660865fdd643ff225
+SHA256: dffec9525f24f183c7a73aeaa8a8a4d65ba2c2bac65f11d8d235b32bf178687e
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.12：悬浮药丸旋转逻辑同步主仓 2.2.34/2.2.35——优化药丸旋转：①方向源改用 UIApplication 私有 _frontMostAppOrientation（直接返回前台应用界面方向，不依赖 SpringBoard 场景/状态栏方向，后者在 SpringBoard 进程恒报竖屏），并新增 0.4s 主线程方向轮询捕捉前台 App 横竖屏变化（SpringBoard 状态栏方向通知对前台 App 旋转不可靠）；竖屏应用只显示竖屏三悬浮、横屏应用只显示横屏悬浮，均不跟随传感器旋转、无黑影。②旋转过渡期整窗隐藏：状态栏方向变化预告（WillChange）后立即隐藏模块窗口，系统旋转快照不完全包含磨砂窗口（消除 UIVisualEffectView 黑块/黑角），旋转完成后恢复显隐。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Muzi
