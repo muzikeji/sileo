@@ -136,7 +136,7 @@ def main():
                                          capture_output=True, text=True).stdout.strip(),
                'Architectures: iphoneos-arm64 iphoneos-arm64e',
                'Components: main',
-               'Description: MUtool 多功能工具集越狱源。灵动岛电池胶囊、悬浮信息药丸、状态栏图标分色与 VPN 变色、充电限制与智能温度停充、温控调校、通话自动录音、录屏增强、定时任务、自动禁用 SIM、三合一状态栏、电池健康等。支持 rootless / roothide，iOS 15-17。',
+               'Description: MUtool 多功能工具集越狱源。灵动岛电池胶囊、悬浮信息药丸、状态栏图标分色与 VPN 变色、温控调校、通话自动录音、录屏增强、定时任务、自动禁用 SIM、三合一状态栏、电池健康等。支持 rootless / roothide，iOS 15-17。',
                '']
     release.append('MD5Sum:')
     for name in ['Packages', 'Packages.gz', 'Packages.bz2', 'Packages.xz', 'Packages.zst']:
