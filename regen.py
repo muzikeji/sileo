@@ -127,8 +127,8 @@ def main():
         sizes[name] = len(data)
         sha256s[name] = hashlib.sha256(data).hexdigest()
 
-    release = ['Origin: Muzi Sileo Repo',
-               'Label: Muzi',
+    release = ['Origin: 木子源',
+               'Label: 木子源',
                'Suite: stable',
                'Version: 1.0',
                'Codename: muzi',
