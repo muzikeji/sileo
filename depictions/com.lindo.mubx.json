@@ -1,0 +1,58 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.3",
+  "tintColor": "#3478F6",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "markdown": "## MUBX\n可自定义键盘快捷操作栏的键盘增强插件。\n\n- **双工具栏**：键盘上方工具栏 + 键盘 dock 工具栏，按钮拖动排序、外观逐栏独立\n- **35 种内置动作**：编辑、删除、选择、光标、工具五组\n- **六向手势**：单击 / 长按 / 上滑 / 下滑 / 左滑 / 右滑独立绑定，支持子动作链\n- **键盘面板与手势面板**：任意数量的命名面板，内置勿扰 / Wi-Fi / 静音 / 蓝牙 / 方向锁与亮度、音量滑条\n- **自定义动作**：文本、URL、URL Scheme、打开应用、快捷方式、JavaScript、系统动作\n- **AI 问答面板**：OpenAI 兼容协议、流式输出、人设与 Markdown 渲染\n- **剪贴板**：内置剪贴板历史面板（历史 / 收藏、搜索、删除、清空）与光标旁悬浮粘贴条\n- **桌面手势**：状态栏三分区手势与 Dock 三向手势独立绑定\n- **第三方联动**：ShellX、PullOver X、Kayoko、PixPin\n\n支持 rootless 与 roothide 无根越狱，要求 iOS 15.0 及以上。",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "信息",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "lindo",
+          "title": "作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.7",
+          "title": "版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15.0+",
+          "title": "支持的系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2026年11月04日",
+          "title": "更新日期"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "markdown": "#### 版本: 1.0.7\n- 键盘面板仅覆盖键盘本体，不再遮挡豆包等聊天类 App 的输入框\n- 移除剪贴板诊断文件日志，仅保留系统日志\n- 清理重复的调试输出\n\n#### 版本: 1.0.6\n- 剪贴板面板的删除 / 收藏 / 清空改为 App 容器命令通道，由 SpringBoard 消费执行，修复 Dopamine/roothide 沙盒 App 内操作无效\n\n#### 版本: 1.0.5\n- 剪贴板存储迁移至沙盒可写区，修复面板操作不可用",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}

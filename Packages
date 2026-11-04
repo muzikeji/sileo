@@ -94,6 +94,40 @@ SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.j
 Depiction: https://muzikeji.github.io/sileo/depictions/com.johndie.triggr.json
 Icon: https://muzikeji.github.io/sileo/icons/com.johndie.triggr.png
 
+Package: com.lindo.mubx
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: lindo
+Filename: rootless/com.lindo.mubx_1.0.7_iphoneos-arm64.deb
+Size: 1113140
+MD5sum: 3c6cdf80c699009e77c2318b6023692c
+SHA256: efc54bee72347aa3a1bb2e0043212547e940347a94dc1fa769488d18266ea9ee
+Name: MUBX
+Description: 参考 TypeX 和 Kayoko 实现两个插件的功能，超级键盘增强
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, com.muzi.kayoko, com.lindo.typex
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.lindo.mubx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.lindo.mubx.json
+Icon: https://udevsharold.github.io/repo/depictions/com.lindo.mubx/icon/icon.png
+
+Package: com.lindo.mubx
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: lindo
+Filename: roothide/com.lindo.mubx_1.0.7_iphoneos-arm64e.deb
+Size: 1102856
+MD5sum: 427cb62a2cf7e6b3d9af91bc945a3fd1
+SHA256: d32474a3f169191419f75eec9aaa818c5169028059a311be0e866c10e56b24c7
+Name: MUBX
+Description: 参考 TypeX 和 Kayoko 实现两个插件的功能，超级键盘增强
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.restiveconch.actionbar, com.udevs.dockx, com.lindo.dockx, com.muzi.kayoko, com.lindo.typex
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.lindo.mubx.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.lindo.mubx.json
+Icon: https://udevsharold.github.io/repo/depictions/com.lindo.mubx/icon/icon.png
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -7086,3 +7120,4 @@ Section: Tweaks
 SileoDepiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Depiction: https://muzikeji.github.io/sileo/depictions/moe.waru.soko.json
 Icon: https://muzikeji.github.io/sileo/icons/moe.waru.soko.png
+
