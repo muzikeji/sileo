@@ -741,6 +741,40 @@ Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
 Icon: https://muzikeji.github.io/sileo/icons/mupill.png
 
 Package: com.muzi.mupill
+Version: 1.0.16
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mupill_1.0.16_iphoneos-arm64.deb
+Size: 370722
+MD5sum: 3d38ea4688bfa67d85b23ce061306fd1
+SHA256: 6c23d7817df103d3729f117e1ce688f0ce660574f98e63561c57e47b9fecc50f
+Name: 悬浮药丸独立版(rootless)
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.16：授权体系切换为与完整版 MUtool 相同的 MuziAuthShield 在线授权（Ed25519 验签、7 天令牌自动续期，购买入口 s.i58.xyz）；修复截图/录屏隐藏时 CATransaction flush 在动画提交事务内同步等待导致 SpringBoard SIGTRAP 进入安全模式。1.0.15：悬浮药丸天气指标图标根据天气实时变化（下雨展示下雨图标、晴天展示晴天图标等），中英文条件匹配、多云/阴/雾/雷/雪全面约束；修正多云被误判为晴夕的问题。 1.0.14：悬浮药丸旋转同步主仓 2.2.36——承载窗口关闭系统自动旋转（setAutorotates:NO），窗口固定竖屏坐标系，内容旋转角只由前台 App 方向推导，消除旋转动画中途取到瞬时方向导致的错乱；修正逆时针横屏（LandscapeLeft 4）被上界误判丢弃的问题；设备方向通知改为仅触发即时轮询与动画结束后的补对齐，不再参与方向判定；旋转过渡期改用 setVisible:NO 统一隐藏，恢复前按最终方向对齐内容与位置。同步四模块位置微调按模块前缀读写独立坐标、固定位置为公共设置；设置页新增「启用悬浮药丸」总开关，控制中心按钮改为同一总开关。1.0.12：悬浮药丸旋转逻辑同步主仓 2.2.34/2.2.35——优化药丸旋转：①方向源改用 UIApplication 私有 _frontMostAppOrientation（直接返回前台应用界面方向，不依赖 SpringBoard 场景/状态栏方向，后者在 SpringBoard 进程恒报竖屏），并新增 0.4s 主线程方向轮询捕捉前台 App 横竖屏变化（SpringBoard 状态栏方向通知对前台 App 旋转不可靠）；竖屏应用只显示竖屏三悬浮、横屏应用只显示横屏悬浮，均不跟随传感器旋转、无黑影。②旋转过渡期整窗隐藏：状态栏方向变化预告（WillChange）后立即隐藏模块窗口，系统旋转快照不完全包含磨砂窗口（消除 UIVisualEffectView 黑块/黑角），旋转完成后恢复显隐。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
+Version: 1.0.16
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mupill_1.0.16_iphoneos-arm64e.deb
+Size: 367374
+MD5sum: 074e3f275b06ba169348e4f76bdc287f
+SHA256: ceab849f400f319e062482ef2a47a73bf2e5872005f3044f0de2b814f6923b19
+Name: 悬浮药丸独立版(roothide)
+Description: 桌面悬浮信息药丸独立版：最多三个竖屏悬浮窗 + 一个横屏悬浮窗，各窗口独立配置（实时网速 / CPU / 内存 / 时间 / 农历 / 公历 / 周几 / 电池电量），Liquid Glass 风格，透明度与字号可调，元素颜色可自定义或随机，拖动持久化，锁屏自动隐藏，截图/录屏/屏幕镜像时自动隐藏。1.0.16：授权体系切换为与完整版 MUtool 相同的 MuziAuthShield 在线授权（Ed25519 验签、7 天令牌自动续期，购买入口 s.i58.xyz）；修复截图/录屏隐藏时 CATransaction flush 在动画提交事务内同步等待导致 SpringBoard SIGTRAP 进入安全模式。1.0.15：悬浮药丸天气指标图标根据天气实时变化（下雨展示下雨图标、晴天展示晴天图标等），中英文条件匹配、多云/阴/雾/雷/雪全面约束；修正多云被误判为晴夕的问题。 1.0.14：悬浮药丸旋转同步主仓 2.2.36——承载窗口关闭系统自动旋转（setAutorotates:NO），窗口固定竖屏坐标系，内容旋转角只由前台 App 方向推导，消除旋转动画中途取到瞬时方向导致的错乱；修正逆时针横屏（LandscapeLeft 4）被上界误判丢弃的问题；设备方向通知改为仅触发即时轮询与动画结束后的补对齐，不再参与方向判定；旋转过渡期改用 setVisible:NO 统一隐藏，恢复前按最终方向对齐内容与位置。同步四模块位置微调按模块前缀读写独立坐标、固定位置为公共设置；设置页新增「启用悬浮药丸」总开关，控制中心按钮改为同一总开关。1.0.12：悬浮药丸旋转逻辑同步主仓 2.2.34/2.2.35——优化药丸旋转：①方向源改用 UIApplication 私有 _frontMostAppOrientation（直接返回前台应用界面方向，不依赖 SpringBoard 场景/状态栏方向，后者在 SpringBoard 进程恒报竖屏），并新增 0.4s 主线程方向轮询捕捉前台 App 横竖屏变化（SpringBoard 状态栏方向通知对前台 App 旋转不可靠）；竖屏应用只显示竖屏三悬浮、横屏应用只显示横屏悬浮，均不跟随传感器旋转、无黑影。②旋转过渡期整窗隐藏：状态栏方向变化预告（WillChange）后立即隐藏模块窗口，系统旋转快照不完全包含磨砂窗口（消除 UIVisualEffectView 黑块/黑角），旋转完成后恢复显隐。1.0.11：纯文字/去边框样式的文字反色完全改用 Helium 方案——移除旧的 0.05s 高频截图采样（慢且主线程开销大），改为 CABackdropLayer + colorInvert 反色滤镜 + 字形 mask：反色图层由 GPU 实时采样窗口背后内容，字形区域显示背景反色（深背景白字/亮背景黑字），背景变化零延迟跟随、无轮询、无主线程采样开销；「背景反色检测」滑杆随之移除。
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutool
+Section: Tweaks
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Depiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mupill.json
+Icon: https://muzikeji.github.io/sileo/icons/mupill.png
+
+Package: com.muzi.mupill
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Muzi
