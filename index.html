@@ -1,71 +1,741 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
-    <meta name="description" content="MUtool 多功能工具集越狱源：灵动岛电池胶囊、悬浮信息药丸、状态栏图标分色与 VPN 变色、温控调校、通话自动录音、录屏增强、定时任务、三合一状态栏、电池健康。支持 rootless / roothide，iOS 15-17。"/>
-    <title>木子源 - MUtool 越狱源</title>
-    <style>
-        body {
-            background-color: #f5f5f5;
-            color: #333;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="description" content="木子源越狱源：MUtool 多功能工具集、灵动岛电池胶囊、悬浮信息药丸、状态栏分色、温控调校、通话录音、录屏增强、定时任务等插件。支持 rootless / roothide，iOS 15-18。" />
+<title>木子源 · 越狱源</title>
+<link rel="icon" href="icons/muzi.png" sizes="any" />
+<style>
+  :root{
+    --accent:#0a84ff;
+    --bg:#f2f2f7;
+    --bg-elev:#ffffff;
+    --bg-elev2:#f7f7fa;
+    --text:#1c1c1e;
+    --text-dim:#8a8a8e;
+    --line:#e3e3e8;
+    --green:#30d158;
+    --orange:#ff9f0a;
+    --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.06);
+    --radius:16px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#000000;
+      --bg-elev:#1c1c1e;
+      --bg-elev2:#2c2c2e;
+      --text:#f2f2f7;
+      --text-dim:#98989d;
+      --line:#38383a;
+      --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px rgba(0,0,0,.45);
+    }
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro SC","PingFang SC","Helvetica Neue",Arial,sans-serif;
+    font-size:15px;line-height:1.45;
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  a{color:inherit;text-decoration:none}
+  button{font:inherit;color:inherit;border:0;background:none;cursor:pointer}
 
-        .container {
-            text-align: center;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            background-color: white;
-        }
+  /* ---------- 顶部 ---------- */
+  .hero{
+    padding:calc(24px + env(safe-area-inset-top)) 18px 18px;
+    background:
+      radial-gradient(120% 120% at 10% 0%, rgba(10,132,255,.18), transparent 60%),
+      radial-gradient(120% 120% at 90% 10%, rgba(48,209,88,.14), transparent 55%),
+      var(--bg-elev);
+    border-bottom:1px solid var(--line);
+  }
+  .hero-inner{max-width:760px;margin:0 auto}
+  .brand{display:flex;align-items:center;gap:12px}
+  .logo{
+    width:52px;height:52px;border-radius:14px;flex:none;
+    display:grid;place-items:center;font-size:24px;font-weight:600;
+    color:#fff;background:linear-gradient(150deg,#0a84ff,#5e5ce6);
+    box-shadow:0 8px 20px rgba(10,132,255,.28);
+    overflow:hidden;
+  }
+  .logo img{width:100%;height:100%;object-fit:cover}
+  h1{margin:0;font-size:24px;letter-spacing:-.02em}
+  .tagline{margin:4px 0 0;font-size:13px;color:var(--text-dim);line-height:1.5}
+  .stats{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0}
+  .stat{
+    display:flex;align-items:baseline;gap:6px;padding:7px 12px;border-radius:12px;
+    background:var(--bg-elev2);border:1px solid var(--line);font-size:12px;color:var(--text-dim);
+  }
+  .stat b{font-size:16px;color:var(--text);font-weight:600}
+  .add{margin-top:16px}
+  .add-title{font-size:12px;color:var(--text-dim);margin:0 0 8px;letter-spacing:.02em}
+  .btn-row{display:flex;flex-wrap:wrap;gap:8px}
+  .btn{
+    display:inline-flex;align-items:center;gap:6px;padding:10px 16px;border-radius:12px;
+    background:var(--bg-elev2);border:1px solid var(--line);font-size:14px;font-weight:500;
+    transition:transform .12s ease,background .12s ease,opacity .12s;
+  }
+  .btn:active{transform:scale(.97)}
+  .btn-primary{background:var(--accent);border-color:transparent;color:#fff;box-shadow:0 6px 16px rgba(10,132,255,.3)}
+  .btn svg{width:16px;height:16px;opacity:.9}
+  .copy-hint{
+    display:none;margin-top:10px;padding:10px 12px;border-radius:12px;font-size:12px;
+    background:rgba(10,132,255,.1);color:var(--accent);border:1px solid rgba(10,132,255,.25);
+  }
 
-        h1 {
-            font-size: 28px;
-            margin: 0 0 20px;
-        }
+  /* ---------- 工具栏（吸顶） ---------- */
+  .toolbar{
+    position:sticky;top:0;z-index:20;
+    padding:12px 18px 10px;
+    background:color-mix(in srgb,var(--bg) 86%,transparent);
+    backdrop-filter:saturate(180%) blur(18px);
+    -webkit-backdrop-filter:saturate(180%) blur(18px);
+    border-bottom:1px solid var(--line);
+  }
+  .toolbar-inner{max-width:760px;margin:0 auto}
+  .search-wrap{position:relative}
+  .search-ico{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.55;width:16px;height:16px}
+  #q{
+    width:100%;padding:11px 38px 11px 36px;border-radius:12px;border:1px solid var(--line);
+    background:var(--bg-elev);color:var(--text);font-size:15px;outline:none;
+    transition:border-color .15s,box-shadow .15s;
+  }
+  #q:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(10,132,255,.16)}
+  #clear{
+    position:absolute;right:8px;top:50%;transform:translateY(-50%);
+    width:24px;height:24px;border-radius:50%;background:var(--line);color:var(--text-dim);
+    display:none;place-items:center;font-size:13px;line-height:1;
+  }
+  .chips{display:flex;gap:6px;overflow-x:auto;margin-top:10px;padding-bottom:2px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{
+    flex:none;padding:7px 13px;border-radius:20px;font-size:13px;
+    background:var(--bg-elev);border:1px solid var(--line);color:var(--text-dim);
+    transition:all .14s;white-space:nowrap;
+  }
+  .chip[aria-pressed="true"]{background:var(--accent);border-color:transparent;color:#fff;font-weight:500}
+  .meta-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:10px}
+  #count{font-size:12px;color:var(--text-dim)}
+  #sort{
+    padding:5px 8px;border-radius:9px;font-size:12px;background:var(--bg-elev);
+    border:1px solid var(--line);color:var(--text-dim);outline:none;
+  }
 
-        .legend {
-            font-size: 20px;
-            margin: 0 0 10px;
-        }
+  /* ---------- 列表 ---------- */
+  main{max-width:760px;margin:0 auto;padding:14px 18px 28px}
+  .card{
+    display:flex;gap:12px;align-items:flex-start;
+    padding:13px;border-radius:var(--radius);background:var(--bg-elev);
+    border:1px solid var(--line);margin-bottom:10px;box-shadow:var(--shadow);
+    transition:transform .12s ease,opacity .2s;
+    cursor:pointer;
+  }
+  .card:active{transform:scale(.985)}
+  .ico{
+    width:52px;height:52px;border-radius:13px;flex:none;overflow:hidden;
+    background:linear-gradient(150deg,rgba(10,132,255,.16),rgba(94,92,230,.16));
+    display:grid;place-items:center;font-size:19px;font-weight:600;color:var(--accent);
+    border:1px solid var(--line);
+  }
+  .ico img{width:100%;height:100%;object-fit:cover;display:block}
+  .body{flex:1;min-width:0}
+  .title-line{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  .name{font-size:16px;font-weight:600;letter-spacing:-.01em}
+  .ver{font-size:11px;color:var(--text-dim);background:var(--bg-elev2);padding:2px 6px;border-radius:6px;font-variant-numeric:tabular-nums}
+  .badge{font-size:10.5px;padding:2px 6px;border-radius:6px;font-weight:600;letter-spacing:.02em}
+  .b-rootless{background:rgba(10,132,255,.12);color:#0a84ff}
+  .b-roothide{background:rgba(48,209,88,.14);color:#1c9e46}
+  @media (prefers-color-scheme: dark){ .b-rootless{color:#5fa9ff} .b-roothide{color:#4ade80} }
+  .desc{
+    margin:5px 0 0;font-size:13px;color:var(--text-dim);line-height:1.45;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  }
+  .desc mark{background:rgba(255,214,10,.35);color:inherit;border-radius:3px;padding:0 1px}
+  .sub{margin-top:6px;display:flex;gap:10px;flex-wrap:wrap;font-size:11.5px;color:var(--text-dim)}
+  .sub span{display:inline-flex;align-items:center;gap:4px}
+  mark{background:rgba(255,214,10,.35);color:inherit;border-radius:3px;padding:0 1px}
 
-        .button {
-            display: inline-block;
-            margin: 10px auto;
-            padding: 10px 20px;
-            font-size: 16px;
-            text-decoration: none;
-            color: #007aff;
-            border: solid 2px #007aff;
-            border-radius: 15px;
-            background-color: transparent;
-            cursor: pointer;
-            transition: background-color 0.3s, color 0.3s;
-            -webkit-tap-highlight-color: transparent;
-        }
+  .empty{
+    text-align:center;padding:48px 16px;color:var(--text-dim);font-size:14px;
+  }
+  .empty b{display:block;color:var(--text);font-size:16px;margin-bottom:6px}
+  .skeleton{height:80px;border-radius:var(--radius);background:var(--bg-elev);border:1px solid var(--line);margin-bottom:10px;opacity:.6}
 
-        .button:active {
-            background-color: #007aff;
-            color: white;
-        }
-    </style>
+  /* ---------- 详情弹层 ---------- */
+  .sheet-mask{
+    position:fixed;inset:0;background:rgba(0,0,0,.42);z-index:40;
+    opacity:0;pointer-events:none;transition:opacity .22s;backdrop-filter:blur(2px);
+  }
+  .sheet{
+    position:fixed;left:0;right:0;bottom:0;z-index:41;max-height:88vh;overflow:auto;
+    background:var(--bg-elev);border-radius:20px 20px 0 0;
+    transform:translateY(130%);transition:transform .28s cubic-bezier(.32,.72,0,1);
+    padding:8px 18px calc(24px + env(safe-area-inset-bottom));
+    box-shadow:0 -12px 40px rgba(0,0,0,.24);
+  }
+  .sheet.open{transform:translateY(0)}
+  .sheet-mask.open{opacity:1;pointer-events:auto}
+  .grabber{width:38px;height:5px;border-radius:3px;background:var(--line);margin:6px auto 14px}
+  @media (min-width:720px){
+    .sheet{max-width:640px;margin:0 auto;border-radius:20px;bottom:24px}
+  }
+  .sheet-head{display:flex;gap:14px;align-items:center}
+  .sheet-head .ico{width:64px;height:64px;border-radius:16px;font-size:24px}
+  .sheet-head h2{margin:0;font-size:19px}
+  .sheet-head .pkgid{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;color:var(--text-dim);margin-top:3px}
+  .kv{margin:18px 0 0;border-top:1px solid var(--line)}
+  .kv .row{display:flex;justify-content:space-between;gap:16px;padding:11px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+  .kv .row .k{color:var(--text-dim);flex:none}
+  .kv .row .v{text-align:right;word-break:break-word}
+  .sec-title{margin:20px 0 6px;font-size:12px;color:var(--text-dim);letter-spacing:.03em}
+  .desc-full{font-size:13.5px;line-height:1.6;color:var(--text);white-space:pre-wrap}
+  .dep{font-size:12.5px;color:var(--text-dim);line-height:1.7;word-break:break-word}
+  .sheet-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:20px}
+  .sheet-actions .btn{flex:1;justify-content:center;min-width:140px}
+
+  .toast{
+    position:fixed;left:50%;bottom:calc(28px + env(safe-area-inset-bottom));transform:translate(-50%,12px);
+    background:rgba(28,28,30,.92);color:#fff;font-size:13px;padding:10px 16px;border-radius:999px;
+    opacity:0;pointer-events:none;transition:all .22s;z-index:60;
+  }
+  .toast.show{opacity:1;transform:translate(-50%,0)}
+  footer{max-width:760px;margin:0 auto;padding:10px 18px 40px;font-size:12px;color:var(--text-dim);text-align:center;line-height:1.8}
+  footer a{color:var(--accent)}
+  @media (max-width:520px){
+    .tagline{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+    .hero{padding-top:calc(18px + env(safe-area-inset-top))}
+    .btn{padding:9px 13px;font-size:13px}
+  }
+</style>
 </head>
 <body>
-    <div class="container">
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="brand">
+      <div class="logo" id="logo">木</div>
+      <div>
         <h1>木子源</h1>
-        <form action="#" method="post">
-            <p class="legend">添加越狱源<span class="fa fa-hand-o-down"></span></p>
-            <a href="sileo://source/https://muzikeji.github.io/sileo/" class="button">Sileo</a>
-            <br>
-            <a href="zbra://sources/add/https://muzikeji.github.io/sileo/" class="button">Zebra</a>            <br>
-            <a href="apt-repo://https://muzikeji.github.io/sileo/" class="button">Saily</a>
-        </form>
+        <p class="tagline">MUtool 多功能工具集越狱源 · 灵动岛电池胶囊 / 悬浮信息药丸 / 状态栏分色 / 温控调校 / 通话录音 / 录屏增强 · iOS 15–18</p>
+      </div>
     </div>
+
+    <div class="stats" id="stats">
+      <div class="stat"><b id="st-total">—</b> 个插件</div>
+      <div class="stat"><b id="st-rootless">—</b> rootless</div>
+      <div class="stat"><b id="st-roothide">—</b> roothide</div>
+    </div>
+
+    <div class="add">
+      <p class="add-title">添加到越狱商店</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" id="btn-sileo" href="#">Sileo</a>
+        <a class="btn" id="btn-zebra" href="#">Zebra</a>
+        <a class="btn" id="btn-saily" href="#">Saily</a>
+        <a class="btn" id="btn-cydia" href="#">Cydia</a>
+        <button class="btn" id="btn-copy">复制源地址</button>
+      </div>
+      <div class="copy-hint" id="copy-hint"></div>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-inner">
+    <div class="search-wrap">
+      <svg class="search-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="搜索插件名称、包名、作者或描述…" autocomplete="off" spellcheck="false" />
+      <button id="clear" aria-label="清空">✕</button>
+    </div>
+    <div class="chips" id="chips-section"></div>
+    <div class="chips" id="chips-arch">
+      <button class="chip" data-arch="all" aria-pressed="true">全部架构</button>
+      <button class="chip" data-arch="rootless" aria-pressed="false">rootless</button>
+      <button class="chip" data-arch="roothide" aria-pressed="false">roothide</button>
+    </div>
+    <div class="meta-row">
+      <span id="count">正在加载…</span>
+      <select id="sort">
+        <option value="name">按名称</option>
+        <option value="size">按体积</option>
+        <option value="id">按包名</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<main id="list">
+  <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+</main>
+
+<footer>
+  <div>共 <span id="f-total">—</span> 个插件 · 索引更新于 <span id="f-date">—</span></div>
+  <div>本页直接读取仓库 <code>Packages</code> 生成，<a href="https://github.com/muzikeji/sileo" target="_blank" rel="noopener">GitHub 仓库</a></div>
+</footer>
+
+<div class="sheet-mask" id="mask"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true">
+  <div class="grabber"></div>
+  <div id="sheet-body"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+  'use strict';
+
+  /* ---------- 基础信息 ---------- */
+  var BASE = (function(){
+    try{
+      var u = new URL(location.href);
+      var p = u.pathname;
+      if(!/\/$/.test(p)){ p = /[^\/]*\.[^\/]*$/.test(p) ? p.replace(/[^\/]*$/,'') : p + '/'; }
+      return u.origin + p;
+    }catch(e){ return 'https://muzikeji.github.io/sileo/'; }
+  })();
+
+  /* ---------- 状态 ---------- */
+  var state = { q:'', section:'全部', arch:'all', sort:'name' };
+  var PKGS = [];        // 聚合后的插件
+  var SECTIONS = [];
+  var rawCount = 0;
+
+  /* ---------- 工具函数 ---------- */
+  function esc(s){
+    return String(s == null ? '' : s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+  function fmtSize(b){
+    b = Number(b) || 0;
+    if(b >= 1048576) return (b/1048576).toFixed(1) + ' MB';
+    if(b >= 1024) return Math.round(b/1024) + ' KB';
+    return b + ' B';
+  }
+  function tokenize(v){ return String(v || '').match(/\d+|\D+/g) || []; }
+  function verCmp(a, b){
+    var A = tokenize(a), B = tokenize(b);
+    for(var i = 0; i < Math.max(A.length, B.length); i++){
+      var x = A[i], y = B[i];
+      if(x === undefined) return -1;
+      if(y === undefined) return 1;
+      var nx = /^\d+$/.test(x), ny = /^\d+$/.test(y);
+      if(nx && ny){ var d = Number(x) - Number(y); if(d) return d < 0 ? -1 : 1; }
+      else if(nx !== ny){ return nx ? 1 : -1; }
+      else { var c = x.localeCompare(y); if(c) return c < 0 ? -1 : 1; }
+    }
+    return 0;
+  }
+  function archKey(a){
+    a = String(a || '').toLowerCase();
+    if(a.indexOf('arm64e') >= 0) return 'roothide';
+    if(a.indexOf('arm64') >= 0) return 'rootless';
+    return 'other';
+  }
+  function cleanName(n){
+    return String(n || '').replace(/\s*[（(]\s*(rootless|roothide|arm64e?|arm64)\s*[)）]\s*$/i, '').trim();
+  }
+  function iconFromControl(url){
+    url = String(url || '').trim();
+    if(!url) return '';
+    var img = /\.(png|jpe?g|webp|gif|svg)(\?|#|$)/i;
+    if(/^https?:\/\//i.test(url)){
+      var m = /^https?:\/\/(?:www\.)?muzikeji\.github\.io\/sileo\/(.+)$/i.exec(url);
+      if(m){ var p = m[1]; return img.test(p) ? p : ''; }   /* 旧的大写 /Sileo/icons/ 路径改为仓库内相对路径 */
+      return img.test(url) ? url : '';
+    }
+    return img.test(url) ? url : '';
+  }
+  function guessIcons(id){
+    var out = [];
+    if(id === 'com.duo.statusbar') out.push('icons/duostatusbar.png');
+    if(id.indexOf('com.muzi.') === 0){
+      out.push('icons/' + id.slice(9) + '.png');   /* 短名：icons/mutool.png */
+      out.push('icons/' + id + '.png');            /* 全名：icons/com.muzi.mupill.png */
+    }else if(id.indexOf('com.duo.') === 0){
+      out.push('icons/' + id.slice(8) + '.png');
+      out.push('icons/' + id + '.png');
+    }else{
+      out.push('icons/' + id + '.png');            /* 全名：icons/com.johndie.triggr.png */
+      out.push('icons/' + id.split('.').pop() + '.png');
+    }
+    return out;
+  }
+  function iconChain(g){
+    var cands = guessIcons(g.id);
+    if(g.iconExplicit && cands.indexOf(g.iconExplicit) < 0) cands.unshift(g.iconExplicit);
+    return cands;
+  }
+  function iconTag(g){
+    var chain = iconChain(g), letter = (g.name || '?').charAt(0);
+    if(!chain.length) return '<div class="ico">' + esc(letter) + '</div>';
+    var first = chain[0];
+    return '<div class="ico"><img src="' + esc(first) + '" alt="" data-alt="' +
+      esc(chain.slice(1).join('|')) + '" data-letter="' + esc(letter) + '" onerror="iconFallback(this)"></div>';
+  }
+  /* 图标加载失败时按候选链回退，全部失败则退回首字母色块 */
+  window.iconFallback = function(el){
+    var rest = (el.getAttribute('data-alt') || '').split('|').filter(Boolean);
+    if(rest.length){
+      el.setAttribute('data-alt', rest.slice(1).join('|'));
+      el.setAttribute('src', rest[0]);
+    }else{
+      el.parentNode.innerHTML = el.getAttribute('data-letter') || '';
+    }
+  };
+  function highlight(text, q){
+    var t = esc(text);
+    if(!q) return t;
+    try{
+      var re = new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'ig');
+      return t.replace(re, '<mark>$1</mark>');
+    }catch(e){ return t; }
+  }
+  function toast(msg){
+    var el = document.getElementById('toast');
+    el.textContent = msg; el.classList.add('show');
+    clearTimeout(toast._t); toast._t = setTimeout(function(){ el.classList.remove('show'); }, 1800);
+  }
+  function copy(text, done){
+    var ok = false;
+    try{
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(text); ok = true;
+      }
+    }catch(e){}
+    if(!ok){
+      var ta = document.createElement('textarea');
+      ta.value = text; ta.style.position='fixed'; ta.style.opacity='0';
+      document.body.appendChild(ta); ta.select();
+      try{ document.execCommand('copy'); ok = true; }catch(e){}
+      document.body.removeChild(ta);
+    }
+    toast(ok ? '已复制' : '复制失败，请手动选择');
+    if(done) done();
+  }
+
+  /* ---------- 解析 Debian control ---------- */
+  function parsePackages(text){
+    var out = [], cur = {}, last = null;
+    var lines = text.split(/\r?\n/);
+    for(var i = 0; i < lines.length; i++){
+      var line = lines[i];
+      if(!line.trim()){
+        if(last !== null){ out.push(cur); cur = {}; last = null; }
+        continue;
+      }
+      if(/^[ \t]/.test(line) && last){
+        cur[last] += '\n' + line.trim();
+        continue;
+      }
+      var idx = line.indexOf(':');
+      if(idx < 0) continue;
+      var k = line.slice(0, idx).trim();
+      var v = line.slice(idx + 1).trim();
+      cur[k] = v; last = k;
+    }
+    if(last !== null) out.push(cur);
+    return out;
+  }
+
+  /* ---------- 聚合成插件（同 id 多版本/双架构合并） ---------- */
+  function build(stanzas){
+    rawCount = stanzas.length;
+    var map = Object.create(null);
+
+    stanzas.forEach(function(s){
+      var id = s.Package; if(!id) return;
+      var arch = archKey(s.Architecture);
+      var g = map[id];
+      if(!g){
+        g = map[id] = {
+          id: id, name: cleanName(s.Name || id), section: s.Section || '未分类',
+          maintainer: s.Maintainer || '', depiction: s.Depiction || s.SileoDepiction || '',
+          iconExplicit: '', variants: {}, ver: '', sizeMin: Infinity, desc: s.Description || ''
+        };
+      }
+      /* 取更高版本、更完整的字段 */
+      if(!g.ver || verCmp(s.Version, g.ver) > 0){
+        g.ver = s.Version || '';
+        g.name = cleanName(s.Name || g.name);
+        g.desc = s.Description || g.desc;
+        g.section = s.Section || g.section;
+        g.maintainer = s.Maintainer || g.maintainer;
+        g.depiction = s.Depiction || s.SileoDepiction || g.depiction;
+      }
+      if(!g.iconExplicit) g.iconExplicit = iconFromControl(s.Icon);
+      var v = g.variants[arch];
+      if(!v || verCmp(s.Version, v.version) > 0){
+        g.variants[arch] = {
+          version: s.Version || '', arch: s.Architecture || '', size: Number(s.Size) || 0,
+          file: s.Filename || '', deps: s.Depends || '', conflicts: s.Conflicts || '', replaces: s.Replaces || ''
+        };
+      }
+      /* 展示体积：取两个架构里较小的那个，避免夸大 */
+      var sz = Number(s.Size) || 0;
+      if(sz && sz < g.sizeMin) g.sizeMin = sz;
+    });
+
+    PKGS = Object.keys(map).map(function(k){
+      var g = map[k];
+      g.hasRootless = !!g.variants.rootless;
+      g.hasRoothide = !!g.variants.roothide;
+      g.size = g.sizeMin === Infinity ? 0 : g.sizeMin;
+      return g;
+    });
+
+    PKGS.sort(function(a, b){ return verCmp(a.ver, b.ver) > 0 ? -1 : 1; });
+  }
+
+  /* ---------- 渲染 ---------- */
+  function matches(g, q){
+    if(!q) return true;
+    var hay = [g.name, g.id, g.desc, g.maintainer, g.section].join(' ').toLowerCase();
+    return q.toLowerCase().split(/\s+/).filter(Boolean).every(function(w){ return hay.indexOf(w) >= 0; });
+  }
+
+  function visible(){
+    var q = state.q.trim();
+    return PKGS.filter(function(g){
+      if(!matches(g, q)) return false;
+      if(state.section !== '全部' && g.section !== state.section) return false;
+      if(state.arch === 'rootless' && !g.hasRootless) return false;
+      if(state.arch === 'roothide' && !g.hasRoothide) return false;
+      return true;
+    }).sort(function(a, b){
+      if(state.sort === 'size') return b.size - a.size;
+      if(state.sort === 'id') return a.id.localeCompare(b.id);
+      return a.name.localeCompare(b.name, 'zh-Hans-CN');
+    });
+  }
+
+  function renderChips(){
+    var box = document.getElementById('chips-section');
+    var secs = ['全部'].concat(SECTIONS);
+    box.innerHTML = secs.map(function(s){
+      return '<button class="chip" data-sec="' + esc(s) + '" aria-pressed="' + (state.section === s) + '">' + esc(s) + (s === '全部' ? '' : '') + '</button>';
+    }).join('');
+  }
+
+  function renderList(){
+    var list = document.getElementById('list');
+    var items = visible();
+    document.getElementById('count').textContent = items.length + ' / ' + PKGS.length + ' 个插件';
+
+    if(!items.length){
+      list.innerHTML = '<div class="empty"><b>没有匹配的插件</b>换个关键词，或把分类/架构切回“全部”</div>';
+      return;
+    }
+
+    var q = state.q.trim();
+    list.innerHTML = items.map(function(g, i){
+      var badge = '';
+      if(g.hasRootless) badge += '<span class="badge b-rootless">rootless</span>';
+      if(g.hasRoothide) badge += '<span class="badge b-roothide">roothide</span>';
+      var icon = iconTag(g);
+      return '<article class="card" data-i="' + i + '">' + icon +
+        '<div class="body">' +
+          '<div class="title-line"><span class="name">' + highlight(g.name, q) + '</span>' +
+            '<span class="ver">' + esc(g.ver) + '</span>' + badge + '</div>' +
+          '<p class="desc">' + highlight(g.desc, q) + '</p>' +
+          '<div class="sub"><span>' + esc(g.section) + '</span>' +
+            '<span>' + fmtSize(g.size) + '</span>' +
+            '<span>' + esc(g.maintainer) + '</span></div>' +
+        '</div></article>';
+    }).join('');
+
+    /* 绑定点击 */
+    Array.prototype.forEach.call(list.querySelectorAll('.card'), function(card){
+      card.addEventListener('click', function(){
+        openSheet(items[Number(card.getAttribute('data-i'))]);
+      });
+    });
+  }
+
+  /* ---------- 详情 ---------- */
+  function openSheet(g){
+    if(!g) return;
+    var body = document.getElementById('sheet-body');
+    var icon = iconTag(g);
+
+    var rows = '';
+    rows += '<div class="row"><span class="k">版本</span><span class="v">' + esc(g.ver) + '</span></div>';
+    rows += '<div class="row"><span class="k">分类</span><span class="v">' + esc(g.section) + '</span></div>';
+    rows += '<div class="row"><span class="k">维护者</span><span class="v">' + esc(g.maintainer) + '</span></div>';
+    var archTxt = [];
+    if(g.hasRootless) archTxt.push('rootless (' + fmtSize(g.variants.rootless.size) + ')');
+    if(g.hasRoothide) archTxt.push('roothide (' + fmtSize(g.variants.roothide.size) + ')');
+    rows += '<div class="row"><span class="k">架构</span><span class="v">' + esc(archTxt.join(' · ') || '—') + '</span></div>';
+
+    var depTxt = '';
+    if(g.variants.rootless && g.variants.rootless.deps) depTxt = g.variants.rootless.deps;
+    else if(g.variants.roothide && g.variants.roothide.deps) depTxt = g.variants.roothide.deps;
+    if(depTxt) rows += '<div class="row"><span class="k">依赖</span><span class="v">' + esc(depTxt) + '</span></div>';
+
+    var conf = g.variants.rootless && g.variants.rootless.conflicts;
+    if(conf) rows += '<div class="row"><span class="k">冲突</span><span class="v">' + esc(conf) + '</span></div>';
+
+    var dl = [];
+    ['rootless','roothide'].forEach(function(a){
+      var v = g.variants[a];
+      if(v && v.file) dl.push('<a class="btn" href="' + esc(BASE + v.file) + '" download>' + a + ' .deb</a>');
+    });
+
+    body.innerHTML =
+      '<div class="sheet-head">' + icon +
+        '<div><h2>' + esc(g.name) + '</h2><div class="pkgid">' + esc(g.id) + '</div></div>' +
+      '</div>' +
+      '<div class="kv">' + rows + '</div>' +
+      '<div class="sec-title">简介</div><div class="desc-full">' + esc(g.desc) + '</div>' +
+      '<div class="sheet-actions">' +
+        '<a class="btn btn-primary" href="sileo://package/' + esc(g.id) + '">在 Sileo 中打开</a>' +
+        '<button class="btn" id="cp-id">复制包名</button>' +
+      '</div>' +
+      '<div class="sheet-actions">' + dl.join('') + '</div>' +
+      (g.depiction ? '<div class="sec-title">详情页</div><a class="dep" href="' + esc(g.depiction) + '" target="_blank" rel="noopener">' + esc(g.depiction) + '</a>' : '');
+
+    document.getElementById('mask').classList.add('open');
+    document.getElementById('sheet').classList.add('open');
+    document.body.style.overflow = 'hidden';
+
+    var cp = document.getElementById('cp-id');
+    if(cp) cp.addEventListener('click', function(){ copy(g.id); });
+  }
+  function closeSheet(){
+    document.getElementById('mask').classList.remove('open');
+    document.getElementById('sheet').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  /* ---------- 统计与入口 ---------- */
+  function fillStats(){
+    document.getElementById('st-total').textContent = PKGS.length;
+    var rl = 0, rh = 0;
+    PKGS.forEach(function(g){ if(g.hasRootless) rl++; if(g.hasRoothide) rh++; });
+    document.getElementById('st-rootless').textContent = rl;
+    document.getElementById('st-roothide').textContent = rh;
+    document.getElementById('f-total').textContent = PKGS.length;
+
+    SECTIONS = Object.keys(PKGS.reduce(function(m, g){ m[g.section] = 1; return m; }, {})).sort();
+    renderChips();
+  }
+
+  function fillLinks(){
+    document.getElementById('btn-sileo').href = 'sileo://source/' + BASE;
+    document.getElementById('btn-zebra').href = 'zbra://sources/add/' + BASE;
+    document.getElementById('btn-saily').href = 'apt-repo://' + BASE;
+    document.getElementById('btn-cydia').href = 'cydia://url/' + BASE;
+  }
+
+  /* ---------- 事件 ---------- */
+  function bind(){
+    var q = document.getElementById('q');
+    var clearBtn = document.getElementById('clear');
+    var timer = null;
+    q.addEventListener('input', function(){
+      clearBtn.style.display = q.value ? 'grid' : 'none';
+      clearTimeout(timer);
+      timer = setTimeout(function(){ state.q = q.value; renderList(); }, 90);
+    });
+    clearBtn.addEventListener('click', function(){
+      q.value = ''; state.q = ''; clearBtn.style.display = 'none'; renderList(); q.focus();
+    });
+    document.addEventListener('keydown', function(e){
+      if(e.key === '/' && document.activeElement !== q){ e.preventDefault(); q.focus(); }
+      if(e.key === 'Escape') closeSheet();
+    });
+
+    document.getElementById('chips-section').addEventListener('click', function(e){
+      var b = e.target.closest('.chip'); if(!b) return;
+      state.section = b.getAttribute('data-sec');
+      Array.prototype.forEach.call(this.children, function(c){ c.setAttribute('aria-pressed', c === b); });
+      renderList();
+    });
+    document.getElementById('chips-arch').addEventListener('click', function(e){
+      var b = e.target.closest('.chip'); if(!b) return;
+      state.arch = b.getAttribute('data-arch');
+      Array.prototype.forEach.call(this.children, function(c){ c.setAttribute('aria-pressed', c === b); });
+      renderList();
+    });
+    document.getElementById('sort').addEventListener('change', function(){
+      state.sort = this.value; renderList();
+    });
+
+    document.getElementById('mask').addEventListener('click', closeSheet);
+    document.getElementById('btn-copy').addEventListener('click', function(){
+      copy(BASE, function(){
+        var hint = document.getElementById('copy-hint');
+        hint.style.display = 'block';
+        hint.textContent = '源地址已复制：' + BASE + '　在 Sileo → 管理 → 源 → 添加源 粘贴即可。';
+      });
+    });
+
+    /* 弹层下滑关闭 */
+    var sheet = document.getElementById('sheet'), startY = null;
+    sheet.addEventListener('touchstart', function(e){
+      if(sheet.scrollTop <= 0) startY = e.touches[0].clientY; else startY = null;
+    }, { passive:true });
+    sheet.addEventListener('touchmove', function(e){
+      if(startY === null) return;
+      var dy = e.touches[0].clientY - startY;
+      if(dy > 0) sheet.style.transform = 'translateY(' + dy + 'px)';
+    }, { passive:true });
+    sheet.addEventListener('touchend', function(e){
+      if(startY === null) return;
+      var dy = (e.changedTouches[0].clientY - startY);
+      sheet.style.transform = '';
+      if(dy > 110) closeSheet();
+      startY = null;
+    });
+  }
+
+  /* ---------- 启动 ---------- */
+  function parseReleaseDate(text){
+    var m = /^Date:\s*(.+)$/mi.exec(text || '');
+    if(!m) return '—';
+    var d = new Date(m[1]);
+    if(isNaN(d.getTime())) return m[1];
+    return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+  }
+
+  function boot(){
+    fillLinks();
+    bind();
+
+    Promise.all([
+      fetch('Packages', { cache:'no-cache' }).then(function(r){
+        if(!r.ok) throw new Error('Packages HTTP ' + r.status);
+        return r.text();
+      }),
+      fetch('Release', { cache:'no-cache' }).then(function(r){ return r.ok ? r.text() : ''; }).catch(function(){ return ''; })
+    ]).then(function(res){
+      var stanzas = parsePackages(res[0]);
+      build(stanzas);
+      fillStats();
+      document.getElementById('f-date').textContent = parseReleaseDate(res[1]);
+      renderList();
+
+      /* 仓库图标 */
+      var logo = document.getElementById('logo');
+      var probe = new Image();
+      probe.onload = function(){ logo.innerHTML = '<img src="' + esc(probe.src) + '" alt="木子源">'; };
+      probe.src = 'CydiaIcon.png';
+    }).catch(function(err){
+      document.getElementById('list').innerHTML =
+        '<div class="empty"><b>无法读取 Packages 索引</b>' +
+        esc(err && err.message ? err.message : '') +
+        '<br>如果你是在本地双击打开本页（file://），请改用本地或线上 HTTP 地址访问。' +
+        '</div>';
+      document.getElementById('count').textContent = '加载失败';
+    });
+  }
+
+  if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  else boot();
+})();
+</script>
 </body>
 </html>
