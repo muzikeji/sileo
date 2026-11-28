@@ -1,37 +1,3 @@
-注意：此插件默认开启
-
-触发方式如下：多选消息后点击「更多」→ 截图；齿轮图标进入设置。
-Maintainer: huami, Mallin
-Author: huami, Mallin
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Tag: role::enduser
-Icon: https://huayuarc.github.io/icon/WeChat.jpg
-Filename: https://huayuarc.github.io/debs/com.huami.chatcaptureplus-2.0-rootless.deb
-Size: 420236
-MD5sum: 1ddce77a5263584fc087d081c22b7a56
-SHA1: 
-SHA256: 9b74bee2fe8e7599e451cfd68de49e2e6e455bd21278d3b383c3fdc7d2c11e4a
-
-注意：此插件默认开启
-
-触发方式如下：多选消息后点击「更多」→ 截图；齿轮图标进入设置。
-Maintainer: huami, Mallin
-Author: huami, Mallin
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
-Tag: role::enduser
-Icon: https://huayuarc.github.io/icon/WeChat.jpg
-Filename: https://huayuarc.github.io/debs/com.huami.chatcaptureplus-2.0-roothide.deb
-Size: 423128
-MD5sum: e82f5b7134cabe50101420e1959c62c7
-SHA1: 
-SHA256: 4adaae2aa96c065948ed03205736f5285d24834d6db5f8ac1171eebb81f0465e
-
 Package: ai-config-gui
 Name: AI-Config-GUI
 Description: Claude Code / Codex API 配置管理工具 内置ai终端，双指缩放页面，需要先安装大飞源里面的ai，claude和codex然后执行一次“claude”和“codex”命令初始化文件，更新面板显示🤔
@@ -66,14 +32,12 @@ Size: 201112
 MD5sum: ed0cec255d2abd31c83c5718598c7cf8
 SHA1: 
 SHA256: 8c1bc24b4eddd936f3520ccd4ad733a43cb864ef26ed274e5e1bf51e83f2900b
-
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (<< 1.1)
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
-Maintainer: Karen/あけみ <karen@akemi.ai>
 Homepage: https://cydia.akemi.ai/
 Provides: appsync, net.angelxwind.appsyncunified
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+
 Package: ai.akemi.appsyncunified
 Name: AppSync Unified
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
@@ -1266,9 +1230,6 @@ MD5sum: a68e6f3d228520850c5623996c5bc9db
 SHA1: 
 SHA256: 3a25fd6e0215c3406fa33a591073627b0e235b90ea4913515fc3f1517ce2232e
 
-Author: Tinyapps.cn
-Maintainer: BigBoss
-Name: AntiTracker(查岗报警器)-Alerts you when tracked by others in real time
 Package: cn.tinyapps.antitracker
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Section: Tweaks
@@ -1285,10 +1246,10 @@ Size: 1045676
 MD5sum: 63993361c03e43d4a758276563ba2899
 SHA1: 
 SHA256: 4a76806d5657fbd8e744eb78d29701a1dbd7b024732bc98659b1c90c99449760
-
 Author: Tinyapps.cn
 Maintainer: BigBoss
 Name: AntiTracker(查岗报警器)-Alerts you when tracked by others in real time
+
 Package: cn.tinyapps.antitracker
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Section: Tweaks
@@ -1415,7 +1376,7 @@ SHA256: 2e90723484781713dca670f443cb9487d5e96a583a06de6cca9fb38133320561
 
 Package: cn.zqbb.holdcpu
 Name: Hello CPU
-Description:(解除温控) (锁定低电量CPU频率)
+Description: (解除温控) (锁定低电量CPU频率)
 Maintainer: zqbb
 Author: zqbb
 Section: Tweaks
@@ -1434,7 +1395,7 @@ SHA256: 47e7a6fb9c3081ab585ae02b05b54bcbaa6a0bd36aab164e3b8664cd4311cbe8
 
 Package: cn.zqbb.holdcpu
 Name: Hello CPU
-Description:(解除温控) (锁定低电量CPU频率)
+Description: (解除温控) (锁定低电量CPU频率)
 Maintainer: zqbb
 Author: zqbb
 Section: Tweaks
@@ -1498,7 +1459,7 @@ Depends: firmware (>= 15.0)
 Author: zqbb <zqbbzz@gmail.com>
 Maintainer: zqbb <zqbbzz@gmail.com>
 Description: 越狱版 TrollFools 注入工具
-  * 支持将 dylib 注入到应用内
+ * 支持将 dylib 注入到应用内
 icon: https://huayuarc.github.io/icon/JailFools.jpg
 Architecture: iphoneos-arm64e
 Version: 5.2.3
@@ -2147,15 +2108,15 @@ SHA256: 9497a845886cd2597936843cba52fe3350e2cb8a730303276bed3d2ebba9e5fc
 Package: com.aa22qq.lockeventringer
 Name: LockEventRinger 静音控制
 Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
-  系统兼容:
-   - 支持 iOS 15.0 至 iOS 17.x 
-  功能一 (LockEventRinger):
-   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
-  功能二 (RingerManagerControl):
-   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
-   - 开启静音: notifyutil -p com.ringer.control.mute
-   - 关闭静音: notifyutil -p com.ringer.control.unmute
-   - 状态切换: notifyutil -p com.ringer.control.toggle
+ 系统兼容:
+ - 支持 iOS 15.0 至 iOS 17.x
+ 功能一 (LockEventRinger):
+ - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+ 功能二 (RingerManagerControl):
+ - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+ - 开启静音: notifyutil -p com.ringer.control.mute
+ - 关闭静音: notifyutil -p com.ringer.control.unmute
+ - 状态切换: notifyutil -p com.ringer.control.toggle
 Maintainer: aa22qq
 Author: aa22qq
 Section: Tweaks
@@ -2173,15 +2134,15 @@ SHA256: b9a97fae3e3188d08907e125603f54b7ffbd4e88b926416d7a029ac1c2487860
 Package: com.aa22qq.lockeventringer
 Name: LockEventRinger 静音控制
 Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
-  系统兼容:
-   - 支持 iOS 15.0 至 iOS 17.x 
-  功能一 (LockEventRinger):
-   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
-  功能二 (RingerManagerControl):
-   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
-   - 开启静音: notifyutil -p com.ringer.control.mute
-   - 关闭静音: notifyutil -p com.ringer.control.unmute
-   - 状态切换: notifyutil -p com.ringer.control.toggle
+ 系统兼容:
+ - 支持 iOS 15.0 至 iOS 17.x
+ 功能一 (LockEventRinger):
+ - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+ 功能二 (RingerManagerControl):
+ - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+ - 开启静音: notifyutil -p com.ringer.control.mute
+ - 关闭静音: notifyutil -p com.ringer.control.unmute
+ - 状态切换: notifyutil -p com.ringer.control.toggle
 Maintainer: aa22qq
 Author: aa22qq
 Section: Tweaks
@@ -2582,7 +2543,6 @@ MD5sum: 09b4a49a7e9671bd997d327feb4fac74
 SHA1: 
 SHA256: 0c107455b455f62bbbcf17d6c25137228307f74cf922b38fd80fc5d4c74c098d
 
-Architecture: iphoneos-arm64
 Package: com.anthopak.powercuts-rootless
 Name: Powercuts
 Version: 1.2.2
@@ -2597,8 +2557,8 @@ Size: 275040
 MD5sum: 4df7a9247bf50212652db6da2a44d992
 SHA1: 
 SHA256: 42b305b4f7cde0d5ee16c1b9623f3d5d859e98b0ac419befdbe3815e43771a80
-
 Architecture: iphoneos-arm64e
+
 Package: com.anthopak.powercuts-rootless
 Name: Powercuts
 Version: 1.2.2
@@ -2614,8 +2574,8 @@ Size: 272768
 MD5sum: 3da8fa00f626333b6c415ce77d796512
 SHA1: 
 SHA256: 8495492db5fb0cbe2eeb729ee624ca0297e7aba3373851540ae90b2a770f045f
-
 Architecture: iphoneos-arm64
+
 Package: com.anthopak.powercutsactionspack-rootless
 Name: Powercuts Actions Pack
 Version: 1.3.1
@@ -2630,8 +2590,8 @@ Size: 60968
 MD5sum: 5aad3c685ece7df844b3d67b2d387453
 SHA1: 
 SHA256: cda9a676024de7bec17fe61c0e5066d85733b94ce2606fc816fc31dbbb50491c
-
 Architecture: iphoneos-arm64e
+
 Package: com.anthopak.powercutsactionspack-rootless
 Name: Powercuts Actions Pack
 Version: 1.3.1
@@ -2797,33 +2757,33 @@ Description: 本机抓码清单 + 桌面悬浮入口 + 查件面板，数据只�
  → 点开清单：点一下复制、左滑已取 / 删除、筛选 → 剪贴板添加、新码顶部横幅。
  3.4.3 新增 / 修复：
  · 卡片右侧的到期倒计时只认原文明确写出的时间（今天 21 点前 / 明天 12 点前 / 24 小时内 /
-   3 天内 / X 月 X 日）；原文没写就不显示，不再拿「柜机 36 小时」之类的猜测值糊弄人。
+ 3 天内 / X 月 X 日）；原文没写就不显示，不再拿「柜机 36 小时」之类的猜测值糊弄人。
  · 去掉自相矛盾的「超 24h」角标（它算的是「抓到多久了」，不是「离超期还有多久」），
-   现在只剩一个真实倒计时；带零头的写成「明天 14:30 前」，不再把 14:59 说成 14 点。
+ 现在只剩一个真实倒计时；带零头的写成「明天 14:30 前」，不再把 14:59 说成 14 点。
  · 来源行不再显示「电脑导入」，来源和标题重复时（如短信）只留一处。
  · 认不出具体快递的卡片，左侧改成来源图标（短信气泡 / 铃铛 / 取景框 / 剪贴板），不再是一个「码」字。
  · 侧栏小蓝条支持拖出来：按住即可拖到屏幕任意位置，松手时离边栏 52pt 内自动吸附，
-   停在中就留在原地；双击归位到边栏；设置里新增「左边 / 右边 / 自由摆放」。
+ 停在中就留在原地；双击归位到边栏；设置里新增「左边 / 右边 / 自由摆放」。
  3.4.2 新增 / 修复：
  · 新增「在途快递」：从短信 / 通知原文里认出运单号（顺丰 SF、圆通 YT、中通 73/75/76/78、
-   申通 77、韵达 43/46、极兔 JT、京东 JD、邮政 9/1、EMS），自动查最新轨迹并缓存在本机。
-   悬浮面板底部新增「在途」页签，桌面 App 首页新增「在途快递」入口，支持手动加单号、
-   下拉刷新、点开看最近 6 条轨迹、一键浏览器看全程。查询只在刷新时联网，30 分钟节流。
+ 申通 77、韵达 43/46、极兔 JT、京东 JD、邮政 9/1、EMS），自动查最新轨迹并缓存在本机。
+ 悬浮面板底部新增「在途」页签，桌面 App 首页新增「在途快递」入口，支持手动加单号、
+ 下拉刷新、点开看最近 6 条轨迹、一键浏览器看全程。查询只在刷新时联网，30 分钟节流。
  · 修复卡片上「来源」与「到期时间」挤在一起互相盖住：到期文字改成按实际宽度右对齐，
-   时间 / 来源行只用到它左边的空间。
+ 时间 / 来源行只用到它左边的空间。
  3.4.1 修复（安装不再卡住）：
  · postinst 只写日志就立即返回，uicache / launchctl / 重启 SpringBoard 全部挪到
-   nohup 后台脚本执行，dpkg 不再等待，Sileo 不会转圈卡死。
+ nohup 后台脚本执行，dpkg 不再等待，Sileo 不会转圈卡死。
  · root 更新守护进程脚本随包安装到 /var/jb/usr/libexec，不再依赖 heredoc 现场生成。
  3.4.0 新增：
  · 解析器重写：多段连字符 8-3-2015 / 5-5-9-13 / 2-3-05025、字母段 A88123 / H-01485 /
-   D4-7048、纯数字 470812 / 72778、「请凭0614-056取件」全部支持。
+ D4-7048、纯数字 470812 / 72778、「请凭0614-056取件」全部支持。
  · 两层锚点 + 兜底评分：关键词锚点、凭引导锚点都抓不到时，用特征词 + 动作词 + 码形
-   打分（>=3 分才采纳），包裹不会静默消失。
+ 打分（>=3 分才采纳），包裹不会静默消失。
  · 负样本排除：手机号 / 掩码号、运单号 / 订单号、年份日期、时间、A区123格 里的数字、
-   快递员尾号、银行与登录验证码、10086 流量提醒，一个都不会再误抓。
+ 快递员尾号、银行与登录验证码、10086 流量提醒，一个都不会再误抓。
  · 清单顶部统计「未取 N 件 · 今日到期 N 件」；列表按驿站 / 柜机分组，标题右侧显示
-   同一家有几件；卡片右侧显示「还剩 5 小时 / 今天 21 点前 / 已超 2 小时」。
+ 同一家有几件；卡片右侧显示「还剩 5 小时 / 今天 21 点前 / 已超 2 小时」。
  · 悬浮入口换成贴边的小渐变竖线（9×132），不显示未取条数、不挡屏幕，点击展开面板。
  3.3.0 保留：排序拖动与恢复默认、每个入口单独开关、深链多级回退、液态风格、
  抖音 / 抖音极速版 / 小红书入口、root 更新守护进程（推包即自动安装）。
@@ -2852,33 +2812,33 @@ Description: 本机抓码清单 + 桌面悬浮入口 + 查件面板，数据只�
  → 点开清单：点一下复制、左滑已取 / 删除、筛选 → 剪贴板添加、新码顶部横幅。
  3.4.3 新增 / 修复：
  · 卡片右侧的到期倒计时只认原文明确写出的时间（今天 21 点前 / 明天 12 点前 / 24 小时内 /
-   3 天内 / X 月 X 日）；原文没写就不显示，不再拿「柜机 36 小时」之类的猜测值糊弄人。
+ 3 天内 / X 月 X 日）；原文没写就不显示，不再拿「柜机 36 小时」之类的猜测值糊弄人。
  · 去掉自相矛盾的「超 24h」角标（它算的是「抓到多久了」，不是「离超期还有多久」），
-   现在只剩一个真实倒计时；带零头的写成「明天 14:30 前」，不再把 14:59 说成 14 点。
+ 现在只剩一个真实倒计时；带零头的写成「明天 14:30 前」，不再把 14:59 说成 14 点。
  · 来源行不再显示「电脑导入」，来源和标题重复时（如短信）只留一处。
  · 认不出具体快递的卡片，左侧改成来源图标（短信气泡 / 铃铛 / 取景框 / 剪贴板），不再是一个「码」字。
  · 侧栏小蓝条支持拖出来：按住即可拖到屏幕任意位置，松手时离边栏 52pt 内自动吸附，
-   停在中就留在原地；双击归位到边栏；设置里新增「左边 / 右边 / 自由摆放」。
+ 停在中就留在原地；双击归位到边栏；设置里新增「左边 / 右边 / 自由摆放」。
  3.4.2 新增 / 修复：
  · 新增「在途快递」：从短信 / 通知原文里认出运单号（顺丰 SF、圆通 YT、中通 73/75/76/78、
-   申通 77、韵达 43/46、极兔 JT、京东 JD、邮政 9/1、EMS），自动查最新轨迹并缓存在本机。
-   悬浮面板底部新增「在途」页签，桌面 App 首页新增「在途快递」入口，支持手动加单号、
-   下拉刷新、点开看最近 6 条轨迹、一键浏览器看全程。查询只在刷新时联网，30 分钟节流。
+ 申通 77、韵达 43/46、极兔 JT、京东 JD、邮政 9/1、EMS），自动查最新轨迹并缓存在本机。
+ 悬浮面板底部新增「在途」页签，桌面 App 首页新增「在途快递」入口，支持手动加单号、
+ 下拉刷新、点开看最近 6 条轨迹、一键浏览器看全程。查询只在刷新时联网，30 分钟节流。
  · 修复卡片上「来源」与「到期时间」挤在一起互相盖住：到期文字改成按实际宽度右对齐，
-   时间 / 来源行只用到它左边的空间。
+ 时间 / 来源行只用到它左边的空间。
  3.4.1 修复（安装不再卡住）：
  · postinst 只写日志就立即返回，uicache / launchctl / 重启 SpringBoard 全部挪到
-   nohup 后台脚本执行，dpkg 不再等待，Sileo 不会转圈卡死。
+ nohup 后台脚本执行，dpkg 不再等待，Sileo 不会转圈卡死。
  · root 更新守护进程脚本随包安装到 /var/jb/usr/libexec，不再依赖 heredoc 现场生成。
  3.4.0 新增：
  · 解析器重写：多段连字符 8-3-2015 / 5-5-9-13 / 2-3-05025、字母段 A88123 / H-01485 /
-   D4-7048、纯数字 470812 / 72778、「请凭0614-056取件」全部支持。
+ D4-7048、纯数字 470812 / 72778、「请凭0614-056取件」全部支持。
  · 两层锚点 + 兜底评分：关键词锚点、凭引导锚点都抓不到时，用特征词 + 动作词 + 码形
-   打分（>=3 分才采纳），包裹不会静默消失。
+ 打分（>=3 分才采纳），包裹不会静默消失。
  · 负样本排除：手机号 / 掩码号、运单号 / 订单号、年份日期、时间、A区123格 里的数字、
-   快递员尾号、银行与登录验证码、10086 流量提醒，一个都不会再误抓。
+ 快递员尾号、银行与登录验证码、10086 流量提醒，一个都不会再误抓。
  · 清单顶部统计「未取 N 件 · 今日到期 N 件」；列表按驿站 / 柜机分组，标题右侧显示
-   同一家有几件；卡片右侧显示「还剩 5 小时 / 今天 21 点前 / 已超 2 小时」。
+ 同一家有几件；卡片右侧显示「还剩 5 小时 / 今天 21 点前 / 已超 2 小时」。
  · 悬浮入口换成贴边的小渐变竖线（9×132），不显示未取条数、不挡屏幕，点击展开面板。
  3.3.0 保留：排序拖动与恢复默认、每个入口单独开关、深链多级回退、液态风格、
  抖音 / 抖音极速版 / 小红书入口、root 更新守护进程（推包即自动安装）。
@@ -3215,7 +3175,7 @@ Name: ZZFilter
 Description: 转转筛选助手
  * 1.先输入需要搜索的商品名称，进入页面后，长按悬浮球（或点面板「开始爬取」）自动抓取全数据
  * 2.按机型/电池/系统版本/成色/内存筛选
- * 3.支持单条复制链接、单条打开详情页与一键复制全部链接 
+ * 3.支持单条复制链接、单条打开详情页与一键复制全部链接
 Maintainer: Axs <qiaozhani000@163.com>
 Author: Axs <qiaozhani000@163.com>
 Section: Tweaks
@@ -3235,7 +3195,7 @@ Name: ZZFilter
 Description: 转转筛选助手
  * 1.先输入需要搜索的商品名称，进入页面后，长按悬浮球（或点面板「开始爬取」）自动抓取全数据
  * 2.按机型/电池/系统版本/成色/内存筛选
- * 3.支持单条复制链接、单条打开详情页与一键复制全部链接 
+ * 3.支持单条复制链接、单条打开详情页与一键复制全部链接
 Maintainer: Axs <qiaozhani000@163.com>
 Author: Axs <qiaozhani000@163.com>
 Section: Tweaks
@@ -3529,7 +3489,7 @@ Architecture: iphoneos-arm64
 Version: 1.6.0-6
 Installed-Size: 3360
 icon: https://huayuarc.github.io/icon/floating-view.jpg
-SileoDepiction:https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 Filename: https://huayuarc.github.io/debs/com.be-huge.floating-view-1.6.0-6-rootless.deb
 Size: 661332
 MD5sum: b615fa0bceba7103e3a16bcfc8b587a2
@@ -3548,7 +3508,7 @@ Version: 1.6.0-6
 Installed-Size: 3360
 Pre-Depends: rootless-compat(>= 0.9)
 icon: https://huayuarc.github.io/icon/floating-view.jpg
-SileoDepiction:https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 Filename: https://huayuarc.github.io/debs/com.be-huge.floating-view-1.6.0-6-roothide.deb
 Size: 649368
 MD5sum: c216c13ac22c2fa47f630ab71f19b2fc
@@ -3589,27 +3549,6 @@ MD5sum: 3a7e3d94795ffd6e82e88a56ca5a729a
 SHA1: 
 SHA256: b3bb8dc73e926d0ee785002f05b84cc92baf9be07a1e92c25cf56a44a95ea8c9
 
-Maintainer: 冰蓝
-Section: Tweaks
-Name: DynamicFX
-Version: 1.0.7
-Package: com.binglan.dynamicfx
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Author: 冰蓝
-Installed-Size: 772
-Architecture: iphoneos-arm64
-Icon: https://huayuarc.github.io/icon/DynamicFX.png
-Description: DynamicFX 是一款灵动岛美化插件，可自由修改灵动岛背景颜色、透明度、圆角大小、过渡动画。
-Filename: https://huayuarc.github.io/debs/com.binglan.dynamicfx-1.0.7-rootless.deb
-Size: 116088
-MD5sum: 52af048b8bd7bf259e8afb06f1a65828
-SHA1: 
-SHA256: f597483d84419e609e114e90bfb7fb873122b19421eb5a061808258347830f64
-
-Maintainer: 冰蓝
-Section: Tweaks
-Name: DynamicFX
-Version: 1.0.7
 Package: com.binglan.dynamicfx
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Author: 冰蓝
@@ -3623,6 +3562,23 @@ Size: 113380
 MD5sum: 7918930acf22f9b0c5da2c3966ce70c8
 SHA1: 
 SHA256: 98bbeb84c34e1c83d91e032c4c99973bb7647b4bba8212411ffb7d95cd534bcd
+
+Package: com.binglan.dynamicfx
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Author: 冰蓝
+Installed-Size: 772
+Architecture: iphoneos-arm64
+Icon: https://huayuarc.github.io/icon/DynamicFX.png
+Description: DynamicFX 是一款灵动岛美化插件，可自由修改灵动岛背景颜色、透明度、圆角大小、过渡动画。
+Filename: https://huayuarc.github.io/debs/com.binglan.dynamicfx-1.0.7-rootless.deb
+Size: 116088
+MD5sum: 52af048b8bd7bf259e8afb06f1a65828
+SHA1: 
+SHA256: f597483d84419e609e114e90bfb7fb873122b19421eb5a061808258347830f64
+Maintainer: 冰蓝
+Section: Tweaks
+Name: DynamicFX
+Version: 1.0.7
 
 Package: com.binglan.kongzhidiy
 Name: CCPrimeX
@@ -4228,7 +4184,7 @@ SHA256: 456e496f3019ecd52d78fb44886cef679ddbbea54081b6b2c8ba3da2708fb144
 
 Package: com.colorblack.bottomx
 Name: Bottom-x
-Description: 点击底部小白条逐级返回，到app最顶层就会返回桌面，新增学习返回模式，视觉返回保留。; 感兴趣可以加 QQ 群 2059 28931 
+Description: 点击底部小白条逐级返回，到app最顶层就会返回桌面，新增学习返回模式，视觉返回保留。; 感兴趣可以加 QQ 群 2059 28931
 Maintainer: Color Black
 Author: Color Black
 Section: Tweaks
@@ -5194,7 +5150,7 @@ SHA256: 1bb9649e19997b77d62dbf12370c424fbb4b7ca70aeda5ae481c905efb784799
 Package: com.colorblack.youdaoyunbiji
 Name: 有道云笔记 NoAds
 Depends: mobilesubstrate
-Description: 有道云笔记启动屏广告跳过插件，适配隐根(RootHide) , 
+Description: 有道云笔记启动屏广告跳过插件，适配隐根(RootHide) ,
 Maintainer: colorblack
 Author: colorblack
 Section: Tweaks
@@ -5211,7 +5167,7 @@ SHA256: 71e91b6281a098a41ab697e47985504ddc9c055681740bfe821705ffa42725bd
 Package: com.colorblack.youdaoyunbiji
 Name: 有道云笔记 NoAds
 Depends: mobilesubstrate
-Description: 有道云笔记启动屏广告跳过插件，适配隐根(RootHide) , 
+Description: 有道云笔记启动屏广告跳过插件，适配隐根(RootHide) ,
 Maintainer: colorblack
 Author: colorblack
 Section: Tweaks
@@ -5313,12 +5269,12 @@ Name: App Lecard
 Author: Crassna
 icon: https://huayuarc.github.io/icon/appcardlite.jpg
 Description: Jailbrea!分屏
-  * 首次使用：从左至右或从右至左划出圆盘并拖动至边缘进入插件设置页面。当圆盘中心由X变成★代表验证通过。点击★进入app选择页面，将用户或系统应用选至收藏即可在圆环中添加。圆环内app可小窗存在亦可挂机存在。
-  * 手势：快切可呼出关闭所有小窗或挂机app，拖动可呼出圆盘。
-  * 圆盘：左右呼出滑至圆盘中心可悬停并选定app以显示小窗，选定app并滑出圆环外以切至大屏。（彩蛋老式拨号电话：双指旋转可放大增加圆环显示app数量，缩小圆环或调整app在圆环内位置）。
-  * 小窗：小横条上滑关闭当前小窗，小横条快速下滑可切至大屏，单击小横条可切至挂机模式。拖动边缘移动位置，长按边缘上下滑动放大缩小，单击边缘置顶小窗。
-  * 挂机：单击图标显示小窗，长按图标关闭当前app。
-  * 特色功能：通知激活小窗，窗口自适应大小，横竖屏裁切画面，小窗主动避让主视图键盘等等。
+ * 首次使用：从左至右或从右至左划出圆盘并拖动至边缘进入插件设置页面。当圆盘中心由X变成★代表验证通过。点击★进入app选择页面，将用户或系统应用选至收藏即可在圆环中添加。圆环内app可小窗存在亦可挂机存在。
+ * 手势：快切可呼出关闭所有小窗或挂机app，拖动可呼出圆盘。
+ * 圆盘：左右呼出滑至圆盘中心可悬停并选定app以显示小窗，选定app并滑出圆环外以切至大屏。（彩蛋老式拨号电话：双指旋转可放大增加圆环显示app数量，缩小圆环或调整app在圆环内位置）。
+ * 小窗：小横条上滑关闭当前小窗，小横条快速下滑可切至大屏，单击小横条可切至挂机模式。拖动边缘移动位置，长按边缘上下滑动放大缩小，单击边缘置顶小窗。
+ * 挂机：单击图标显示小窗，长按图标关闭当前app。
+ * 特色功能：通知激活小窗，窗口自适应大小，横竖屏裁切画面，小窗主动避让主视图键盘等等。
 Filename: https://huayuarc.github.io/debs/com.crassna.appcardlite-3.3.3-END-rootless.deb
 Size: 409440
 MD5sum: c1bffcf3ec68484ce6735217131fd2b2
@@ -5973,16 +5929,8 @@ Size: 147084
 MD5sum: e0e7f97e0d92793937a1ab1dcc044a6b
 SHA1: 
 SHA256: d66814370ebed0dbe10369a67f307a6ff082b845c98856d0a14a3b67bb911ce2
-
-Author: CreatureSurvive <support@creaturecoding.com>
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Description: 有些插件需要这个依赖
-icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
-Version: 1.5.8
-Name: libCSPreferences
-Section: Tweaks
+
 Package: com.creaturecoding.libcspreferences
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: https://huayuarc.github.io/debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
@@ -5994,7 +5942,7 @@ SHA256: d1377e473bc689829b65ef4ac9ea39b1a5539b6a65a37547af807d96bac9001d
 Package: com.curtin.pkc.rootless
 Name: PKC
 Version: 0.9-8
-Description:AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Section: Tweaks
 Depends: firmware (>= 5.0)
 Priority: optional
@@ -6012,7 +5960,7 @@ SHA256: bee0676350eab4ded371435b52d9c7ec65c72b46e37c33b391a9c98d85b76e3b
 Package: com.curtin.pkc.rootless
 Name: PKC
 Version: 0.9-8
-Description:AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Section: Tweaks
 Depends: firmware (>= 5.0)
 Priority: optional
@@ -6028,7 +5976,6 @@ MD5sum: 96ab8bf96058e41aa7647099132b0325
 SHA1: 
 SHA256: ffa5f4f97dac88e0223dadbe751b44292c6cc9dffb34b04b82f7388106cef4ec
 
-Name: HapticSleep
 Package: com.cydiageek.hapticsleep
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
@@ -6048,8 +5995,8 @@ Size: 54744
 MD5sum: 999579d1108b49c495f1472a7b9c15d9
 SHA1: 
 SHA256: 821004e7fb19c008864d24ec5833ca8f47eb9a5f925c243a43f272ee1d95ec28
-
 Name: HapticSleep
+
 Package: com.cydiageek.hapticsleep
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
@@ -6070,8 +6017,8 @@ Size: 54068
 MD5sum: 7abc20dd75ee9e9a8e25cae162a1c67e
 SHA1: 
 SHA256: 44dec337ed79bbe6346ea85a00b9015f865eb6e37f512a09dfd90be84fe0db55
-
 Name: MoreLinesNotifications
+
 Package: com.cydiageek.morelinesnotifications
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 8.0)
@@ -6093,8 +6040,8 @@ Size: 4944
 MD5sum: 02e0fe414ecd462f0069c3f027a65c81
 SHA1: 
 SHA256: 772c5f465541bdf3d26f112234dc97bad37b11f28e938daf03776f5addfcb5be
-
 Name: MoreLinesNotifications
+
 Package: com.cydiageek.morelinesnotifications
 Priority: optional
 Depends: mobilesubstrate, firmware (>= 8.0)
@@ -6859,9 +6806,9 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Maintainer: 季伯腾
 Author: 季伯腾
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
-  可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
-  支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
-  提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
+ 可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
+ 支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
+ 提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
 Architecture: iphoneos-arm64
 Version: 2.2.3
 Installed-Size: 712
@@ -6879,9 +6826,9 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Maintainer: 季伯腾
 Author: 季伯腾
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
-  可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
-  支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
-  提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
+ 可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
+ 支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
+ 提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
 Architecture: iphoneos-arm64e
 Version: 2.2.3
 Installed-Size: 712
@@ -7593,13 +7540,6 @@ MD5sum: 3f7ccfd5da3e745e80e2f01084c22409
 SHA1: b7ed4a189b760762e6c651aafc2141539e37e4d3
 SHA256: cb08b91f2e43e18bc310e5488b44a095a589f3bb1834b348c817547236c2ea5d
 
-Architecture: iphoneos-arm64
-Author: YUE
-Depends: mobilesubstrate, preferenceloader
-Description: RootHide notification-list, app-icon and banner dust effects for iOS 16; experimental device test.
-Installed-Size: 1476
-Maintainer: YUE
-Name: 通知消散
 Package: com.example.noticelisttweak
 Section: Tweaks
 Version: 1.0.13+h2l1
@@ -7659,13 +7599,6 @@ MD5sum: 0cb85cc9b017739854fddb30e387e45a
 SHA1: cfc2a369b2db40d76d4a3904c2e49417493c8949
 SHA256: c458f5f8a60d7f8a6b714714acc43a7baf6abd724f7d4d2b449669c75e387bae
 
-Architecture: iphoneos-arm64
-Author: YUE
-Depends: mobilesubstrate, preferenceloader
-Description: RootHide notification-list, app-icon and banner dust effects for iOS 16; experimental device test.
-Installed-Size: 1613
-Maintainer: YUE
-Name: 通知消散
 Package: com.example.noticelisttweak
 Section: Tweaks
 Version: 1.0.21+h2l1
@@ -7972,7 +7905,7 @@ Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 15.0)
 Architecture: iphoneos-arm64
 Version: 2.1-3+debug
-Installed‑Size: 524
+ Installed‑Size: 524
 Icon: https://huayuarc.github.io/icon/keyboardhook.png
 Filename: https://huayuarc.github.io/debs/com.gyddpu.keyboardhook-2.1-3+debug-rootless.deb
 Size: 43456
@@ -8002,8 +7935,8 @@ Package: com.hang.ccbackground
 Name: 控制中心背景自定义
 Depends: mobilesubstrate
 Description: 控制中心背景
-Depiction:https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
-Icon:https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Maintainer: 航
 Author: 航
 Section: Tweaks
@@ -8020,8 +7953,8 @@ Package: com.hang.ccbackground
 Name: 控制中心背景自定义
 Depends: mobilesubstrate
 Description: 控制中心背景
-Depiction:https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
-Icon:https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Maintainer: 航
 Author: 航
 Section: Tweaks
@@ -8401,12 +8334,9 @@ Size: 13504
 MD5sum: 087659744d683a160ca8df88ac82bc0e
 SHA1: 
 SHA256: d59216f4a19c8a4e76f056cd071d7f74799c8012838061772448f5f2a47586de
+dev: HuangBai
+Sponsor: Mao
 
-Author: HuangBai <QQ:1343309363@qq.com>
-dev:HuangBai
-Sponsor:Mao
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信娱乐插件)
 Package: com.HBWechatHelper.ailun
 Depends: firmware (>= 7.0), mobilesubstrate
 Section: Tweaks
@@ -8419,12 +8349,12 @@ Size: 7222448
 MD5sum: dc2f8876849c8d1a001c92f967b3672b
 SHA1: 
 SHA256: db4e7fa3aec35f60acf19ebbecbd4c148cc6348c33d8e3ae8be0c3dbfbe7dd00
-
 Author: HuangBai <QQ:1343309363@qq.com>
-dev:HuangBai
-Sponsor:Mao
+dev: HuangBai
+Sponsor: Mao
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信娱乐插件)
+
 Package: com.HBWechatHelper.ailun
 Depends: firmware (>= 7.0), mobilesubstrate
 Section: Tweaks
@@ -8436,12 +8366,12 @@ Size: 7219084
 MD5sum: 0c3d274baa5f905349a5d54fdd6a91f6
 SHA1: 775a8acfd3c1e57c8c15b20485e5f2c315333463
 SHA256: 6d45db3c41bf38b150f164ebec1dc31dbbee4369762b65768aa64ea69fc3514e
-
 Author: HuangBai <QQ:1343309363@qq.com>
-dev:HuangBai
-Sponsor:Mao
+dev: HuangBai
+Sponsor: Mao
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信娱乐插件)
+
 Package: com.HBWechatHelper.ailun
 Depends: firmware (>= 7.0), mobilesubstrate
 Section: Tweaks
@@ -8905,26 +8835,56 @@ Name: ChatCapture+
 Version: 2.0
 Architecture: iphoneos-arm64
 Description: 一款用于聊天界面多选(长)截图自动拼接的小插件，增加时间标签
-    • 支持按选择拼接截图
-    • 支持快捷分享给联系人
-    • 支持聊天背景图展示配置
-    • 支持隐藏群成员名字标签
-    • 支持选择是否显示群名、输入框
-    • 适配主题情况下的导航栏资源裁剪等布局
-    • 支持选择成员显示名类型（备注、网名、群名）
+ • 支持按选择拼接截图
+ • 支持快捷分享给联系人
+ • 支持聊天背景图展示配置
+ • 支持隐藏群成员名字标签
+ • 支持选择是否显示群名、输入框
+ • 适配主题情况下的导航栏资源裁剪等布局
+ • 支持选择成员显示名类型（备注、网名、群名）
+ 注意：此插件默认开启
+ 触发方式如下：多选消息后点击「更多」→ 截图；齿轮图标进入设置。
+Maintainer: huami, Mallin
+Author: huami, Mallin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Tag: role::enduser
+Icon: https://huayuarc.github.io/icon/WeChat.jpg
+Filename: https://huayuarc.github.io/debs/com.huami.chatcaptureplus-2.0-rootless.deb
+Size: 420236
+MD5sum: 1ddce77a5263584fc087d081c22b7a56
+SHA1: 
+SHA256: 9b74bee2fe8e7599e451cfd68de49e2e6e455bd21278d3b383c3fdc7d2c11e4a
 
 Package: com.huami.chatcaptureplus
 Name: ChatCapture+
 Version: 2.0
 Architecture: iphoneos-arm64e
 Description: 一款用于聊天界面多选(长)截图自动拼接的小插件，增加时间标签
-    • 支持按选择拼接截图
-    • 支持快捷分享给联系人
-    • 支持聊天背景图展示配置
-    • 支持隐藏群成员名字标签
-    • 支持选择是否显示群名、输入框
-    • 适配主题情况下的导航栏资源裁剪等布局
-    • 支持选择成员显示名类型（备注、网名、群名）
+ • 支持按选择拼接截图
+ • 支持快捷分享给联系人
+ • 支持聊天背景图展示配置
+ • 支持隐藏群成员名字标签
+ • 支持选择是否显示群名、输入框
+ • 适配主题情况下的导航栏资源裁剪等布局
+ • 支持选择成员显示名类型（备注、网名、群名）
+ 注意：此插件默认开启
+ 触发方式如下：多选消息后点击「更多」→ 截图；齿轮图标进入设置。
+Maintainer: huami, Mallin
+Author: huami, Mallin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Replaces: com.huami.chatcapture, com.huami.chatcapture.timelabels (<= 1.0-3)
+Tag: role::enduser
+Icon: https://huayuarc.github.io/icon/WeChat.jpg
+Filename: https://huayuarc.github.io/debs/com.huami.chatcaptureplus-2.0-roothide.deb
+Size: 423128
+MD5sum: e82f5b7134cabe50101420e1959c62c7
+SHA1: 
+SHA256: 4adaae2aa96c065948ed03205736f5285d24834d6db5f8ac1171eebb81f0465e
 
 Package: com.huami.ChoicyConfigPin
 Name: ChoicyConfigPin
@@ -9152,7 +9112,7 @@ Author: Huayuarc
 Tag: cydia::commercial
 Maintainer: Huayuarc
 Description: 越狱插件AI开发与沟通交流
-  * 白嫖token 获取奖励，方便AI开发插件。
+ * 白嫖token 获取奖励，方便AI开发插件。
  * API key添加到Open minis就可以用gpt-6.1-sol 模型，国产模型，谷歌模型。
  * 用于snapper4、微信Ai插件、Minis软件，Ai编辑器，codex、claude 软件AI开发等终端。
 Sileodepiction: https://huayuarc.github.io/sileodepiction/qqjlq/js.json
@@ -9173,7 +9133,7 @@ Author: Huayuarc
 Tag: cydia::commercial
 Maintainer: Huayuarc
 Description: 越狱插件AI开发与沟通交流
-  * 白嫖token 获取奖励，方便AI开发插件。
+ * 白嫖token 获取奖励，方便AI开发插件。
  * API key添加到Open minis就可以用gpt-6.1-sol 模型，国产模型，谷歌模型。
  * 用于snapper4、微信Ai插件、Minis软件，Ai编辑器，codex、claude 软件AI开发等终端。
 Sileodepiction: https://huayuarc.github.io/sileodepiction/qqjlq/js.json
@@ -9854,9 +9814,6 @@ MD5sum: ea8f2b7fd38f02dfba738f20f78c20da
 SHA1: 
 SHA256: 9f088cd67e91a59d3b69c6b01104ee238a3154c87a576fca655c2aac93cf7f3c
 
-Author: ichitaso
-Maintainer: Havoc
-Name: IconOrder
 Package: com.ichitaso.iconorder
 Pre-Depends: firmware (>= 12.0)
 Depends: mobilesubstrate
@@ -9876,10 +9833,10 @@ Size: 8316
 MD5sum: 5e803ab5b638f332218dd59d3b41bb42
 SHA1: 
 SHA256: d18b1d11492a0a83364c118eede426948804f4dc6d04563d88f7a578f8c80921
-
 Author: ichitaso
 Maintainer: Havoc
 Name: IconOrder
+
 Package: com.ichitaso.iconorder
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 12.0)
 Depends: mobilesubstrate
@@ -9962,8 +9919,8 @@ Size: 6112
 MD5sum: 079a0738d4f41e8e1b1de68599be05bd
 SHA1: 
 SHA256: feb0667fdd74defa8f7bf0f646ef1abed0fd3117825a7aa7d70f07b4cc488916
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.initnil.flreadercrack
+
 Package: com.initnil.flreadercrack
 Conflicts: com.netskao.flreadercrack
 Replaces: com.netskao.flreadercrack
@@ -9983,8 +9940,8 @@ Size: 203664
 MD5sum: cf10c19ad5d7ac37b9f2cd5adc4abc80
 SHA1: 
 SHA256: 324b3015c166bffad7386cf7339d69743bd81263ce3d31466b28b1425693524b
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.initnil.flreadercrack
+
 Package: com.initnil.flreadercrack
 Conflicts: com.netskao.flreadercrack
 Replaces: com.netskao.flreadercrack
@@ -10005,8 +9962,8 @@ Size: 204080
 MD5sum: 27c8df3e4c69800ce2bd2cc62440a423
 SHA1: 
 SHA256: bae2a52e7f1481b37fc1240207bf6b96532e733fb87673d542ddcab204b99819
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.initnil.imgplaycrack
+
 Package: com.initnil.imgplaycrack
 Conflicts: com.netskao.imgplaycrack
 Replaces: com.netskao.imgplaycrack
@@ -10025,8 +9982,8 @@ Size: 332944
 MD5sum: 4ad3f4bf0748f99c25e17d3d294a63d7
 SHA1: 
 SHA256: 198b184603a07877f8edd348441254fc678644bf98d2c18a68b85170855abb63
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.initnil.imgplaycrack
+
 Package: com.initnil.imgplaycrack
 Conflicts: com.netskao.imgplaycrack
 Replaces: com.netskao.imgplaycrack
@@ -10119,7 +10076,7 @@ Version: 2.7.5
 Description: 在主屏幕查看应用数据与管理应用
 Section: Tweaks
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts:com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
 Architecture: iphoneos-arm64
 Author: iosdump
 Maintainer: iosdump
@@ -10136,7 +10093,7 @@ Version: 2.7.5
 Description: 在主屏幕查看应用数据与管理应用
 Section: Tweaks
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts:com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
 Architecture: iphoneos-arm64e
 Author: iosdump
 Maintainer: iosdump
@@ -11132,17 +11089,17 @@ Description: 高德地图界面精简 · 纯本地运行
  Dopamine / rootless 选 arm64，两者不可同时安装）。
  .
  界面精简：
-  • 去底栏「上拉发现」引导提示，去上拉白雾与闪白
-  • 去顶部高斯模糊带，去首页白块
+ • 去底栏「上拉发现」引导提示，去上拉白雾与闪白
+ • 去顶部高斯模糊带，去首页白块
  .
  位置归位（对表高德原生布局）：
-  • 搜索栏 / 天气行 / 连接车机 / 2D·3D / 定位·路线胶囊，各归其位
-  • 2D·3D 按钮回到定位·路线胶囊正上方
-  • 连接车机按钮位于天气行上方，天气行与按钮左对齐
+ • 搜索栏 / 天气行 / 连接车机 / 2D·3D / 定位·路线胶囊，各归其位
+ • 2D·3D 按钮回到定位·路线胶囊正上方
+ • 连接车机按钮位于天气行上方，天气行与按钮左对齐
  .
  稳定不闪：
-  • 切页、切 2D·3D 不再跳动
-  • 冷启动全程不会在屏幕中部闪出按钮
+ • 切页、切 2D·3D 不再跳动
+ • 冷启动全程不会在屏幕中部闪出按钮
  .
  全版本自适应：按控件特征判定，不绑定具体高德版本号。
  只改界面显示，不影响搜索、导航、路线规划等原有功能。
@@ -11172,17 +11129,17 @@ Description: 高德地图界面精简 · 纯本地运行
  Dopamine / rootless 选 arm64，两者不可同时安装）。
  .
  界面精简：
-  • 去底栏「上拉发现」引导提示，去上拉白雾与闪白
-  • 去顶部高斯模糊带，去首页白块
+ • 去底栏「上拉发现」引导提示，去上拉白雾与闪白
+ • 去顶部高斯模糊带，去首页白块
  .
  位置归位（对表高德原生布局）：
-  • 搜索栏 / 天气行 / 连接车机 / 2D·3D / 定位·路线胶囊，各归其位
-  • 2D·3D 按钮回到定位·路线胶囊正上方
-  • 连接车机按钮位于天气行上方，天气行与按钮左对齐
+ • 搜索栏 / 天气行 / 连接车机 / 2D·3D / 定位·路线胶囊，各归其位
+ • 2D·3D 按钮回到定位·路线胶囊正上方
+ • 连接车机按钮位于天气行上方，天气行与按钮左对齐
  .
  稳定不闪：
-  • 切页、切 2D·3D 不再跳动
-  • 冷启动全程不会在屏幕中部闪出按钮
+ • 切页、切 2D·3D 不再跳动
+ • 冷启动全程不会在屏幕中部闪出按钮
  .
  全版本自适应：按控件特征判定，不绑定具体高德版本号。
  只改界面显示，不影响搜索、导航、路线规划等原有功能。
@@ -12206,17 +12163,17 @@ Size: 180116
 MD5sum: d627e3cf9960486004110be51c3a13ec
 SHA1: 
 SHA256: 22b56dedee7a783429a911260b8bd953a2ff8ace18db7675d5e2d2f944c2b6cb
-
-Author: Local Workspace
-Architecture: iphoneos-arm64
-Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
-Maintainer: Local Workspace
-Version: 0.1.9
 Priority: optional
-Depends: mobilesubstrate
-Name: 支付宝身份验证兼容
-Section: Tweaks
-Installed-Size: 268
+
+Package: com.local.alipay.identity-compat
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: https://huayuarc.github.io/debs/com.local.alipay.identity-compat-0.1.9-roothide.deb
+Size: 29484
+MD5sum: a4d5f513c40463b7b1054d937b270c8d
+SHA1: 
+SHA256: fc3472976c55cc8c67f11c7db2f03ba4877a574cbe58f3ccaea97987df1ad9de
+
 Package: com.local.alipay.identity-compat
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
 Filename: https://huayuarc.github.io/debs/com.local.alipay.identity-compat-0.1.9-rootless.deb
@@ -12224,7 +12181,6 @@ Size: 29916
 MD5sum: 9b160888c4fd839d0667454a74934229
 SHA1: 
 SHA256: 24d76e227889ea87b6f3211ea6dd3b7ae461c359886d6c59154b42f192d49579
-
 Author: Local Workspace
 Architecture: iphoneos-arm64e
 Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
@@ -12235,14 +12191,6 @@ Depends: mobilesubstrate
 Name: 支付宝身份验证兼容
 Section: Tweaks
 Installed-Size: 268
-Package: com.local.alipay.identity-compat
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://huayuarc.github.io/debs/com.local.alipay.identity-compat-0.1.9-roothide.deb
-Size: 29484
-MD5sum: a4d5f513c40463b7b1054d937b270c8d
-SHA1: 
-SHA256: fc3472976c55cc8c67f11c7db2f03ba4877a574cbe58f3ccaea97987df1ad9de
 
 Package: com.local.carbridge17
 Name: CarBridge 汽车互联
@@ -13011,7 +12959,7 @@ SHA256: c6a738208b4df3065e81bfcb4b2e53fdfe33012919d5060eed555ac5d601657c
 
 Package: com.minis.rainbowkeyboard
 Name: 彩虹键盘光效
-Description:修复表情渐变 bug
+Description: 修复表情渐变 bug
 Maintainer: MoWang
 Author: MoWang
 Section: Tweaks
@@ -13028,7 +12976,7 @@ SHA256: 2337e977f2fe970a264c4672a266a3bacead834941382f3ffc050ba4a9c970d5
 
 Package: com.minis.rainbowkeyboard
 Name: 彩虹键盘光效
-Description:修复表情渐变 bug
+Description: 修复表情渐变 bug
 Maintainer: MoWang
 Author: MoWang
 Section: Tweaks
@@ -13951,7 +13899,7 @@ SHA256: 311ed8963d198862091ed474d602da4820fe3325caa16ac30785c9e4d679074f
 
 Package: com.mowang.rainbowkeyboard
 Name: 彩虹键盘光效（安全版）
-Description:修复渐变表情 bug
+Description: 修复渐变表情 bug
 Maintainer: MoWang
 Author: MoWang
 Section: Tweaks
@@ -14253,13 +14201,13 @@ Description: iOS MCP 1.2.8, packaged for shivtools
  What is different here:
  .
  - The server listens on 127.0.0.1 by default. Upstream binds
-   INADDR_ANY, which exposes an unauthenticated server to everyone on
-   the network. Network mode is still one setting away; from a Mac the
-   cheaper route is an SSH tunnel, which costs nothing and gives
-   authentication and encryption for free.
+ INADDR_ANY, which exposes an unauthenticated server to everyone on
+ the network. Network mode is still one setting away; from a Mac the
+ cheaper route is an SSH tunnel, which costs nothing and gives
+ authentication and encryption for free.
  - mcp-root is installed WITHOUT the setuid bit. With it set, any
-   process on the device can become root through the helper's own
-   allow-list. Turn it on deliberately with: shiv-mcp root-ac
+ process on the device can become root through the helper's own
+ allow-list. Turn it on deliberately with: shiv-mcp root-ac
  .
  Neither is a lock: both are settings, and the responsibility is the
  developer's. They are defaults, not walls.
@@ -14303,13 +14251,13 @@ Description: iOS MCP 1.2.8, packaged for shivtools
  What is different here:
  .
  - The server listens on 127.0.0.1 by default. Upstream binds
-   INADDR_ANY, which exposes an unauthenticated server to everyone on
-   the network. Network mode is still one setting away; from a Mac the
-   cheaper route is an SSH tunnel, which costs nothing and gives
-   authentication and encryption for free.
+ INADDR_ANY, which exposes an unauthenticated server to everyone on
+ the network. Network mode is still one setting away; from a Mac the
+ cheaper route is an SSH tunnel, which costs nothing and gives
+ authentication and encryption for free.
  - mcp-root is installed WITHOUT the setuid bit. With it set, any
-   process on the device can become root through the helper's own
-   allow-list. Turn it on deliberately with: shiv-mcp root-ac
+ process on the device can become root through the helper's own
+ allow-list. Turn it on deliberately with: shiv-mcp root-ac
  .
  Neither is a lock: both are settings, and the responsibility is the
  developer's. They are defaults, not walls.
@@ -15906,8 +15854,8 @@ Package: com.nahtedetihw.volvibes
 Name: VolVibes
 Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
 Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
-  * VolVibes: Brings customizable haptic feedback to your iPhone’s volume buttons. While not the first tweak to add haptics to the volume keys on modern iPhones, VolVibes packs a solid set of options that greatly enhance configurability and usability.
-  * VolVibes：为 iPhone 音量按钮带来可定制的触觉反馈。VolVibes 并非首个为现代 iPhone 音量按钮添加触觉反馈的插件，但它提供了丰富的自定义选项，大幅提升使用体验与可玩性。
+ * VolVibes: Brings customizable haptic feedback to your iPhone’s volume buttons. While not the first tweak to add haptics to the volume keys on modern iPhones, VolVibes packs a solid set of options that greatly enhance configurability and usability.
+ * VolVibes：为 iPhone 音量按钮带来可定制的触觉反馈。VolVibes 并非首个为现代 iPhone 音量按钮添加触觉反馈的插件，但它提供了丰富的自定义选项，大幅提升使用体验与可玩性。
 Maintainer: Ethan Whited
 Author: Ethan Whited
 Section: Tweaks
@@ -15925,8 +15873,8 @@ Package: com.nahtedetihw.volvibes
 Name: VolVibes
 Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
 Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
-  * VolVibes: Brings customizable haptic feedback to your iPhone’s volume buttons. While not the first tweak to add haptics to the volume keys on modern iPhones, VolVibes packs a solid set of options that greatly enhance configurability and usability.
-  * VolVibes：为 iPhone 音量按钮带来可定制的触觉反馈。VolVibes 并非首个为现代 iPhone 音量按钮添加触觉反馈的插件，但它提供了丰富的自定义选项，大幅提升使用体验与可玩性。
+ * VolVibes: Brings customizable haptic feedback to your iPhone’s volume buttons. While not the first tweak to add haptics to the volume keys on modern iPhones, VolVibes packs a solid set of options that greatly enhance configurability and usability.
+ * VolVibes：为 iPhone 音量按钮带来可定制的触觉反馈。VolVibes 并非首个为现代 iPhone 音量按钮添加触觉反馈的插件，但它提供了丰富的自定义选项，大幅提升使用体验与可玩性。
 Maintainer: Ethan Whited
 Author: Ethan Whited
 Section: Tweaks
@@ -16581,8 +16529,8 @@ Size: 341636
 MD5sum: 5e895c193af672fd942250a5097cb3fd
 SHA1: 
 SHA256: 357ce4a231665042a807d6ebdb5908e500e5178861e271a1309818ed23ca922e
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.awemefullscreen
+
 Package: com.netskao.awemefullscreen
 Name: AwemeFullScreen
 Depends: firmware (>= 12.0), mobilesubstrate
@@ -16599,8 +16547,8 @@ Size: 191648
 MD5sum: e6c0a5ad24979c2ef52d79e4f49ec7a0
 SHA1: 
 SHA256: 2c065c1bc8d8218ffc89e3e3ec74e8202545ae316c9208fdeeb0c0e84ab5e2e0
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.awemefullscreen
+
 Package: com.netskao.awemefullscreen
 Name: AwemeFullScreen
 Depends: firmware (>= 12.0), mobilesubstrate
@@ -16653,8 +16601,8 @@ Size: 25996
 MD5sum: a760117c293f48f61a6698a5e9c5c7f8
 SHA1: 
 SHA256: efcc75d08b6f5fad95e888e36922c33658a54f6b10754b25c86ffedd4f6ffdfe
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.cclifttowake
+
 Package: com.netskao.cclifttowake
 Name: CCLiftToWake
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
@@ -16671,8 +16619,8 @@ Size: 16424
 MD5sum: ee1a6f1021c2dab4bceecfb4dfe03d1d
 SHA1: 
 SHA256: fe03b04cf0227cd289db6a9fd8bd68f527c3cbba820959ff1671f113cb0cfb06
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.cclifttowake
+
 Package: com.netskao.cclifttowake
 Name: CCLiftToWake
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
@@ -16690,8 +16638,8 @@ Size: 16536
 MD5sum: 1223af01b812481cd7d701e7f745fbd9
 SHA1: 
 SHA256: f6eb0587da019e8d843875da9d5702b419638679cfe457550c5e0934711408df
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ccquantumultxswitch
+
 Package: com.netskao.ccquantumultxswitch
 Name: CCQuantumultXSwitch
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
@@ -16709,8 +16657,8 @@ Size: 703744
 MD5sum: 4c51781c36486846fd4638ba3537f10b
 SHA1: 
 SHA256: 7eae7a1d1b74fe0f3de02a4789444569516aec36a55f5fad5eaf5dfa863c22d1
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ccquantumultxswitch
+
 Package: com.netskao.ccquantumultxswitch
 Name: CCQuantumultXSwitch
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
@@ -16839,16 +16787,18 @@ Size: 275848
 MD5sum: 415137a60aee46e00dea54462543027a
 SHA1: 
 SHA256: 10e7ddbc023fcb9e407f716d5d8073855c7c11a88cd5c21973501db148456e24
-
-Author: Netskao
-Architecture: iphoneos-arm64
-Description: 长图拼接开启高级版权限
-Maintainer: Netskao
-Version: 0.1.1
-Depends: mobilesubstrate
-Name: 长图拼接 Crack
-Section: Tweaks
 Sponsor: Netskao
+
+Package: com.netskao.ctpjcrack
+Pre-Depends: rootless-compat(>= 0.9)
+icon: https://huayuarc.github.io/icon/ctpjcrack.jpg
+Filename: https://huayuarc.github.io/debs/com.netskao.ctpjcrack-0.1.1-roothide.deb
+Size: 3496
+MD5sum: c2e5864b14983e71f4d841ba1c0dacac
+SHA1: 
+SHA256: 0750e1b7158a4bd43a4cd0d83b5412e729ed43886391f9427872e3797262f4cb
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.dazzcameracrack
+
 Package: com.netskao.ctpjcrack
 icon: https://huayuarc.github.io/icon/ctpjcrack.jpg
 Filename: https://huayuarc.github.io/debs/com.netskao.ctpjcrack-0.1.1-rootless.deb
@@ -16856,7 +16806,6 @@ Size: 3288
 MD5sum: f1944f8fc17a79f37ac8b5a719a76c47
 SHA1: 
 SHA256: e5151685a8ecdc8bba274ae9d212a469363abff41ee26e05d2738c1a238abaca
-
 Author: Netskao
 Architecture: iphoneos-arm64e
 Description: 长图拼接开启高级版权限
@@ -16866,16 +16815,7 @@ Depends: mobilesubstrate
 Name: 长图拼接 Crack
 Section: Tweaks
 Sponsor: Netskao
-Package: com.netskao.ctpjcrack
-Pre-Depends: rootless-compat(>= 0.9)
-icon: https://huayuarc.github.io/icon/ctpjcrack.jpg
-Filename: https://huayuarc.github.io/debs/com.netskao.ctpjcrack-0.1.1-roothide.deb
-Size: 3496
-MD5sum: c2e5864b14983e71f4d841ba1c0dacac
-SHA1: 
-SHA256: 0750e1b7158a4bd43a4cd0d83b5412e729ed43886391f9427872e3797262f4cb
 
-SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.dazzcameracrack
 Package: com.netskao.dazzcameracrack
 Name: DazzCamera Crack
 Author: Netskao
@@ -16892,8 +16832,8 @@ Size: 278148
 MD5sum: 2129977624e908a82d238501bfd4db2d
 SHA1: 
 SHA256: 0b323513acaeb36089e5f13ce427e1eea35cec877414b2f33c34b647e6b3a930
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.dazzcameracrack
+
 Package: com.netskao.dazzcameracrack
 Name: DazzCamera Crack
 Author: Netskao
@@ -16911,8 +16851,8 @@ Size: 278380
 MD5sum: a8137235905fa2e2f0316136110eb4a4
 SHA1: 
 SHA256: d802ef64364cdbe30a92ebf45b8bdd1197529bb39fc4d5ca3fe4bc8d01c5ea24
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.evilmeowcrack
+
 Package: com.netskao.evilmeowcrack
 Name: 让我喵喵 Crack
 Depends: firmware (>= 15.0), mobilesubstrate
@@ -16929,8 +16869,8 @@ Size: 22436
 MD5sum: ce79e45cf13ec6a31d60481a1d285dd9
 SHA1: 
 SHA256: 408c58870eae3f02087bf5995a54333b95de8ef7adfe415b9580b920e0d8feea
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.evilmeowcrack
+
 Package: com.netskao.evilmeowcrack
 Name: 让我喵喵 Crack
 Depends: firmware (>= 15.0), mobilesubstrate
@@ -16948,8 +16888,8 @@ Size: 22660
 MD5sum: c553cb9a6445d64b6af31ee569313eea
 SHA1: 
 SHA256: 177a8f53db494c1ec09fbe9ec1e08970d184f111d1ec2cad8ba15570b9da99f8
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.filzacrack
+
 Package: com.netskao.filzacrack
 Name: Filza Crack
 Depends: firmware (>= 15.0), mobilesubstrate
@@ -16966,8 +16906,8 @@ Size: 28676
 MD5sum: 3f74a632ab48920d4e145b04731c787a
 SHA1: 
 SHA256: c14fc228c6d95d550bcc12dc9401c314ccf64588f6397826eb8b0095f202d80b
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.filzacrack
+
 Package: com.netskao.filzacrack
 Name: Filza Crack
 Depends: firmware (>= 15.0), mobilesubstrate
@@ -16985,8 +16925,8 @@ Size: 28912
 MD5sum: 179219ada7a9870a390083d68c1ba8ff
 SHA1: 
 SHA256: 8d2f75d49259707dd351f2c170a4bf5d82055dfc4a6a12a466dcb1736ad88a7c
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.flreadercrack
+
 Package: com.netskao.flreadercrack
 Name: 千阅 Crack
 Author: Netskao
@@ -17003,8 +16943,8 @@ Size: 186156
 MD5sum: 9087f2d70ecf3cf3748b02238e76277f
 SHA1: 
 SHA256: 785e6ed858fffc184bf66be747dfffc3257f56545594244b6642cbe51085c26b
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.flreadercrack
+
 Package: com.netskao.flreadercrack
 Name: 千阅 Crack
 Author: Netskao
@@ -17022,8 +16962,8 @@ Size: 186484
 MD5sum: 5cdabedcbdba63ccd85b0030b16a7906
 SHA1: 
 SHA256: 91153247038e88d97fe26d919153f7a3fa11718506346ccdc427e891120a8cbf
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ibispaintxcrack
+
 Package: com.netskao.ibispaintxcrack
 Name: 爱笔思画X Crack
 Author: Netskao
@@ -17040,8 +16980,8 @@ Size: 172348
 MD5sum: 8cd620080156cb3bc737b25267052290
 SHA1: 
 SHA256: 95c67ef0e4731468f94236cc36095b43da481e132db5b1151b1846a4a2f79853
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ibispaintxcrack
+
 Package: com.netskao.ibispaintxcrack
 Name: 爱笔思画X Crack
 Author: Netskao
@@ -17059,8 +16999,8 @@ Size: 172320
 MD5sum: df0710a2d033a9fe74fee36b19b51673
 SHA1: 
 SHA256: a8e32be127209b781d3ebc87bd11bbdc9a8df8e856f5c41f3f2be25063d7f748
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.injectipa
+
 Package: com.netskao.injectipa
 Name: injectipa
 Description: InjectIPA Tool
@@ -17077,8 +17017,8 @@ Size: 418052
 MD5sum: 237e4c00e7bf5b77851fc568191f3ea6
 SHA1: 
 SHA256: 796f39dbf776d45d1fca175f728f42d3cfed8ca3a3add7779c363a1f8990931c
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.injectipa
+
 Package: com.netskao.injectipa
 Name: injectipa
 Description: InjectIPA Tool
@@ -17096,8 +17036,8 @@ Size: 417376
 MD5sum: cb28613a7d56eb600f80a8f8e99376d0
 SHA1: 
 SHA256: 884b226c722baf18a670343c8237e759e1fd538a83c71c56f569764fb9cd4967
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.lbbrowsercrack
+
 Package: com.netskao.lbbrowsercrack
 Name: 李白浏览器 Crack
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -17114,8 +17054,8 @@ Size: 44264
 MD5sum: 4f45f8935804df8bac7b6fdb2fab8dc7
 SHA1: 
 SHA256: f142654ab9afab4c6aec07ef6893eaff20a76b6289ba9932a8cf3cf8a8c26d0f
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.lbbrowsercrack
+
 Package: com.netskao.lbbrowsercrack
 Name: 李白浏览器 Crack
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -17133,8 +17073,8 @@ Size: 44348
 MD5sum: 370d1060ad6dcffa406e10bb02ee7d39
 SHA1: 
 SHA256: c57f4009a2990720f42b05422b1b3f6964566af2c8a47619ac3b6cfcf5547c08
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.leoreadercrack
+
 Package: com.netskao.leoreadercrack
 Name: 极简阅读 Crack
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -17151,8 +17091,8 @@ Size: 300600
 MD5sum: eb79f6e6b3516873b4b0ec0087f9c9a4
 SHA1: 
 SHA256: 87d377afaf4f951196318586f5bbb60b29fda606ab4395feb24b13bcaa46e627
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.leoreadercrack
+
 Package: com.netskao.leoreadercrack
 Name: 极简阅读 Crack
 Depends: firmware (>= 13.0), mobilesubstrate
@@ -17170,8 +17110,8 @@ Size: 300828
 MD5sum: 5719d0c7cd2bb8eb1be39ab23adc4e55
 SHA1: 
 SHA256: 7939d938469f427abc140a545eda1c9197ea2d191880025dd4dad74438340205
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.mangaboxcrack
+
 Package: com.netskao.mangaboxcrack
 Name: MangaBox Crack
 Author: Netskao
@@ -17189,8 +17129,8 @@ Size: 96332
 MD5sum: 37ea7f89b767c8de302e08156e5c58c7
 SHA1: 
 SHA256: d492fb1a5b0ea8db22762a4efd9e15ffcc0999dff5f3abdddda924753a21793c
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.mangaboxcrack
+
 Package: com.netskao.mangaboxcrack
 Name: MangaBox Crack
 Author: Netskao
@@ -17277,8 +17217,8 @@ Size: 268196
 MD5sum: 067e4714ca1c75bfef7b02e3c37bba2e
 SHA1: 6ed8dc68095a1e14277bdb01dd6c714921862802
 SHA256: 9047bf6b711889afb5d56cc1d0e61d671be13ab00166f738251049d5eceebca5
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.qqnotiavatar
+
 Package: com.netskao.qqnotiavatar
 Name: QQNotiAvatar
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
@@ -17295,8 +17235,8 @@ Size: 25632
 MD5sum: bbc5d22f26ce1e776c7faf42a6829088
 SHA1: 
 SHA256: c2b00497386e0d3144d2f6e86a5639c10da891b9219db957fcda5528d54dd574
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.qqnotiavatar
+
 Package: com.netskao.qqnotiavatar
 Name: QQNotiAvatar
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
@@ -17383,8 +17323,8 @@ Size: 66632
 MD5sum: 6bc0f9a1a19fda1901f1397f0cd0674d
 SHA1: 
 SHA256: 6293f2562e6fa6053842cf0c545df47055ac2b24cf14b6099df13217824ae462
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.wctimelinereplacefind
+
 Package: com.netskao.wctimelinereplacefind
 Name: WCTimeLineReplaceFind
 Depends: mobilesubstrate, firmware (>= 14.0)
@@ -17401,8 +17341,8 @@ Size: 338224
 MD5sum: 1f452f146a315878736ea31d3b210837
 SHA1: 
 SHA256: 85199a62a0298a5f443cf259b7d6f01951e0d2d0fad82a57f9df5e276b199650
-
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.wctimelinereplacefind
+
 Package: com.netskao.wctimelinereplacefind
 Name: WCTimeLineReplaceFind
 Depends: mobilesubstrate, firmware (>= 14.0)
@@ -18370,33 +18310,33 @@ Version: 0.1.2~test2
 Architecture: iphoneos-arm64
 Description: 抖音窗口自适应（测试版）。让抖音在小窗 / 分屏里按实际内容窗口尺寸重新布局，
  而不是按物理全屏尺寸，解决小窗里画面被拉伸、按钮错位、点击区域对不上的问题。
-  .
-  【适用场景】
-  - 配合 PullOver-X 等小窗 / 分屏工具使用
-  - 抖音在非全屏窗口内比例失真、UI 被裁切或拉伸
-  .
-  【本版实现】
-  - 仅注入抖音，不注入 SpringBoard 与其他 App
-  - 仅当抖音自身代码在主线程查询 UIScreen.bounds 时返回内容窗口尺寸；
-    系统框架、后台线程、窗口不明确时保留原始屏幕尺寸
-  - 窗口尺寸变化后合并一次根视图布局，不重载视频列表、不改滚动位置、
-    不创建播放器、不伪造前后台事件
-  - 保留 iPad 字符串兼容，但只对抖音自身调用生效
-  - Playback 音频类别移除混音 / 压低其他音源选项，不主动激活音频会话
-  .
-  【配置】
-  无设置页。与 dylib 同目录的 DYAdaptive.config.plist 有三个开关：
-  Enabled / PadCompatibility / ExclusivePlayback
-  修改后需完全退出并重新打开抖音。
-  .
-  【⚠️ 测试版说明】
-  - 本版尚未完成真机验证，属实验性测试包
-  - 早期 0.1.0-test1 曾导致抖音无法启动，本版改为启动后延迟安装以规避
-  - 出现闪退、白屏、播放异常：卸载本插件后重新启动抖音即可恢复
-  - 安装前建议先卸载原版 DYnamicUI（com.bulid.dynamicui），不要同时运行
-  .
-  【依赖】
-  mobilesubstrate，iOS 15.0 及以上
+ .
+ 【适用场景】
+ - 配合 PullOver-X 等小窗 / 分屏工具使用
+ - 抖音在非全屏窗口内比例失真、UI 被裁切或拉伸
+ .
+ 【本版实现】
+ - 仅注入抖音，不注入 SpringBoard 与其他 App
+ - 仅当抖音自身代码在主线程查询 UIScreen.bounds 时返回内容窗口尺寸；
+ 系统框架、后台线程、窗口不明确时保留原始屏幕尺寸
+ - 窗口尺寸变化后合并一次根视图布局，不重载视频列表、不改滚动位置、
+ 不创建播放器、不伪造前后台事件
+ - 保留 iPad 字符串兼容，但只对抖音自身调用生效
+ - Playback 音频类别移除混音 / 压低其他音源选项，不主动激活音频会话
+ .
+ 【配置】
+ 无设置页。与 dylib 同目录的 DYAdaptive.config.plist 有三个开关：
+ Enabled / PadCompatibility / ExclusivePlayback
+ 修改后需完全退出并重新打开抖音。
+ .
+ 【⚠️ 测试版说明】
+ - 本版尚未完成真机验证，属实验性测试包
+ - 早期 0.1.0-test1 曾导致抖音无法启动，本版改为启动后延迟安装以规避
+ - 出现闪退、白屏、播放异常：卸载本插件后重新启动抖音即可恢复
+ - 安装前建议先卸载原版 DYnamicUI（com.bulid.dynamicui），不要同时运行
+ .
+ 【依赖】
+ mobilesubstrate，iOS 15.0 及以上
 Maintainer: kanuo
 Author: kanuo
 Section: Tweaks
@@ -18416,33 +18356,33 @@ Version: 0.1.2~test2
 Architecture: iphoneos-arm64e
 Description: 抖音窗口自适应（测试版）。让抖音在小窗 / 分屏里按实际内容窗口尺寸重新布局，
  而不是按物理全屏尺寸，解决小窗里画面被拉伸、按钮错位、点击区域对不上的问题。
-  .
-  【适用场景】
-  - 配合 PullOver-X 等小窗 / 分屏工具使用
-  - 抖音在非全屏窗口内比例失真、UI 被裁切或拉伸
-  .
-  【本版实现】
-  - 仅注入抖音，不注入 SpringBoard 与其他 App
-  - 仅当抖音自身代码在主线程查询 UIScreen.bounds 时返回内容窗口尺寸；
-    系统框架、后台线程、窗口不明确时保留原始屏幕尺寸
-  - 窗口尺寸变化后合并一次根视图布局，不重载视频列表、不改滚动位置、
-    不创建播放器、不伪造前后台事件
-  - 保留 iPad 字符串兼容，但只对抖音自身调用生效
-  - Playback 音频类别移除混音 / 压低其他音源选项，不主动激活音频会话
-  .
-  【配置】
-  无设置页。与 dylib 同目录的 DYAdaptive.config.plist 有三个开关：
-  Enabled / PadCompatibility / ExclusivePlayback
-  修改后需完全退出并重新打开抖音。
-  .
-  【⚠️ 测试版说明】
-  - 本版尚未完成真机验证，属实验性测试包
-  - 早期 0.1.0-test1 曾导致抖音无法启动，本版改为启动后延迟安装以规避
-  - 出现闪退、白屏、播放异常：卸载本插件后重新启动抖音即可恢复
-  - 安装前建议先卸载原版 DYnamicUI（com.bulid.dynamicui），不要同时运行
-  .
-  【依赖】
-  mobilesubstrate，iOS 15.0 及以上
+ .
+ 【适用场景】
+ - 配合 PullOver-X 等小窗 / 分屏工具使用
+ - 抖音在非全屏窗口内比例失真、UI 被裁切或拉伸
+ .
+ 【本版实现】
+ - 仅注入抖音，不注入 SpringBoard 与其他 App
+ - 仅当抖音自身代码在主线程查询 UIScreen.bounds 时返回内容窗口尺寸；
+ 系统框架、后台线程、窗口不明确时保留原始屏幕尺寸
+ - 窗口尺寸变化后合并一次根视图布局，不重载视频列表、不改滚动位置、
+ 不创建播放器、不伪造前后台事件
+ - 保留 iPad 字符串兼容，但只对抖音自身调用生效
+ - Playback 音频类别移除混音 / 压低其他音源选项，不主动激活音频会话
+ .
+ 【配置】
+ 无设置页。与 dylib 同目录的 DYAdaptive.config.plist 有三个开关：
+ Enabled / PadCompatibility / ExclusivePlayback
+ 修改后需完全退出并重新打开抖音。
+ .
+ 【⚠️ 测试版说明】
+ - 本版尚未完成真机验证，属实验性测试包
+ - 早期 0.1.0-test1 曾导致抖音无法启动，本版改为启动后延迟安装以规避
+ - 出现闪退、白屏、播放异常：卸载本插件后重新启动抖音即可恢复
+ - 安装前建议先卸载原版 DYnamicUI（com.bulid.dynamicui），不要同时运行
+ .
+ 【依赖】
+ mobilesubstrate，iOS 15.0 及以上
 Maintainer: kanuo
 Author: kanuo
 Section: Tweaks
@@ -18534,14 +18474,14 @@ Package: com.qianuo.soulpaste
 Name: SoulPaste
 Description: Soul 私聊直接粘贴图片：在 Soul 私聊输入框直接粘贴剪贴板里的图片发送，无需先存相册再选图。
  【核心功能】
-  - 私聊直接粘贴：复制或截图图片后，在 Soul 私聊输入框直接粘贴发送
-  - 省去存相册步骤：不用先把图片保存到系统相册再从相册选择
-  - 通用兼容：不绑定 Soul 特定版本号，App 更新后一般仍可用
+ - 私聊直接粘贴：复制或截图图片后，在 Soul 私聊输入框直接粘贴发送
+ - 省去存相册步骤：不用先把图片保存到系统相册再从相册选择
+ - 通用兼容：不绑定 Soul 特定版本号，App 更新后一般仍可用
  【使用说明】
-  - 安装后请 Respring 一次
-  - 适用 iOS 17 及以上
-  - 使用方式：复制/截图图片后，进入 Soul 私聊，在输入框长按选择粘贴即可
-  - 本包为 RootHide（arm64e）版
+ - 安装后请 Respring 一次
+ - 适用 iOS 17 及以上
+ - 使用方式：复制/截图图片后，进入 Soul 私聊，在输入框长按选择粘贴即可
+ - 本包为 RootHide（arm64e）版
 Maintainer: qianuo
 Author: qianuo
 Section: Tweaks
@@ -18559,7 +18499,7 @@ SHA256: f4feac51ac67f23a140c9293b835d0f3c5ec9f9d388a6f5cea931a9208b35c35
 Package: com.qimiao.WCRefine
 Name: WCRefine
 Version: 2.1-9
-Description:微信优化的重制版，上百种功能优化你的微信。
+Description: 微信优化的重制版，上百种功能优化你的微信。
 Section: Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate
 Priority: optional
@@ -18576,7 +18516,7 @@ SHA256: 4250acb1abf92e639ab43b81583bd485a7ac2349aaeb2d2b70784eb6f2ea7f69
 Package: com.qimiao.WCRefine
 Name: WCRefine
 Version: 2.1-9
-Description:微信优化的重制版，上百种功能优化你的微信。
+Description: 微信优化的重制版，上百种功能优化你的微信。
 Section: Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate
 Priority: optional
@@ -19907,7 +19847,7 @@ SHA256: 296e90278bc1f4785bef4f9265247305319df454f6f0c2c8585da325a5c43dcd
 
 Package: com.simon.controlcenterlayout
 Name: 控制中心模块
-Description:用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
 Maintainer: Simon
 Author: Simon
 Section: Tweaks
@@ -19924,7 +19864,7 @@ SHA256: c0416a4a98fa5eedfcbf7f688187470d29d4008fb9097c54e452c21635b39504
 
 Package: com.simon.controlcenterlayout
 Name: 控制中心模块
-Description:用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
 Maintainer: Simon
 Author: Simon
 Section: Tweaks
@@ -19942,7 +19882,7 @@ SHA256: 6bebd1e5bc18e1458f9f2fb14238bccf64d46f7742f237afb463c575eabda6d6
 
 Package: com.simon.dynamicislandanimation
 Name: 灵动岛跳舞动画PLUS
-Description:用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！
 Maintainer: Simon
 Author: Simon
 Section: Tweaks
@@ -19959,7 +19899,7 @@ SHA256: c952b2f0d4a79fd3799de6dcedf06e06f75ee995edb680d46963d2382da62a6c
 
 Package: com.simon.dynamicislandanimation
 Name: 灵动岛跳舞动画PLUS
-Description:用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！
 Maintainer: Simon
 Author: Simon
 Section: Tweaks
@@ -20099,11 +20039,6 @@ MD5sum: 2d85f254d47cf00e2cd4be6f7265a9b0
 SHA1: 
 SHA256: a3a4f4781061311ad904df7dd8786d2320e88f271d35838b40868da1ce955768
 
-Author: 小哥哥 <zhulongfei28@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: 改个应用
-icon: https://sini921.github.io/repo/sileodepiction/icon/afhook.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/afhook/js.json
 Package: com.sini.afhook.app
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Section: Tweaks
@@ -20116,17 +20051,11 @@ Size: 158064
 MD5sum: e7aedc8bd57b73d56568a50466ffa9d0
 SHA1: 
 SHA256: 4ccfd5331b867bae35e7370969e0f7b6deeb42f9a3802b10214ea2f72190a913
-
 Author: Ethan Whited
-Architecture: iphoneos-arm64
-Description: 已修复卡屏的问题，来自季伯腾测试
 Maintainer: Ethan Whited
-Version: 1.5
-Depends: preferenceloader
 Name: AirpodsCompanion
-Section: Tweaks
 icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
-Installed-Size: 10704
+
 Package: com.sini.airpodscompanion
 Filename: https://huayuarc.github.io/debs/com.sini.airpodscompanion_1.5_iphoneos-arm64.deb
 Size: 10268752
@@ -20899,16 +20828,8 @@ Size: 110884
 MD5sum: 38638f6e1f60761265758c71155c72ad
 SHA1: 
 SHA256: d3f8ad611c2accf6a2da1001527fa738a2e326a9f7481effe03a78192ee28b17
-
-Author: opa334
-Architecture: iphoneos-arm64
-Description: 仅备份。请支持正版。
-Maintainer: opa334
-Version: 1.3.14-6
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Name: Crane
-Section: Tweaks
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
+
 Package: com.sini.crane
 icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Filename: https://huayuarc.github.io/debs/com.sini.crane_1.3.14-6_iphoneos-arm64.deb
@@ -21487,18 +21408,11 @@ Size: 8664
 MD5sum: 3f160152f19dd44e145e45acdb2a3102
 SHA1: 
 SHA256: 3b3a1e72da850a9ad6eece1daf1ca690a06314baf35e59431f5a68f32e9647f2
-
-Author: Jonathan Winger
-Architecture: iphoneos-arm64
-Description: 快捷打开App，侧面呼出菜单
-Maintainer: sini921
-Version: 1.11.0
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Name: InstaLauncher 2
-Section: Tweaks
 Conflicts: com.jontelang.instalauncher2.beta
 Sponsor: sini921
 Installed-Size: 1188
+
 Package: com.sini.instalauncher2
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cebian/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/cebian.png
@@ -21545,17 +21459,6 @@ MD5sum: cf40bffd45e104f42bce5301f931fe0e
 SHA1: 
 SHA256: 1409e2f65db3c036de1513714b0e12c0b437ed72a3f0b18f3e6eab1f4ea09fda
 
-Author: liuf
-Architecture: iphoneos-arm64
-Description: 修改系统键盘圆角，备份防丢失
-Maintainer: liuf
-Version: 0.0.1
-Depends: mobilesubstrate
-Name: 修改系统键盘圆角
-Section: Tweaks
-icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/jpyj/js.json
-Installed-Size: 280
 Package: com.sini.jpyj
 Filename: https://huayuarc.github.io/debs/com.sini.jpyj_0.0.1_iphoneos-arm64.deb
 Size: 3720
@@ -21598,15 +21501,6 @@ MD5sum: 45f1fc493e106341f56cf0e5507aedfb
 SHA1: 
 SHA256: 2c44facc452c6f4d2e7129741eddd05ca1da58deeb975dc1c32e345e1db3e8c3
 
-Author: 小果子
-Architecture: iphoneos-arm64
-Description: 去除广告
-Maintainer: 小果子
-Version: 5.2.0
-Depends: mobilesubstrate (>= 0.9.5000)
-Name: 酷安FuckAds
-Section: Tweaks
-Installed-Size: 2532
 Package: com.sini.kuannoad
 icon: https://sini921.github.io/repo/sileodepiction/icon/kuan.png
 Filename: https://huayuarc.github.io/debs/com.sini.kuannoad_5.2.0_iphoneos-arm64.deb
@@ -21648,9 +21542,6 @@ MD5sum: 5bab580738f9a8dc2862b826c9cf8bd1
 SHA1: 
 SHA256: 3a9760e74eec6e7f32014e288097580ef01fd0695d452b6f22a02e5cb851cd82
 
-Author: ichitaso
-Maintainer: ichitaso
-Name: LocationService
 Package: com.sini.locationservicecc
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
@@ -21881,18 +21772,9 @@ Size: 209920
 MD5sum: b68daf0893bf7f45be3ff0f97f3aa435
 SHA1: 
 SHA256: 2357824ef2264f8718f771265509591ef32fe0982944e41dd6b7de9900dd3da8
-
-Author: Nightwind
-Architecture: iphoneos-arm64
-Description: 设置美化，插件归类
-Maintainer: sini921
-Version: 2.2
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Name: OneSettings
-Section: Tweaks
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Sponsor: sini921
-Installed-Size: 1084
+
 Package: com.sini.onesettings
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/onesettings/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
@@ -21901,7 +21783,6 @@ Size: 217368
 MD5sum: 0c3f5085aa0ddc316b640fc2dd4a2782
 SHA1: 
 SHA256: 6ee6cc1ee92a09bdbabcdba3ba11a40ce64818301c79c302b0c1ec51c7dad3e9
-
 Author: SWING
 Architecture: iphoneos-arm64
 Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
@@ -21911,6 +21792,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Name: PadSwitcher
 Section: Tweaks
 Installed-Size: 368
+
 Package: com.sini.padswitcher
 icon: https://sini921.github.io/repo/sileodepiction/icon/pad.png
 Filename: https://huayuarc.github.io/debs/com.sini.padswitcher_1.1.0_iphoneos-arm64.deb
@@ -21918,8 +21800,8 @@ Size: 26328
 MD5sum: d1e5b77a60303ffc11095555fa4a7949
 SHA1: 
 SHA256: cb7738402558e3be473a83547eb934300ec61ffab534efc7ca2504a4589e87a7
-
 Architecture: iphoneos-arm64
+
 Package: com.sini.pancake
 Name: PanCake
 Version: 2.3
@@ -21935,24 +21817,22 @@ Size: 113060
 MD5sum: 061131eadc01ae62c731e3bf762a3cb1
 SHA1: 
 SHA256: 74aae99b5381bbd4e5959617a364958684c1959d4114deb1be6cb0dcb078e163
-
-Author: iOSign
 Architecture: iphoneos-arm64
-Description: 自用备份。
-icon: https://huayuarc.github.io/icon/xc.jpg
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/photos/js.json
-Maintainer: iOSign
-Version: 0.0.6-2
-Depends: mobilesubstrate (>= 0.9.5000)
-Name: 相册增强
-Section: Tweaks
+
+Package: com.sini.photos
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: https://huayuarc.github.io/debs/com.sini.photos-0.0.6-2-roothide.deb
+Size: 3900
+MD5sum: 95c92d1f8c474cb08ed614bb8617366b
+SHA1: 
+SHA256: 6731b5bded1d50ba51a93c3974a0a92a32d716c6fcb5b53aac1e871a048abc75
+
 Package: com.sini.photos
 Filename: https://huayuarc.github.io/debs/com.sini.photos-0.0.6-2-rootless.deb
 Size: 4000
 MD5sum: f3646de20c4f2b19e2d0236904f67a8b
 SHA1: 
 SHA256: 603727e771ebd45e485f19b42af5a467dfa5888d8feef7c14b52b9cdc79868d6
-
 Author: iOSign
 Architecture: iphoneos-arm64e
 Description: 自用备份。
@@ -21963,13 +21843,6 @@ Version: 0.0.6-2
 Depends: mobilesubstrate (>= 0.9.5000)
 Name: 相册增强
 Section: Tweaks
-Package: com.sini.photos
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://huayuarc.github.io/debs/com.sini.photos-0.0.6-2-roothide.deb
-Size: 3900
-MD5sum: 95c92d1f8c474cb08ed614bb8617366b
-SHA1: 
-SHA256: 6731b5bded1d50ba51a93c3974a0a92a32d716c6fcb5b53aac1e871a048abc75
 
 Package: com.sini.picsewpro
 Name: PicsewPro
@@ -21988,17 +21861,8 @@ Size: 25100
 MD5sum: 3d1a781e89dac5f94edfe03b9f521507
 SHA1: 
 SHA256: 64e7518cb4c55aa79a976174f0c3084c86e6be18796fa418b3ec6d85b7ea72fe
-
-Author: Ruphane
-Architecture: iphoneos-arm64
-Description: 在iOS16系统上启用AirPods蓝牙耳机弹窗
-Maintainer: sini921
-Version: 0.4.0~prerelease1
-Depends: mobilesubstrate (>= 0.9.5000)
-Name: PodsGrant
-Section: Tweaks
 Sponsor: sini921
-Installed-Size: 648
+
 Package: com.sini.podsgrant
 icon: https://sini921.github.io/repo/sileodepiction/icon/airpods16.png
 Filename: https://huayuarc.github.io/debs/com.sini.podsgrant_0.4.0~prerelease1_iphoneos-arm64.deb
@@ -22252,26 +22116,15 @@ Size: 41792
 MD5sum: 051dbc7c29121302d05649d62bd6dd21
 SHA1: 
 SHA256: fce4497a04b133ce1ce1018a01f903967e5c30a04aae3f69a695290d63a3df2f
-
-Author: 34306
-Architecture: iphoneos-arm64
-Description: 在“设置”的“关于”页面中删除有关“未知部件”或“部件和服务历史记录”的信息。
-icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/replaced/js.json
-Maintainer: sini921
-Version: 1.0
-Depends: mobilesubstrate, firmware (>= 15.0)
-Name: Replaced
-Section: Tweaks
 Sponsor: sini921
 Installed-Size: 152
+
 Package: com.sini.replaced
 Filename: https://huayuarc.github.io/debs/com.sini.replaced_1.0_iphoneos-arm64.deb
 Size: 3336
 MD5sum: 68354b5895eabf64e85ccb62666e1af4
 SHA1: 
 SHA256: f9bd251a6af96fa2b0cc669d2a05b6a17212cdfeca07225e328e0d631fe4da0e
-
 Author: Antoine
 Architecture: iphoneos-arm64
 Description: 永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存。季伯宇强烈推荐
@@ -22281,6 +22134,7 @@ Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common 
 Name: Senri
 Section: Tweaks
 Sponsor: sini921
+
 Package: com.sini.senri
 icon: https://sini921.github.io/repo/sileodepiction/icon/senri.png
 Filename: https://huayuarc.github.io/debs/com.sini.senri_1.1_iphoneos-arm64.deb
@@ -22288,24 +22142,30 @@ Size: 205404
 MD5sum: 126ac24e66982687f25985fac8f12b81
 SHA1: 
 SHA256: 8dd0322c3ef738de63ae83270b3c42cbbe3abdfa480580823ace88ad089de3d8
-
 Author: SOPPPra
 Architecture: iphoneos-arm64
 Description: 设置美化，插件归类。
-Icon: https://huayuarc.github.io/icon/settingsrevamp.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.json
 Maintainer: SOPPPra
 Version: 3.0.1
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Name: SettingsRevamp
 Section: Tweaks
+
+Package: com.sini.settingsrevamp
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: https://huayuarc.github.io/debs/com.sini.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 333658
+MD5sum: 883b874fe56967f0576c25d8bb9f639e
+SHA1: 
+SHA256: 9ee80a4bbd600f7021d4a5d17664de55598345f9d834c338d75888d40118f2b3
+
 Package: com.sini.settingsrevamp
 Filename: https://huayuarc.github.io/debs/com.sini.settingsrevamp_3.0.1_iphoneos-arm64.deb
 Size: 338622
 MD5sum: 60517b9d806a680662cb1ce41864beba
 SHA1: 
 SHA256: 1d331a25f2ee6baf571d8b7c4b6df294b129b037caebbcbb424a1b6dcdf50cc8
-
 Author: SOPPPra
 Architecture: iphoneos-arm64e
 Description: 设置美化，插件归类。
@@ -22316,13 +22176,6 @@ Version: 3.0.1
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Name: SettingsRevamp
 Section: Tweaks
-Package: com.sini.settingsrevamp
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://huayuarc.github.io/debs/com.sini.settingsrevamp_3.0.1_iphoneos-arm64e.deb
-Size: 333658
-MD5sum: 883b874fe56967f0576c25d8bb9f639e
-SHA1: 
-SHA256: 9ee80a4bbd600f7021d4a5d17664de55598345f9d834c338d75888d40118f2b3
 
 Package: com.sini.shortvideodl
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
@@ -22360,15 +22213,6 @@ MD5sum: 591b72ea736a3293140b5b52c96d6b8a
 SHA1: 
 SHA256: e27e0ebb90d8aec3a9b5c3d8d2ae9b6a914338c720fd64ff06d48f894a7f88ac
 
-Author: CreatureSurvive <support@creaturecoding.com>
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Description: 简单的设置归类，没有花里胡哨的功能
-Version: 1.6.2
-Depends: com.creaturecoding.libcspreferences
-Section: Tweaks
-Name: Shuffle
-Installed-Size: 1484
 Package: com.sini.shuffle
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/shuffle/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
@@ -22551,7 +22395,7 @@ Description: 搜狗输入法，去广告，解锁内购（点击购买后取消�
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate
 Priority: optional
-Author: iosrxwy 
+Author: iosrxwy
 Maintainer: sini921
 icon: https://sini921.github.io/repo/sileodepiction/icon/sougou.png
 Architecture: iphoneos-arm64
@@ -22560,16 +22404,8 @@ Size: 99940
 MD5sum: d0cf2a86f513fbfc67ace1a483b53588
 SHA1: 
 SHA256: e5748d778b86e34796bcd683568e1023a719fbe3ba56296cb80461a8e2657523
-
-Author: Skitty & EvenDev
-Architecture: iphoneos-arm64
-Description: 自定义系统颜色(简体中文来自刀刀源)
-Maintainer: Skitty
-Version: 1.1
-Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
-Name: Spectrum
-Section: Tweaks
 Installed-Size: 580
+
 Package: com.sini.spectrum
 icon: https://sini921.github.io/repo/sileodepiction/icon/spec.png
 Filename: https://huayuarc.github.io/debs/com.sini.spectrum_1.1_iphoneos-arm64.deb
@@ -22577,10 +22413,9 @@ Size: 56592
 MD5sum: 0bb0c06982c190dbb024c915413cbfa8
 SHA1: 
 SHA256: e52e6ebe4fcffbbb548504d09f5f82c0616fc1e75fa235838a94fec433d91d94
-
 Maintainer: 0xkuj
-icon: https://sini921.github.io/repo/sileodepiction/icon/staypro.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/staypro/js.json
+
 Package: com.sini.staypro
 Name: Stay Pro
 Description: 解锁Pro
@@ -22631,13 +22466,6 @@ MD5sum: b0b0cb8a24947f232b63b9a0bf46b005
 SHA1: 
 SHA256: ab7173ff54f6d9ed0e16856fe78be4400e096fc3e5d280782fa5de3dbd106531
 
-Author: ETHN <ethanwhited2208@gmail.com>
-Architecture: iphoneos-arm64
-Section: Tweaks
-Maintainer: ETHN <ethanwhited2208@gmail.com>
-Version: 1.2
-Name: StepUp
-Description: 音量实体按键步进数量设置
 Package: com.sini.stepup
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/stepup/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/stepup.png
@@ -22834,17 +22662,9 @@ Size: 102200
 MD5sum: d2bd024648f67ea3a70bd7f50b6203df
 SHA1: 
 SHA256: e0188de5a505a65f1442a73b7ee9998452afe18f25e435815582db167619296f
-
-Author: P2KDev
-Architecture: iphoneos-arm64
-Description: 根据你的软件图标颜色来自适应角标颜色，季伯宇强烈推荐
-Maintainer: sini921
-Version: 1.2.2
-Depends: firmware (>= 15.0), mobilesubstrate, ws.hbang.alderis
-Name: Tinge
-Section: Tweaks
 Conflicts: cpm.dao.tinge.cn
 Sponsor: sini921
+
 Package: com.sini.tinge
 icon: https://sini921.github.io/repo/sileodepiction/icon/tinge.png
 Filename: https://huayuarc.github.io/debs/com.sini.tinge_1.2.2_iphoneos-arm64.deb
@@ -22924,25 +22744,14 @@ Size: 10364
 MD5sum: 431f4a920da266eeaa9a4bd00936800e
 SHA1: 
 SHA256: e1e96ad6f01aa199ecfd50721ea99bcdeba6467fa96c9ea2f58e655086a22b1d
-
-Author: NoisyFlake
-Architecture: iphoneos-arm64
-Description: 通知横幅美化
-Maintainer: 妖刀
-Version: 2.2
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Name: Velvet 2
-Section: Tweaks
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/velvet/js.json
-icon: https://sini921.github.io/repo/sileodepiction/icon/velvet.png
+
 Package: com.sini.velvet2
 Filename: https://huayuarc.github.io/debs/com.sini.velvet2_2.2_iphoneos-arm64.deb
 Size: 100036
 MD5sum: 7b770e3427ab2daabb217b3d1c14ce24
 SHA1: 
 SHA256: 798349d7dd53ecffab9fea69fc183f88603823d6975c94df42df854748937797
-
 Author: ethxnn88 <ethxnn88@gmail.com>
 Architecture: iphoneos-arm64
 Description: 启动原生灵动岛。仅支持ios16系统以上，非iOS16系统不要装。
@@ -22951,22 +22760,7 @@ Version: 2.0
 Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Name: 启用原生灵动岛
 Section: Tweaks
-Package: com.sini.visibleisland
-icon: https://sini921.github.io/repo/sileodepiction/icon/ldd.png
-Filename: https://huayuarc.github.io/debs/com.sini.visibleisland-2.0-rootless.deb
-Size: 28404
-MD5sum: c437b4ed3aae5a92d25da3d0bbe91f7a
-SHA1: 
-SHA256: ead79fe202f26b2f9aab0597871d3640d176540c61930472a6cc3ad580d67e9f
 
-Author: ethxnn88 <ethxnn88@gmail.com>
-Architecture: iphoneos-arm64e
-Description: 启动原生灵动岛。仅支持iOS16系统以上，非iOS16系统不要装。
-Maintainer: ethxnn88 <ethxnn88@gmail.com>
-Version: 2.0
-Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Name: 启用原生灵动岛
-Section: Tweaks
 Package: com.sini.visibleisland
 icon: https://sini921.github.io/repo/sileodepiction/icon/ldd.png
 Pre-Depends: rootless-compat(>= 0.9)
@@ -22975,6 +22769,22 @@ Size: 27304
 MD5sum: 22f78708815e114778e3496072e79ce1
 SHA1: 
 SHA256: 54c5ee513ec98411cfd4f49722fbecdc73c318e257c6ab690053f0207b77ee24
+
+Package: com.sini.visibleisland
+icon: https://sini921.github.io/repo/sileodepiction/icon/ldd.png
+Filename: https://huayuarc.github.io/debs/com.sini.visibleisland-2.0-rootless.deb
+Size: 28404
+MD5sum: c437b4ed3aae5a92d25da3d0bbe91f7a
+SHA1: 
+SHA256: ead79fe202f26b2f9aab0597871d3640d176540c61930472a6cc3ad580d67e9f
+Author: ethxnn88 <ethxnn88@gmail.com>
+Architecture: iphoneos-arm64e
+Description: 启动原生灵动岛。仅支持iOS16系统以上，非iOS16系统不要装。
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Version: 2.0
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Name: 启用原生灵动岛
+Section: Tweaks
 
 Package: com.sini.vitreux
 Name: Vitreux
@@ -23389,14 +23199,6 @@ MD5sum: ee0047603c22f018e6f48a1f26c574e5
 SHA1: 
 SHA256: 5b3a75d00cfc3871996a0b90667a08d927d5521cca09daec7f5b37db8fd510e7
 
-Author: Dcsyhi 
-Architecture: iphoneos-arm64
-Description: Zetsu1.5中文版(简体中文来自刀刀源)，此版本仅有小窗模式，不会提示更新，为不需要原作者后续新出的功能的人上传备份。
-Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Version: 1.5
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport, ws.hbang.common
-Name: Zetsu
-Section: Tweaks
 Package: com.sini.zetsu
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
@@ -23552,13 +23354,6 @@ MD5sum: 4e8a0eaf31aba7e40815f61a0cb53768
 SHA1: 832364ffa89ba8038e461d6f49fc702618310be6
 SHA256: 3ef112c231ffcf1ee663a08c8fe2a9c5746ea4593cc894c643cf00c6afc00e65
 
-Author: ren7995 & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
-Maintainer: ren7995 & SINI
-Name: Atria
 Package: com.sini921.atria
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -23569,7 +23364,6 @@ Size: 215408
 MD5sum: 00745b635a1dcc8277d1ca4d873cbb33
 SHA1: 
 SHA256: 10e420682bad62a5e136c98b1f616b3b3c4827f12595cde62a98f082ea03a3da
-
 Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
@@ -23577,6 +23371,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Maintainer: ren7995 & SINI
 Name: Atria
+
 Package: com.sini921.atria
 Section: Tweaks
 Architecture: iphoneos-arm64e
@@ -25003,7 +24798,7 @@ Description: 在主屏幕桌面双击一键锁屏。Double tab to lock on HomeSc
  .
  - 此为roothide/arm64e版本，不要安装错了。
  - Roothide/Bootstrap+Serotonin半越狱用户：
-   - 请不要转换/不要转换/不要转换，否则会有弹窗提示，请直接安装Roohide/arm64e版本。
+ - 请不要转换/不要转换/不要转换，否则会有弹窗提示，请直接安装Roohide/arm64e版本。
 Depends: mobilesubstrate (>= 0.9.5000)
 Installed-Size: 304
 Section: Tweaks
@@ -25024,7 +24819,7 @@ Description: 在主屏幕桌面双击一键锁屏。Double tab to lock on HomeSc
  .
  - 此为rootless/arm64版本，不要安装错了。
  - Roothide/Bootstrap+Serotonin半越狱用户：
-   - 请不要转换/不要转换/不要转换，否则会有弹窗提示，请直接安装Roohide/arm64e版本。
+ - 请不要转换/不要转换/不要转换，否则会有弹窗提示，请直接安装Roohide/arm64e版本。
 Depends: mobilesubstrate (>= 0.9.5000)
 Installed-Size: 304
 Section: Tweaks
@@ -25759,45 +25554,45 @@ Icon: https://jimkanuo.github.io/apt-repo/depiction/splitviewpro/icon.png
 SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.sunshinesong.split-view-pro.json
 Description: iOS 17 隐根（RootHide）优化版的真分屏插件，把任意 App 塞进可选大小的浮窗，
  同时开多个窗口、边看视频边聊天、边看文档边回消息。
-  .
-  【核心功能】
-  - 真浮窗分屏：任意 App 在独立浮窗中运行，可拖动、缩放、圆角可调
-  - 三屏模式：主窗口 + 左右两个小窗同时运行，配合自带 arc 环形菜单呼出
-  - arc 环形菜单：从屏幕角落滑出，1->4 层同心环，按钮大小与弧半径可调，
-    支持震动反馈、触控音效、松手收回
-  - 控制台：可排序的 App 工具栏，关闭时可选择是否一并关闭小窗应用
-  - 浮窗增强：极简模式、自动钉住、图钉位置（横/竖屏分别设置）、
-    竖屏浮窗固定在屏中心、横屏键盘弹起时放大浮窗
-  - 桌面唤起：开启后从桌面图标直接唤起对应 App 的浮窗
-  - 手势快捷：可选择手势快速呼出浮窗，摇晃手机打开分屏
-  - 悬浮图标：图标阴影与悬停透明度可调，已打开 App 可设为浮窗打开
-  .
-  【iOS 17 隐根适配】
-  - 主插件、键盘窗口、媒体、设置、UI 与兼容库共 7 个组件全部 arm64 + arm64e 双架构
-  - .roothidepatch 隐根重定向链接完整，适合 RootHide（Dopamine 2 / roothide 越狱）
-  - 键盘弹出时应用画面进入独立整屏窗口，键盘保持原生宽度与触摸区域，
-    收回后恢复原窗口几何；输入期间隐藏角落图标
-  - 浮窗尺寸记忆：按模式、横竖屏分别保存，重开浮窗后自动恢复上次大小
-  - 左上角 App 图标：轻点进入全屏，全屏中轻点同一图标返回分屏
-  - 长按左上角图标约 0.5 秒，把画面旋转 90 度移入顶部音乐区域
-  - 保留启动保护与设置刷新保护，覆盖安装不清除已保存配置与浮窗尺寸
-  .
-  【2.1.0 重点】
-  - 键盘收起还原提速：直接订阅正在输入的 App 回报，优先处理它的 WillHide
-  - 应用回报绝对结束时间，迟到的 Hide 只用剩余时间，不再播放完整缩窗动画
-  - 还原动画改缓出曲线，兜底时长不超过 0.22 秒；完成即清理保护与触摸接管
-  - 漏发 Hide 时编辑结束确认从 100ms 缩到 32ms，避免切换编辑器时误退出
-  .
-  【安装说明】
-  - 使用 RootHide 包管理器（Sileo / Zebra）覆盖安装，装完按提示注销一次
-  - 注销后请彻底退出并重开要用来分屏的 App，让 App 端组件加载新代码
-  - 设置路径：设置 > split-view-pro；开启开关后部分功能需注销才生效
-  - 需要 rootless-compat（rootless 兼容层），已随越狱环境提供
-  .
-  【已知限制】
-  - 本版为 iOS 17 适配分支，仅测试到 iOS 17 隐根环境；其他系统版本未验证
-  - 第三方输入法与自绘视频播放器的方向识别可能不准，需真机实测
-  - 与原版 Split View Pro 及第三方改版（cypwn / jtis / tqm-mos / bvn）冲突，需先卸载
+ .
+ 【核心功能】
+ - 真浮窗分屏：任意 App 在独立浮窗中运行，可拖动、缩放、圆角可调
+ - 三屏模式：主窗口 + 左右两个小窗同时运行，配合自带 arc 环形菜单呼出
+ - arc 环形菜单：从屏幕角落滑出，1->4 层同心环，按钮大小与弧半径可调，
+ 支持震动反馈、触控音效、松手收回
+ - 控制台：可排序的 App 工具栏，关闭时可选择是否一并关闭小窗应用
+ - 浮窗增强：极简模式、自动钉住、图钉位置（横/竖屏分别设置）、
+ 竖屏浮窗固定在屏中心、横屏键盘弹起时放大浮窗
+ - 桌面唤起：开启后从桌面图标直接唤起对应 App 的浮窗
+ - 手势快捷：可选择手势快速呼出浮窗，摇晃手机打开分屏
+ - 悬浮图标：图标阴影与悬停透明度可调，已打开 App 可设为浮窗打开
+ .
+ 【iOS 17 隐根适配】
+ - 主插件、键盘窗口、媒体、设置、UI 与兼容库共 7 个组件全部 arm64 + arm64e 双架构
+ - .roothidepatch 隐根重定向链接完整，适合 RootHide（Dopamine 2 / roothide 越狱）
+ - 键盘弹出时应用画面进入独立整屏窗口，键盘保持原生宽度与触摸区域，
+ 收回后恢复原窗口几何；输入期间隐藏角落图标
+ - 浮窗尺寸记忆：按模式、横竖屏分别保存，重开浮窗后自动恢复上次大小
+ - 左上角 App 图标：轻点进入全屏，全屏中轻点同一图标返回分屏
+ - 长按左上角图标约 0.5 秒，把画面旋转 90 度移入顶部音乐区域
+ - 保留启动保护与设置刷新保护，覆盖安装不清除已保存配置与浮窗尺寸
+ .
+ 【2.1.0 重点】
+ - 键盘收起还原提速：直接订阅正在输入的 App 回报，优先处理它的 WillHide
+ - 应用回报绝对结束时间，迟到的 Hide 只用剩余时间，不再播放完整缩窗动画
+ - 还原动画改缓出曲线，兜底时长不超过 0.22 秒；完成即清理保护与触摸接管
+ - 漏发 Hide 时编辑结束确认从 100ms 缩到 32ms，避免切换编辑器时误退出
+ .
+ 【安装说明】
+ - 使用 RootHide 包管理器（Sileo / Zebra）覆盖安装，装完按提示注销一次
+ - 注销后请彻底退出并重开要用来分屏的 App，让 App 端组件加载新代码
+ - 设置路径：设置 > split-view-pro；开启开关后部分功能需注销才生效
+ - 需要 rootless-compat（rootless 兼容层），已随越狱环境提供
+ .
+ 【已知限制】
+ - 本版为 iOS 17 适配分支，仅测试到 iOS 17 隐根环境；其他系统版本未验证
+ - 第三方输入法与自绘视频播放器的方向识别可能不准，需真机实测
+ - 与原版 Split View Pro 及第三方改版（cypwn / jtis / tqm-mos / bvn）冲突，需先卸载
 Filename: https://huayuarc.github.io/debs/com.sunshinesong.split-view-pro-2.1.0-roothide.deb
 Size: 1688600
 MD5sum: ddafc015d411a0738fb225c3f121f87c
@@ -29411,13 +29206,13 @@ Version: 3.1.1
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Section: Tweaks
 Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
-Conflicts:
-Replaces:
+Conflicts: 
+Replaces: 
 Priority: optional
 Architecture: iphoneos-arm64
 Author: xybp888
 dev: xybp888
-Homepage:
+Homepage: 
 Maintainer: xybp888
 icon: https://huayuarc.github.io/icon/callassist.png
 Filename: https://huayuarc.github.io/debs/com.xybp888.callassist16.dopamine-3.1.1-rootless.deb
@@ -29432,13 +29227,13 @@ Version: 3.1.1
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Section: Tweaks
 Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
-Conflicts:
-Replaces:
+Conflicts: 
+Replaces: 
 Priority: optional
 Architecture: iphoneos-arm64e
 Author: xybp888
 dev: xybp888
-Homepage:
+Homepage: 
 Maintainer: xybp888
 icon: https://huayuarc.github.io/icon/callassist.png
 Filename: https://huayuarc.github.io/debs/com.xybp888.callassist16.dopamine.roothide-3.1.1-roothide.deb
@@ -30436,7 +30231,7 @@ SHA256: fa403c92a3005c87a03ba95cbd1625d71fa4b96d52615959fe5400d86141389b
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30455,7 +30250,7 @@ SHA256: 529aee3a38f8df0efbeb06c252e9ee396377da71bcddf06a98e763a0eaaf6e6b
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30475,7 +30270,7 @@ SHA256: 9dc10de0753252f4eedece45c3b77d6852dbf2a0783a6b48e19fb461635bc2a2
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30494,7 +30289,7 @@ SHA256: f5f6a333a7a652aa87a20722fa6816aa1e97ec83793a7630187ce194707a0822
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30514,7 +30309,7 @@ SHA256: dd55d2f76b2e0978dcb802285b68f7e6b1e01b12d511bb1006c60ab683452d15
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30533,7 +30328,7 @@ SHA256: 9596b4868cb6ae5d5936940ba970deab2484fff110334c9ed9f2763a33a24efc
 Package: com.zooah.swipedeck
 Name: SwipeDeck - 快捷助手
 Description: Quick action panel accessible by swiping up from the bottom-right corner.
-             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+ Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
 Maintainer: zooah212
 Author: zooah212
 Section: Tweaks
@@ -30693,38 +30488,38 @@ Package: dev.owngoal.settingsorganizer
 Version: 0.1.2
 Architecture: iphoneos-arm64
 Description: 设置分类收纳、首页与二级菜单布局、自定义名称、壁纸和横幅。
-  【插件介绍】
-  将插件、系统功能和应用设置分类收纳，让设置首页更整洁。
+ 【插件介绍】
+ 将插件、系统功能和应用设置分类收纳，让设置首页更整洁。
  .
-  【主要功能】
-  · 分类管理：手动调整分类，长按条目修改显示名称。
-  · 外观设置：自选壁纸和横幅，调整遮罩及横幅高度。
-  · 导航文字：自定义首页标题与左上角返回文字。
-  · 账户入口：可隐藏首页 Apple ID 入口，不修改账户。
+ 【主要功能】
+ · 分类管理：手动调整分类，长按条目修改显示名称。
+ · 外观设置：自选壁纸和横幅，调整遮罩及横幅高度。
+ · 导航文字：自定义首页标题与左上角返回文字。
+ · 账户入口：可隐藏首页 Apple ID 入口，不修改账户。
  .
-  【0.1.2 更新】
-  修复「分析数据」搜索：解决搜索框消失、无法点击和输入的问题，恢复关键词筛选。
+ 【0.1.2 更新】
+ 修复「分析数据」搜索：解决搜索框消失、无法点击和输入的问题，恢复关键词筛选。
  .
-  【0.1.1 更新】
-  修复插件页面退到桌面后，再打开设置回到首页的问题。
+ 【0.1.1 更新】
+ 修复插件页面退到桌面后，再打开设置回到首页的问题。
  .
-  【0.1.0 更新】
-  1. 修复搜索输入：修复 Choicy「应用程序」列表搜索框无法输入的问题。
-  2. 修复图标加载：修复重启设置后首次进入「第三方 App」图标延迟显示的问题。
+ 【0.1.0 更新】
+ 1. 修复搜索输入：修复 Choicy「应用程序」列表搜索框无法输入的问题。
+ 2. 修复图标加载：修复重启设置后首次进入「第三方 App」图标延迟显示的问题。
  .
-  【0.0.9 更新】
-  1. 新增首页布局：支持居中、九宫格、双列、最左侧、最右侧、紧凑列表，共六种样式。九宫格默认三列，首页八个分类入口占八格。
-  2. 新增二级菜单布局：收纳分类列表支持六种样式，可独立选择或跟随首页。支持多行名称和大字号适配，保留条目跳转与长按改名。
-  3. 调整选项位置：以下四项集中放在「壁纸无遮罩」下方：
-  · 左上角返回文字、首页左上角标题、首页布局、二级菜单布局。
+ 【0.0.9 更新】
+ 1. 新增首页布局：支持居中、九宫格、双列、最左侧、最右侧、紧凑列表，共六种样式。九宫格默认三列，首页八个分类入口占八格。
+ 2. 新增二级菜单布局：收纳分类列表支持六种样式，可独立选择或跟随首页。支持多行名称和大字号适配，保留条目跳转与长按改名。
+ 3. 调整选项位置：以下四项集中放在「壁纸无遮罩」下方：
+ · 左上角返回文字、首页左上角标题、首页布局、二级菜单布局。
  .
-  【使用方法】
-  设置 → 我的插件 → 设置插件收纳 → 收纳与外观。
-  选择布局后，返回对应页面查看。安装更新后，请关闭并重新打开设置。
+ 【使用方法】
+ 设置 → 我的插件 → 设置插件收纳 → 收纳与外观。
+ 选择布局后，返回对应页面查看。安装更新后，请关闭并重新打开设置。
  .
-  【适用范围】
-  二级布局仅作用于收纳分类列表，不调整系统详情页或第三方插件内部页面。
-  壁纸主要适用于支持的 UIKit 页面，部分自绘页面可能遮挡。
+ 【适用范围】
+ 二级布局仅作用于收纳分类列表，不调整系统详情页或第三方插件内部页面。
+ 壁纸主要适用于支持的 UIKit 页面，部分自绘页面可能遮挡。
 Name: 设置插件收纳
 icon: https://huayuarc.github.io/icon/settingsorganizer.png
 Author: MoWang
@@ -30742,38 +30537,38 @@ Package: dev.owngoal.settingsorganizer
 Version: 0.1.2
 Architecture: iphoneos-arm64e
 Description: 设置分类收纳、首页与二级菜单布局、自定义名称、壁纸和横幅。
-  【插件介绍】
-  将插件、系统功能和应用设置分类收纳，让设置首页更整洁。
+ 【插件介绍】
+ 将插件、系统功能和应用设置分类收纳，让设置首页更整洁。
  .
-  【主要功能】
-  · 分类管理：手动调整分类，长按条目修改显示名称。
-  · 外观设置：自选壁纸和横幅，调整遮罩及横幅高度。
-  · 导航文字：自定义首页标题与左上角返回文字。
-  · 账户入口：可隐藏首页 Apple ID 入口，不修改账户。
+ 【主要功能】
+ · 分类管理：手动调整分类，长按条目修改显示名称。
+ · 外观设置：自选壁纸和横幅，调整遮罩及横幅高度。
+ · 导航文字：自定义首页标题与左上角返回文字。
+ · 账户入口：可隐藏首页 Apple ID 入口，不修改账户。
  .
-  【0.1.2 更新】
-  修复「分析数据」搜索：解决搜索框消失、无法点击和输入的问题，恢复关键词筛选。
+ 【0.1.2 更新】
+ 修复「分析数据」搜索：解决搜索框消失、无法点击和输入的问题，恢复关键词筛选。
  .
-  【0.1.1 更新】
-  修复插件页面退到桌面后，再打开设置回到首页的问题。
+ 【0.1.1 更新】
+ 修复插件页面退到桌面后，再打开设置回到首页的问题。
  .
-  【0.1.0 更新】
-  1. 修复搜索输入：修复 Choicy「应用程序」列表搜索框无法输入的问题。
-  2. 修复图标加载：修复重启设置后首次进入「第三方 App」图标延迟显示的问题。
+ 【0.1.0 更新】
+ 1. 修复搜索输入：修复 Choicy「应用程序」列表搜索框无法输入的问题。
+ 2. 修复图标加载：修复重启设置后首次进入「第三方 App」图标延迟显示的问题。
  .
-  【0.0.9 更新】
-  1. 新增首页布局：支持居中、九宫格、双列、最左侧、最右侧、紧凑列表，共六种样式。九宫格默认三列，首页八个分类入口占八格。
-  2. 新增二级菜单布局：收纳分类列表支持六种样式，可独立选择或跟随首页。支持多行名称和大字号适配，保留条目跳转与长按改名。
-  3. 调整选项位置：以下四项集中放在「壁纸无遮罩」下方：
-  · 左上角返回文字、首页左上角标题、首页布局、二级菜单布局。
+ 【0.0.9 更新】
+ 1. 新增首页布局：支持居中、九宫格、双列、最左侧、最右侧、紧凑列表，共六种样式。九宫格默认三列，首页八个分类入口占八格。
+ 2. 新增二级菜单布局：收纳分类列表支持六种样式，可独立选择或跟随首页。支持多行名称和大字号适配，保留条目跳转与长按改名。
+ 3. 调整选项位置：以下四项集中放在「壁纸无遮罩」下方：
+ · 左上角返回文字、首页左上角标题、首页布局、二级菜单布局。
  .
-  【使用方法】
-  设置 → 我的插件 → 设置插件收纳 → 收纳与外观。
-  选择布局后，返回对应页面查看。安装更新后，请关闭并重新打开设置。
+ 【使用方法】
+ 设置 → 我的插件 → 设置插件收纳 → 收纳与外观。
+ 选择布局后，返回对应页面查看。安装更新后，请关闭并重新打开设置。
  .
-  【适用范围】
-  二级布局仅作用于收纳分类列表，不调整系统详情页或第三方插件内部页面。
-  壁纸主要适用于支持的 UIKit 页面，部分自绘页面可能遮挡。
+ 【适用范围】
+ 二级布局仅作用于收纳分类列表，不调整系统详情页或第三方插件内部页面。
+ 壁纸主要适用于支持的 UIKit 页面，部分自绘页面可能遮挡。
 Name: 设置插件收纳
 icon: https://huayuarc.github.io/icon/settingsorganizer.png
 Author: MoWang
@@ -30829,18 +30624,18 @@ Description: 基于原作者 dylv 的 Liquid (Gl)ass 0.1.1-2b 维护自用。
  本版的改动
  - 修复锁屏快捷操作在 iOS 17 不生效的 bug
  - 新增底部弹窗/App弹窗液态玻璃；新增灵动岛液态玻璃（壁纸实时采样，展开/收起全程几何跟随）；
-   新增锁屏日期/农历行、通知清除按钮液态玻璃；新增锁屏时钟/日期渐变色
+ 新增锁屏日期/农历行、通知清除按钮液态玻璃；新增锁屏时钟/日期渐变色
  - 新增音量 HUD 液态玻璃（iOS 17，锚点 SBElasticVolumeViewController + SBElasticSliderView）
  - 音量胶囊：修正默认色调透明度过高（80%→10%）；隐藏胶囊内 depth2/depth3 原生材质让位玻璃，
-   白色填充条/音量图标保留；玻璃几何按原生胶囊内容链同心 1.318 倍对齐（修复内缩轮廓线、
-   跳位、内部小胶囊等动画异常）；胶囊形 mask 裁剪内容；每帧守护同步几何
+ 白色填充条/音量图标保留；玻璃几何按原生胶囊内容链同心 1.318 倍对齐（修复内缩轮廓线、
+ 跳位、内部小胶囊等动画异常）；胶囊形 mask 裁剪内容；每帧守护同步几何
  - 修复灵动岛黑块：对内容子树套合成级 screenBlendMode（屏幕混合方案）
  - 呼出/收起两态均显示玻璃；bezel 渲染参数修正为 7（prefs 覆盖，backboardd 立即重载）
  - 重写音量 HUD 玻璃的注入位置（二十修，经实机逐帧定位后的关键结论）：玻璃改插到
-   _CCUIBaseSliderContentView（内容视图）内部，其 bounds 就是真胶囊尺寸 46.5×146.6，
-   天然重合 —— 废弃此前"1.318 同心放大 + 自定义 mask + 宿主不能裁剪"的整套绕法
-   （那是因为玻璃一直插在外层滑块里，而外层 bounds 只有胶囊的 0.76 倍，才派生出
-   内缩线/跳位/白条错位/内部小胶囊）
+ _CCUIBaseSliderContentView（内容视图）内部，其 bounds 就是真胶囊尺寸 46.5×146.6，
+ 天然重合 —— 废弃此前"1.318 同心放大 + 自定义 mask + 宿主不能裁剪"的整套绕法
+ （那是因为玻璃一直插在外层滑块里，而外层 bounds 只有胶囊的 0.76 倍，才派生出
+ 内缩线/跳位/白条错位/内部小胶囊）
 Maintainer: dylv&泽哥
 Author: dylv&泽哥
 Section: Tweaks
@@ -30860,18 +30655,18 @@ Description: 基于原作者 dylv 的 Liquid (Gl)ass 0.1.1-2b 维护自用。
  本版的改动
  - 修复锁屏快捷操作在 iOS 17 不生效的 bug
  - 新增底部弹窗/App弹窗液态玻璃；新增灵动岛液态玻璃（壁纸实时采样，展开/收起全程几何跟随）；
-   新增锁屏日期/农历行、通知清除按钮液态玻璃；新增锁屏时钟/日期渐变色
+ 新增锁屏日期/农历行、通知清除按钮液态玻璃；新增锁屏时钟/日期渐变色
  - 新增音量 HUD 液态玻璃（iOS 17，锚点 SBElasticVolumeViewController + SBElasticSliderView）
  - 音量胶囊：修正默认色调透明度过高（80%→10%）；隐藏胶囊内 depth2/depth3 原生材质让位玻璃，
-   白色填充条/音量图标保留；玻璃几何按原生胶囊内容链同心 1.318 倍对齐（修复内缩轮廓线、
-   跳位、内部小胶囊等动画异常）；胶囊形 mask 裁剪内容；每帧守护同步几何
+ 白色填充条/音量图标保留；玻璃几何按原生胶囊内容链同心 1.318 倍对齐（修复内缩轮廓线、
+ 跳位、内部小胶囊等动画异常）；胶囊形 mask 裁剪内容；每帧守护同步几何
  - 修复灵动岛黑块：对内容子树套合成级 screenBlendMode（屏幕混合方案）
  - 呼出/收起两态均显示玻璃；bezel 渲染参数修正为 7（prefs 覆盖，backboardd 立即重载）
  - 重写音量 HUD 玻璃的注入位置（二十修，经实机逐帧定位后的关键结论）：玻璃改插到
-   _CCUIBaseSliderContentView（内容视图）内部，其 bounds 就是真胶囊尺寸 46.5×146.6，
-   天然重合 —— 废弃此前"1.318 同心放大 + 自定义 mask + 宿主不能裁剪"的整套绕法
-   （那是因为玻璃一直插在外层滑块里，而外层 bounds 只有胶囊的 0.76 倍，才派生出
-   内缩线/跳位/白条错位/内部小胶囊）
+ _CCUIBaseSliderContentView（内容视图）内部，其 bounds 就是真胶囊尺寸 46.5×146.6，
+ 天然重合 —— 废弃此前"1.318 同心放大 + 自定义 mask + 宿主不能裁剪"的整套绕法
+ （那是因为玻璃一直插在外层滑块里，而外层 bounds 只有胶囊的 0.76 倍，才派生出
+ 内缩线/跳位/白条错位/内部小胶囊）
 Maintainer: dylv&泽哥
 Author: dylv&泽哥
 Section: Tweaks
@@ -30893,13 +30688,13 @@ Name: SBLiquidGlass
 icon: https://huayuarc.github.io/icon/SBLiquidGlass.png
 Description: iOS 26 风格「液态玻璃」系统 UI 美化插件：分阶段渲染的液态玻璃材质，安全表层架构，全局生效。
  【核心功能】
-  - 系统液态玻璃：为通知中心、控制中心、Dock、状态栏等系统界面套用 iOS 26 风格透明折射玻璃材质
-  - 安全表层架构：分层渲染，降低白屏/重启风险，稳定运行
-  - 多进程注入：覆盖 Backboardd、Dock 等多个系统进程，效果全局统一
+ - 系统液态玻璃：为通知中心、控制中心、Dock、状态栏等系统界面套用 iOS 26 风格透明折射玻璃材质
+ - 安全表层架构：分层渲染，降低白屏/重启风险，稳定运行
+ - 多进程注入：覆盖 Backboardd、Dock 等多个系统进程，效果全局统一
  【使用说明】
-  - 安装后请 Respring 一次（建议注销后观察是否稳定）
-  - 设置路径：设置 → SBLiquidGlass
-  - 本包为 Rootless（arm64）版
+ - 安装后请 Respring 一次（建议注销后观察是否稳定）
+ - 设置路径：设置 → SBLiquidGlass
+ - 本包为 Rootless（arm64）版
 Maintainer: MoWang
 Author: MoWang
 Section: Tweaks
@@ -30918,13 +30713,13 @@ Name: SBLiquidGlass
 icon: https://huayuarc.github.io/icon/SBLiquidGlass.png
 Description: iOS 26 风格「液态玻璃」系统 UI 美化插件：分阶段渲染的液态玻璃材质，安全表层架构，全局生效。
  【核心功能】
-  - 系统液态玻璃：为通知中心、控制中心、Dock、状态栏等系统界面套用 iOS 26 风格透明折射玻璃材质
-  - 安全表层架构：分层渲染，降低白屏/重启风险，稳定运行
-  - 多进程注入：覆盖 Backboardd、Dock 等多个系统进程，效果全局统一
+ - 系统液态玻璃：为通知中心、控制中心、Dock、状态栏等系统界面套用 iOS 26 风格透明折射玻璃材质
+ - 安全表层架构：分层渲染，降低白屏/重启风险，稳定运行
+ - 多进程注入：覆盖 Backboardd、Dock 等多个系统进程，效果全局统一
  【使用说明】
-  - 安装后请 Respring 一次（建议注销后观察是否稳定）
-  - 设置路径：设置 → SBLiquidGlass
-  - 本包为 RootHide（arm64e）版
+ - 安装后请 Respring 一次（建议注销后观察是否稳定）
+ - 设置路径：设置 → SBLiquidGlass
+ - 本包为 RootHide（arm64e）版
 Maintainer: MoWang
 Author: MoWang
 Section: Tweaks
@@ -31574,7 +31369,6 @@ MD5sum: 88f7a1df6bd55ff8675ef06a4cbd8c5d
 SHA1: 
 SHA256: b888d5aedcefdc7fb3b2210d22799c18ac8f06a8a41aa6376d52b2024e62f57a
 
-Architecture: iphoneos-arm64
 Package: im.mjh.wclocate
 Name: 微信虚拟定位
 Version: 4.0.0
@@ -31694,7 +31488,6 @@ MD5sum: 74e3933b20bbca6ff4ffce9070cf5853
 SHA1: 7f57b7db2349b524fc714bf51c848d97f66f41c3
 SHA256: 6c1cab62cb6ee267851fd2e81285cdbb997d4ddca458f3cc9d853245d2017806
 
-Architecture: iphoneos-arm64
 Package: im.mjh.xianyuhelper
 Name: 咸鱼助手
 Version: 1.0.0
@@ -32945,8 +32738,6 @@ MD5sum: 76f0002e51a5569f85a61682065d0129
 SHA1: 7198e02eab10cf91243855c6f1097df5017c91f9
 SHA256: cc93ff4eef98cdf192b07a4e816a5f4fc04cb6678f6b3444a89383e9f6832730
 
-Author: XsF1re, ichitaso, level3tjg, LF, AD
-Maintainer: alias20, LF, AD
 Package: kr.xsf1re.vnodebypass
 Name: Vnodebypass-next
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
@@ -32979,7 +32770,7 @@ SHA256: 46874d941c2426891b7542cbb08a217191dd375bc16220816d2c742d00f92006
 
 Package: lilliana.accent
 Name: Accent Reborn
-Description: 可让你在整个系统和应用程序中更改强调色。更高效的自定义重音版本，因为它只读取一次偏好设置，而不是多次读取 Change accent colours systemwide 
+Description: 可让你在整个系统和应用程序中更改强调色。更高效的自定义重音版本，因为它只读取一次偏好设置，而不是多次读取 Change accent colours systemwide
 Maintainer: Paisseon
 Author: Paisseon
 Section: Tweaks
@@ -32996,7 +32787,7 @@ SHA256: 4d003d543f081d12f31ede51aeba79f4b939ee1bf321625d9a67d5a79f16d0a7
 
 Package: lilliana.accent
 Name: Accent Reborn
-Description: 可让你在整个系统和应用程序中更改强调色。更高效的自定义重音版本，因为它只读取一次偏好设置，而不是多次读取 Change accent colours systemwide 
+Description: 可让你在整个系统和应用程序中更改强调色。更高效的自定义重音版本，因为它只读取一次偏好设置，而不是多次读取 Change accent colours systemwide
 Maintainer: Paisseon
 Author: Paisseon
 Section: Tweaks
@@ -34099,7 +33890,6 @@ MD5sum: 9d12eac21fb317cc134bcc049b4bd050
 SHA1: 
 SHA256: f75a81a46d3df1365b314322fff688bdffe96a02e86a5f1390fe8e92b95442fd
 
-Name: DisableCTNotifyUI
 Package: netskao.disablectnotifyui
 Depends: firmware (>= 15.0), mobilesubstrate
 Author: Netskao
@@ -34554,14 +34344,8 @@ Size: 4268
 MD5sum: fbba6f8ae7c65c4b46c12a2bd2a28231
 SHA1: 
 SHA256: e48630847807e8f87f11c99208cf2b07a6e43dcaf82085cc5cc464ca0764d453
-
-Architecture: iphoneos-arm64
-Author: Evelyn
-Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/oldabi/js.json
-Section: Tweaks
-Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
-Description: 支持iOS15.0+中的传统arm64eABI。上传仅为源主测试使用，不懂这是什么的无关人员禁止安装。
+
 Package: oldabi
 Maintainer: Evelyn
 Name: Legacy arm64e Support
@@ -34889,7 +34673,6 @@ Author: Frida Developers <oleavr@nowsecure.com>
 Section: Utilities
 Conflicts: re.frida.server64
 Filename: https://huayuarc.github.io/debs/re.frida.server-17.26.1-rootless.deb
-Size: 23492012
 MD5sum: 306bea1a50e7077912dc45997f8e0ac9
 SHA1: 
 SHA256: 862b0d5fee8e5ae00e1022cb5543ff340a76df20cb27a3fabe36e9689f353fbb
@@ -36368,7 +36151,7 @@ Version: 0.1.0-1
 Depends: mobilesubstrate, com.opa334.ccsupport
 Provides: jp.akusio.backgrounderaction15 (= 0.1.0)
 Replaces: jp.akusio.backgrounderaction15
-Conflicts:  jp.akusio.backgrounderaction15
+Conflicts: jp.akusio.backgrounderaction15
 Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction15 CCSupport
 Author: @akusio_RR
@@ -36386,7 +36169,7 @@ Version: 0.1.0-1
 Depends: mobilesubstrate, com.opa334.ccsupport
 Provides: jp.akusio.backgrounderaction15 (= 0.1.0)
 Replaces: jp.akusio.backgrounderaction15
-Conflicts:  jp.akusio.backgrounderaction15
+Conflicts: jp.akusio.backgrounderaction15
 Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction15 CCSupport
 Author: @akusio_RR
@@ -36538,10 +36321,6 @@ MD5sum: 94a84d377bf62b8652892ce4705e3be7
 SHA1: 
 SHA256: dd8293bf86a0e02343a5827e4d1f32f0f95e2b3f83895f737a5ef58123e307ce
 
-Maintainer: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/2797
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2797
-icon: https://huayuarc.github.io/icon/hikari.png
 Package: xyz.cypwn.hikari
 Name: Hikari
 Description: Hikari lets you customize and enhance your device’s sound effects with ease. Hikari让您可以轻松自定义和增强设备的声音效果。
