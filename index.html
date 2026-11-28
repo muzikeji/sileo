@@ -581,7 +581,7 @@
     var dl = [];
     ['rootless','roothide'].forEach(function(a){
       var v = g.variants[a];
-      if(v && v.file) dl.push('<a class="btn" href="' + esc(BASE + v.file) + '" download>' + a + ' .deb</a>');
+      if(v && v.file) dl.push('<a class="btn" href="' + esc(/^https?:/.test(v.file) ? v.file : BASE + v.file) + '" download>' + a + ' .deb</a>');
     });
 
     body.innerHTML =

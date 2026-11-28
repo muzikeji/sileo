@@ -107,6 +107,25 @@ def main():
     for d, p, fields, size, md5, sha256, rel in debs:
         blocks.append(control_block(p, fields, size, md5, sha256, rel))
 
+    # 镜像包（deb 托管在外部源，仅索引）：重建时保留，避免被覆盖
+    mirror_file = ROOT / 'Packages.mirror'
+    if mirror_file.exists():
+        existing = set()
+        for b in blocks:
+            for line in b.splitlines():
+                if line.startswith('Package: '):
+                    existing.add(line.split(': ', 1)[1].strip())
+                    break
+        extra = [x.strip() + '\n' for x in mirror_file.read_text().split('\n\n') if x.strip()]
+        for st in extra:
+            pkg = ''
+            for line in st.splitlines():
+                if line.startswith('Package: '):
+                    pkg = line.split(': ', 1)[1].strip()
+                    break
+            if pkg and pkg not in existing:
+                blocks.append(st)
+    blocks.sort(key=lambda b: b.split('Package: ', 1)[1].split('\n', 1)[0].lower() if 'Package: ' in b else '')
     body = '\n'.join(blocks) + '\n'
 
     (ROOT / 'Packages').write_text(body)
